@@ -4,10 +4,9 @@ usage-data-config.json
 lib/extensions/_extensions.scss
 .env
 .sass-cache
-.DS_Store
 .start.pid
 .port.tmp
 public
 node_modules/*
 .tmuxp.*
-package-lock.json
+/.idea/
