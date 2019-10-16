@@ -44,6 +44,7 @@
     "require-dir": "^1.0.0",
     "sync-request": "^6.0.0",
     "universal-analytics": "^0.4.16",
+    "useful-nunjucks-filters": "^0.1.3",
     "uuid": "^3.2.1"
   },
   "greenkeeper": {

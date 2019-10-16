@@ -6,7 +6,15 @@ module.exports = function (env) {
    * @type {Object}
    */
   var filters = {}
+  filters.sortNumber = function (amountToSort, direction) {
+    function sortAmount (amountToSort, direction) {
+      return [].slice.call(amountToSort).sort(function (a, b) {
+        return (direction === 'ascending') ? a - b : b - a
+      })
+    }
 
+    return sortAmount(amountToSort, direction)
+  }
   /* ------------------------------------------------------------------
     add your methods to the filters obj below this comment block:
     @example:
