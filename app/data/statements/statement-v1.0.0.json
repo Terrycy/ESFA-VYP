@@ -1,0 +1,1339 @@
+[
+  {
+    "date": "03/10/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00"
+  },
+  {
+    "date": "30/09/2019",
+    "contractNumber": "NM100-346098",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Pupil Premium",
+    "amount": "£6,736,296.00"
+  },
+  {
+    "date": "20/09/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£205,307.00"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£514,954.00"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "AECT-1090",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£472.00"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ Apps Non-Levy (procured) - 19+ non-levy apprenticeships (procured)",
+    "amount": "£13,950.19"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships (carry-in) Reconciliation Sep 2019",
+    "amount": "£300.22"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ Apps Non-Levy (carry-in) - 19+ non-levy apprenticeships (carry-in)",
+    "amount": "£927.53"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships (carry-in) Reconciliation Sep 2019",
+    "amount": "£107.59"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "16-18 Apps Non-Levy (carry-in) - 16 to 18 non-levy apprenticeships (carry-in)",
+    "amount": "£655.07"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16-18 Apps Levy Fully Funded FCS - 16 to 18 levy funded apprenticeships",
+    "amount": "£7,397.25"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ Apps Levy Fully Funded FCS - 19+ levy funded apprenticeships",
+    "amount": "£35,037.75"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16-18 Apps Non-Levy (procured) - 16 to 18 non-levy apprenticeships (procured)",
+    "amount": "£29,077.59"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "Reconciliation Sep 2019",
+    "amount": "£1,040.08"
+  },
+  {
+    "date": "19/09/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "Capping Sep 2019",
+    "amount": "-£0.08"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£54,289.52"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,533.62"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£152,556.65"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,156.60"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,458.32"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,691.74"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,952.43"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£133,372.71"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£25,838.84"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,123.14"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£57,040.09"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£41,212.11"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,074.92"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£650.00"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£39,364.62"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£110,042.79"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£104,755.20"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,467.03"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£201.48"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,089.66"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£350.00"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,251.05"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£53,904.34"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£150.00"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,310.35"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£73,083.32"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,067.65"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£1,050.00"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,516.09"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£2,380.38"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,930.60"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£31,159.23"
+  },
+  {
+    "date": "18/09/2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£450.00"
+  },
+  {
+    "date": "04/09/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00"
+  },
+  {
+    "date": "22/08/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£345,528.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£866,660.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "AECT-1090",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£794.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "ALLC-4592",
+    "fundingGroup": "All Loans",
+    "description": "Paid-on-actual advanced learner loans bursary Profile Aug 2019",
+    "amount": "£1,731.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£19,504.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships Reconciliation Aug 2019",
+    "amount": "£2,002.95"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£1,287.53"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£175.07"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships Reconciliation Aug 2019",
+    "amount": "£1,902.67"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy funded apprenticeships Reconciliation Aug 2019",
+    "amount": "£9,318.81"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Aug 2019",
+    "amount": "£5,590.05"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Aug 2019",
+    "amount": "£2,233.36"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Aug 2019",
+    "amount": "£449.23"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Aug 2019",
+    "amount": "£5,307.17"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy funded Reconciliation Aug 2019",
+    "amount": "£42,739.02"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Capping Aug 2019",
+    "amount": "-£1,040.08"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£23,526.28"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Aug 2019",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "20/08/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Aug 2019",
+    "amount": "£5,000.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£72,232.67"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Free Meals",
+    "amount": "£2,484.79"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Bursary Funds",
+    "amount": "£14,379.60"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£17,721.10"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,533.62"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£152,556.65"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346713",
+    "fundingGroup": "16-19 Funding",
+    "description": "Maintained Special SSF Bursary Support",
+    "amount": "£30,397.52"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,156.60"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£2,851.49"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,458.32"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,691.74"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£12,294.37"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,952.43"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£16,850.96"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£133,372.71"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,400.17"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£66.67"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£25,838.84"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£7,795.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£66.67"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,123.14"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£10,699.93"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£57,040.09"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,401.06"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£41,212.11"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,562.86"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,074.92"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£650.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£107.59"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,479.56"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£39,364.62"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,088.92"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£110,042.79"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,809.34"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£104,755.20"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£3,299.30"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,467.03"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£201.48"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£4,113.80"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,089.66"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£350.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£4,279.01"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,251.05"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£7,805.78"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£53,904.34"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£150.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,310.35"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£12,293.41"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£73,083.32"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,067.65"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£8,199.10"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£1,050.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,516.09"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,089.76"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£10,662.61"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£2,380.38"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,930.60"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£31,159.23"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£450.00"
+  },
+  {
+    "date": "16/08/2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,994.25"
+  },
+  {
+    "date": "05/08/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00"
+  },
+  {
+    "date": "22/07/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,522,649.00"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-294475",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Capacity and Delivery",
+    "amount": "£765.57"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-294475",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£48,022.98"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301800",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301800",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£354,168.17"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301880",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£32,858.34"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301922",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£5,314.00"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301922",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,385.32"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301924",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£183.73"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301924",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,685.48"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301925",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "-£0.01"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301925",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£0.01"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301926",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£135,523.90"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-301927",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£36,477.24"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302048",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£4,470.41"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302048",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,828.13"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302049",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£0.01"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302049",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£32,439.72"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302050",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£95,576.44"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£5,330.71"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£166,475.19"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302114",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£375.00"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302114",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£35,409.47"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302115",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£118,237.64"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302116",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£106,388.86"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302121",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£42,232.56"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302122",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£625.58"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302122",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,155.37"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302123",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,222.24"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302124",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£59,762.91"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302125",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,048.04"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302125",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£77,872.14"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302177",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,373.06"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302178",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£109,976.17"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302272",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,984.61"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302272",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£52,024.87"
+  },
+  {
+    "date": "18/07/2019",
+    "contractNumber": "FF100-302698",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£22,794.18"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "AEC-2078",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profiled adult education budget Profile Jul 2019",
+    "amount": "£498,944.00"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£18,318.91"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£175.07"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£1,046.97"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships Reconciliation Jul 2019",
+    "amount": "£675.02"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships Reconciliation Jul 2019",
+    "amount": "£663.84"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Jul 2019",
+    "amount": "£366.29"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy funded apprenticeships Reconciliation Jul 2019",
+    "amount": "£9,528.88"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy funded Reconciliation Jul 2019",
+    "amount": "£27,590.15"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Jul 2019",
+    "amount": "£2,028.06"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Jul 2019",
+    "amount": "£5,997.06"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Jul 2019",
+    "amount": "£6,285.86"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£17,740.94"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Capping Jul 2019",
+    "amount": "-£1,040.08"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Jul 2019",
+    "amount": "£4,000.00"
+  },
+  {
+    "date": "15/07/2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Jul 2019",
+    "amount": "£2,000.00"
+  },
+  {
+    "date": "03/07/2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,681,480.00"
+  }
+]
