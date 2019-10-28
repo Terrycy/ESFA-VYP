@@ -1,57 +1,68 @@
 [
   {
+    "fundingGroupShort": "16-19 Funding",
     "fundingGroup": "16-19 Funding",
-    "amount": 5062324.75,
-    "subtotal": 5062324.75
+    "amount": "£5,062,324.75",
+    "subtotal": "£5,062,324.75"
   },
   {
+    "fundingGroupShort": "16-18 Traineeships",
     "fundingGroup": "16-18 Traineeships",
-    "amount": 0,
-    "subtotal": 5062324.75
+    "amount": "£0.00",
+    "subtotal": "£5,062,324.75"
   },
   {
+    "fundingGroupShort": "All Loans",
     "fundingGroup": "Advanced Learner Loans",
-    "amount": 1731,
-    "subtotal": 5064055.75
+    "amount": "£1,731.00",
+    "subtotal": "£5,064,055.75"
   },
   {
+    "fundingGroupShort": "Apps Carry-In",
     "fundingGroup": "Apprenticeships Carry-in",
-    "amount": 9628.31,
-    "subtotal": 5073684.06
+    "amount": "£9,628.31",
+    "subtotal": "£5,073,684.06"
   },
   {
+    "fundingGroupShort": "Apps Levy",
     "fundingGroup": "Apprenticeships Levy",
-    "amount": 166868.94,
-    "subtotal": 5240553
+    "amount": "£166,868.94",
+    "subtotal": "£5,240,553.00"
   },
   {
+    "fundingGroupShort": "ESF",
     "fundingGroup": "European Social Fund",
-    "amount": 0,
-    "subtotal": 5240553
+    "amount": "£0.00",
+    "subtotal": "£5,240,553.00"
   },
   {
+    "fundingGroupShort": "NCS",
     "fundingGroup": "National Careers Service",
-    "amount": 0,
-    "subtotal": 5240553
+    "amount": "£0.00",
+    "subtotal": "£5,240,553.00"
   },
   {
+    "fundingGroupShort": "Non-Procured AEB",
     "fundingGroup": "Non-Procured Adult Education Budget (AEB)",
-    "amount": 2432659,
-    "subtotal": 7673212
+    "amount": "£2,432,659.00",
+    "subtotal": "£7,673,212.00"
   },
   {
+    "fundingGroupShort": "Pre-16 Funding",
     "fundingGroup": "Pre-16 Funding",
-    "amount": 199184225,
-    "subtotal": 206857437
+    "amount": "£199,184,225.00",
+    "subtotal": "£206,857,437.00"
   },
   {
+    "fundingGroupShort": "Procured AEB",
     "fundingGroup": "Procured Adult Education Budget (AEB)",
-    "amount": 0,
-    "subtotal": 206857437
+    "amount": "£0.00",
+    "subtotal": "£206,857,437.00"
   },
   {
+    "fundingGroupShort": "Precured Non-Levy Apps",
     "fundingGroup": "Procured Non-Levy Apprenticeships",
-    "amount": 128077.75,
-    "subtotal": 206985514.8
+    "amount": "£128,077.75",
+    "subtotal": "£206,985,514.75"
   }
 ]
