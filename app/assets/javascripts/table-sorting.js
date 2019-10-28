@@ -83,44 +83,54 @@ $(function () {
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
     transitionDuration: 0,
-    getSortData: {
-      transactionDate: function (itemElem) {
-        var transactionDate = $(itemElem).find('.transactionDate').text()
-        return Date.parse(transactionDate)
-      },
-      contractNumber: '[data-contractNumber]',
-      fundingGroup: function (itemElem) { // function
-        var fundingGoup = $(itemElem).find('.fundingGroup').text()
-        return fundingGoup.replace(' ', '-')
-      },
-      description: '[data-description]',
-      transactionAmount: function (itemElem) { // function
-        var amountString = $(itemElem).find('.transactionAmount').text()
-        var amountValue = Number(amountString.replace(/(\£|,)/g, ''))
-        return amountValue
-      }
-    }
+    // getSortData: {
+    //   transactionDate: function (itemElem) {
+    //     var transactionDate = $(itemElem).find('.transactionDate').text()
+    //     return Date.parse(transactionDate)
+    //   },
+    //   contractNumber: '[data-contractNumber]',
+    //   fundingGroup: function (itemElem) { // function
+    //     var fundingGoup = $(itemElem).find('.fundingGroup').text()
+    //     return fundingGoup.replace(' ', '-')
+    //   },
+    //   description: '[data-description]',
+    //   transactionAmount: function (itemElem) { // function
+    //     var amountString = $(itemElem).find('.transactionAmount').text()
+    //     var amountValue = Number(amountString.replace(/(\£|,)/g, ''))
+    //     return amountValue
+    //   }
+    // }
   })
 
   var filters = {}
 
-  $('#filters select').on('change', function () {
+  $('#filters .govuk-filter-group__submenu__menu-item').on('click', function (e) {
+    e.preventDefault()
     var $this = $(this)
     // get group key
-    var filterGroup = $this.attr('data-filter-group')
+    var filterGroup = $this.parent('.govuk-filter-group__submenu').attr('data-filter-group')
+
     // set filter for group
     // filters[filterGroup] = $this.value;
-    filters[filterGroup] = $this.find(':selected').attr('data-filter')
+    filters[filterGroup] = $this.data('filter')
+
     // combine filters
     var filterValue = ''
     for (var prop in filters) {
       filterValue += filters[prop]
     }
+    console.log(filterValue)
+
     // set filter for Isotope
     $container.isotope({
       filter: filterValue
     })
   })
+
+  $('.govuk-select-multiple').select2({
+    // ...
+
+  });
 
   // bind sort button click
   $('#sorts2').on('click', 'th.govuk-table__header', function (e) {
