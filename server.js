@@ -9,6 +9,8 @@ const nunjucks = require('nunjucks')
 const sessionInCookie = require('client-sessions')
 const sessionInMemory = require('express-session')
 const cookieParser = require('cookie-parser')
+const contractData = require('./app/data/filters/contract-numbers')
+const descriptionData = require('./app/data/filters/contract-descriptions')
 const statementData = require('./app/data/statements/statement-v1.0.0.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
@@ -62,6 +64,8 @@ var useAutoStoreData = process.env.USE_AUTO_STORE_DATA || config.useAutoStoreDat
 var useCookieSessionStore = process.env.USE_COOKIE_SESSION_STORE || config.useCookieSessionStore
 var useHttps = process.env.USE_HTTPS || config.useHttps
 var gtmId = process.env.GOOGLE_TAG_MANAGER_TRACKING_ID
+const contractContent = Object.assign(contractData)
+const descriptionContent = Object.assign(descriptionData)
 const statementContent = Object.assign(statementData)
 const summaryContent = Object.assign(summaryData)
 
@@ -185,6 +189,8 @@ app.locals.releaseVersion = 'v' + releaseVersion
 app.locals.serviceName = config.serviceName
 // extensionConfig sets up variables used to add the scripts and stylesheets to each page.
 app.locals.extensionConfig = extensions.getAppConfig()
+app.locals.descriptionContent = descriptionContent
+app.locals.contractContent = contractContent
 app.locals.statementContent = statementContent
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal

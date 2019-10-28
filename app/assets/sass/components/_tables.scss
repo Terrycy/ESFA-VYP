@@ -1,0 +1,22 @@
+.govuk-table-striped {
+  tr:nth-child(even) {
+    background-color: govuk-colour("light-grey");
+  }
+
+  tr:nth-child(odd) {
+    //background-color: #FFF;
+  }
+}
+
+.totals-row{
+  background: white;
+  padding-top: 1px;
+  td, th{
+    border-top: 2px solid;
+  }
+  &:last-child{
+    td, th{
+      border-top: 2px solid;
+    }
+  }
+}
