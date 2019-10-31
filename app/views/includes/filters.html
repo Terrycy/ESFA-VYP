@@ -1,37 +1,56 @@
 <div class="govuk-filter-group" id="filters">
 	<div class="govuk-filter-group__container" role="button">
-		<span class="govuk-filter-group__container__title">Date</span>
-		<span class="govuk-filter-group__container__subtitle">Last 6 months</span>
-		<ul class="govuk-filter-group__submenu hidden" data-filter-group="transactionDate" id="byTransactionDate">
+		<a href="#" class="toggle-menu" data-target-element=".transactionDateMenu, closeOthers">
+			<span class="govuk-filter-group__container__title">Date</span>
+			<span class="govuk-filter-group__container__subtitle">Last 6 months</span>
+		</a>
+		<ul class="govuk-filter-group__submenu transactionDateMenu hidden " data-filter-group="transactionDate"
+		    id="byTransactionDate">
 			<li class="govuk-filter-group__submenu__menu-item" data-filter=".last-1-month" role="button">Last month</li>
-			<li class="govuk-filter-group__submenu__menu-item" data-filter=".last-3-months" role="button">Last three months</li>
-			<li class="govuk-filter-group__submenu__menu-item" data-filter=".last-6-months" role="button">Last six months</li>
-			<li class="govuk-filter-group__submenu__menu-item" data-filter=".custom" role="button">Custom date range</li>
+			<li class="govuk-filter-group__submenu__menu-item" data-filter=".last-3-months" role="button">Last three
+				months
+			</li>
+			<li class="govuk-filter-group__submenu__menu-item" data-filter=".last-6-months" role="button">Last six
+				months
+			</li>
+			<li class="govuk-filter-group__submenu__menu-item" data-filter=".custom" role="button">Custom date range
+			</li>
 		</ul>
 	</div>
 	<div class="govuk-filter-group__container">
-		<span class="govuk-filter-group__container__title">Refine by</span>
-		<span class="govuk-filter-group__container__subtitle">Funding Group, Description or Contract Number</span>
-		<ul class="govuk-filter-group__submenu hidden">
-			<li class="govuk-filter-group__submenu__menu-item back-link" role="button">Back
+		<a href="#" class="toggle-menu" data-target-element=".filterMenu, closeOthers">
+			<span class="govuk-filter-group__container__title">Refine by</span>
+			<span class="govuk-filter-group__container__subtitle">Funding Group, Description or Contract Number</span>
+		</a>
+		<ul class="govuk-filter-group__submenu hidden filterMenu">
+			<li class="govuk-filter-group__submenu__menu-item">
+				<a href="#" class="toggle-menu" data-target-element="#byFundingGroup">
+					Funding group
+					<span class="govuk-caption-m">Nothing selected</span>
+				</a>
 			</li>
-			<li class="govuk-filter-group__submenu__menu-item" role="button">Funding group
-				<span class="govuk-caption-m">Nothing selected</span>
+			<li class="govuk-filter-group__submenu__menu-item">
+				<a href="#" class="toggle-menu" data-target-element="#byContractNumber">
+					Contract number
+					<span class="govuk-caption-m">Nothing selected</span>
+				</a>
 			</li>
-			<li class="govuk-filter-group__submenu__menu-item" role="button">Contract number
-				<span class="govuk-caption-m">Nothing selected</span>
-			</li>
-			<li class="govuk-filter-group__submenu__menu-item" role="button">Description
-				<span class="govuk-caption-m">Nothing selected</span>
+			<li class="govuk-filter-group__submenu__menu-item" role="button">
+				<a href="#" class="toggle-menu" data-target-element="#byDescription">
+					Description
+					<span class="govuk-caption-m">Nothing selected</span>
+				</a>
 			</li>
 		</ul>
 
-		<form class="govuk-filter-group__submenu filter-form hidden" id="byFundingGroup" data-filter-group="fundingGroup">
+		<form class="govuk-filter-group__submenu filter-form hidden" id="byFundingGroup"
+		      data-filter-group="fundingGroup">
 			<fieldset class="govuk-reset-fieldset">
 				<legend class="govuk-reset-fieldset">filter by Funding group</legend>
 				{% for item in summaryContent %}
 				<label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox">{{item.fundingGroup}}
-					<input type="checkbox" class="filter-checkbox" data-filter=".{{item.fundingGroupShort | replace(' ', '-')}}"
+					<input type="checkbox" class="filter-checkbox"
+					       data-filter=".{{item.fundingGroupShort | replace(' ', '-')}}"
 					       value=".{{item.fundingDescriptionShort | replace(' ', '-')}}">
 					<span class="checkmark"></span>
 				</label>
@@ -46,12 +65,14 @@
 			</fieldset>
 		</form>
 
-		<form class="govuk-filter-group__submenu filter-form hidden" id="byContractNumber" data-filter-group="contractNumber">
-			<fieldset class="govuk-reset-fieldset" >
+		<form class="govuk-filter-group__submenu filter-form hidden" id="byContractNumber"
+		      data-filter-group="contractNumber">
+			<fieldset class="govuk-reset-fieldset">
 				<legend class="govuk-reset-fieldset">Filter by contract number</legend>
 				{% for item in contractContent %}
 				<label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox">{{item.contractNumber}}
-					<input type="checkbox" class="filter-checkbox" data-filter=".{{item.contractNumber | replace(' ', '-')}}"
+					<input type="checkbox" class="filter-checkbox"
+					       data-filter=".{{item.contractNumber | replace(' ', '-')}}"
 					       value=".{{item.contractNumber | replace(' ', '-')}}">
 					<span class="checkmark"></span>
 				</label>
@@ -67,11 +88,12 @@
 		</form>
 
 		<form class="govuk-filter-group__submenu filter-form hidden" id="byDescription" data-filter-group="description">
-			<fieldset class="govuk-reset-fieldset" >
-				<legend class="govuk-reset-fieldset">Filter by contract number</legend>
+			<fieldset class="govuk-reset-fieldset">
+				<legend class="govuk-reset-fieldset">Filter by description</legend>
 				{% for item in descriptionContent %}
 				<label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox">{{item.description}}
-					<input type="checkbox" class="filter-checkbox" data-filter=".{{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}"
+					<input type="checkbox" class="filter-checkbox"
+					       data-filter=".{{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}"
 					       value=".{{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}">
 					<span class="checkmark"></span>
 				</label>

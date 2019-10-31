@@ -7,62 +7,63 @@ GOV.UK Prototype Kit
 {% block content %}
 
 <div class="govuk-grid-row">
-    <div class="govuk-grid-column-full-from-desktop">
-        <h1 class="govuk-heading-xl">
-            View Your Payments
-            <span class="govuk-caption-xl">{{releaseVersion}}</span>
-        </h1>{{releaseVersion | log }}
-        <p>
-View Your Payments has been setup to help our users better understand what they have been paid by the ESFA.
-        </p>
+	<div class="govuk-grid-column-full-from-desktop">
+		<h1 class="govuk-heading-xl">
+			View Your Payments
+			<span class="govuk-caption-xl">{{releaseVersion}}</span>
+		</h1>{{releaseVersion | log }}
+		<p>
+			View Your Payments has been setup to help our users better understand what they have been paid by the ESFA.
+		</p>
 
-        <p>
-            Click on the links below to go to a version of the prototype you would like to see.
-        </p>
+		<p>
+			Click on the links below to go to a version of the prototype you would like to see.
+		</p>
 
-        <h2 class="govuk-heading-m">About this page</h2>
+		<h2 class="govuk-heading-m">About this page</h2>
 
-        <table class="govuk-table">
-            <caption class="govuk-table__caption visually-hidden">List of versions</caption>
-            <thead class="govuk-table__head">
-            <tr class="govuk-table__row">
-                <th class="govuk-table__header" scope="col">Version</th>
-                <th class="govuk-table__header" scope="col">Changelog</th>
-                <th class="govuk-table__header" scope="col" colspan="2">Links</th>
-            </tr>
-            </thead>
-            <tbody class="govuk-table__body">
-            <tr class="govuk-table__row">
-                <th class="govuk-table__header" scope="row">1.0.0</th>
-                <td class="govuk-table__cell ">
-                    <ul class="govuk-list govuk-list--bullet">
-                        <li>Statement created</li>
-                    </ul>
-                </td>
-                <td class="govuk-table__cell "><a href="/v100/statement" title="Statement version one" role="link">Statement</a> </td>
-            </tr>
-            <tr class="govuk-table__row">
-                <th class="govuk-table__header" scope="row">0.0.1</th>
-                <td class="govuk-table__cell ">
-                    <ul class="govuk-list govuk-list--bullet">
-                        <li>Created home/landing to link to prototype</li>
-                    </ul>
-                </td>
-                <td class="govuk-table__cell "></td>
-            </tr>
-            <tr class="govuk-table__row">
-                <th class="govuk-table__header" scope="row">Initial commit v0.0.0</th>
-                <td class="govuk-table__cell ">
-                    <ul class="govuk-list govuk-list--bullet">
-                        <li>Uploaded default GDS template</li>
-                    </ul>
-                </td>
-                <td class="govuk-table__cell "></td>
+		<table class="govuk-table">
+			<caption class="govuk-table__caption visually-hidden">List of versions</caption>
+			<thead class="govuk-table__head">
+			<tr class="govuk-table__row">
+				<th class="govuk-table__header" scope="col">Version</th>
+				<th class="govuk-table__header" scope="col">Changelog</th>
+				<th class="govuk-table__header" scope="col" colspan="2">Links</th>
+			</tr>
+			</thead>
+			<tbody class="govuk-table__body">
+			<tr class="govuk-table__row">
+				<th class="govuk-table__header" scope="row">1.0.0</th>
+				<td class="govuk-table__cell ">
+					<ul class="govuk-list govuk-list--bullet">
+						<li>Statement created</li>
+					</ul>
+				</td>
+				<td class="govuk-table__cell "><a href="/v100/statement" title="Statement version one" role="link">Statement</a>
+				</td>
+			</tr>
+			<tr class="govuk-table__row">
+				<th class="govuk-table__header" scope="row">0.0.1</th>
+				<td class="govuk-table__cell ">
+					<ul class="govuk-list govuk-list--bullet">
+						<li>Created home/landing to link to prototype</li>
+					</ul>
+				</td>
+				<td class="govuk-table__cell "></td>
+			</tr>
+			<tr class="govuk-table__row">
+				<th class="govuk-table__header" scope="row">Initial commit v0.0.0</th>
+				<td class="govuk-table__cell ">
+					<ul class="govuk-list govuk-list--bullet">
+						<li>Uploaded default GDS template</li>
+					</ul>
+				</td>
+				<td class="govuk-table__cell "></td>
 
-            </tr>
-            </tbody>
-        </table>
-    </div>
+			</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 
 {% endblock %}

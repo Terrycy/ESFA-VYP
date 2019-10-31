@@ -1,0 +1,32 @@
+function toggleMenus (targetElems) {
+  $('.menuOpen').toggleClass('hidden menuOpen')
+  targetElems.forEach(function (element) {
+    var $targetElem = $(element)
+    // if (element === 'closeOthers') {
+    //   $('.menuOpen').toggleClass('hidden menuOpen')
+    // }
+    $targetElem.toggleClass('hidden menuOpen')
+  })
+}
+
+$('.toggle-menu').on('click', function (e) {
+  e.preventDefault()
+  e.stopPropagation()
+  var $this = $(this)
+  var $body = $('body')
+  let targetElems = $this.data('targetElement').split(', ')
+
+  toggleMenus(targetElems)
+  if (!$body.hasClass('close-menus')) {
+    $body.addClass('close-menus')
+  }
+})
+
+$(document).on('click', '.close-menus', function (e) {
+  e.preventDefault()
+  if(!$(e.target).hasClass('govuk-custom-checkbox')){
+    $('.menuOpen').toggleClass('hidden menuOpen')
+    $('body').removeClass('close-menus')
+  }
+
+})

@@ -127,10 +127,6 @@ $(function () {
     })
   })
 
-  $('.govuk-select-multiple').select2({
-    // ...
-
-  });
 
   // bind sort button click
   $('#sorts2').on('click', 'th.govuk-table__header', function (e) {
