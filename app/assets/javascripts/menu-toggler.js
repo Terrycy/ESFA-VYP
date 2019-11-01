@@ -22,11 +22,12 @@ $('.toggle-menu').on('click', function (e) {
   }
 })
 
-$(document).on('click', '.close-menus', function (e) {
-  e.preventDefault()
-  if(!$(e.target).hasClass('govuk-custom-checkbox')){
-    $('.menuOpen').toggleClass('hidden menuOpen')
+$(document).on('click', '.close-menus', function (event) {
+  let $target = $(event.target)
+  const $menuOpen = $('.menuOpen')
+
+  if(!$target.closest('#filters').length && $menuOpen.is(":visible")) {
+    $menuOpen.toggleClass('hidden menuOpen')
     $('body').removeClass('close-menus')
   }
-
 })

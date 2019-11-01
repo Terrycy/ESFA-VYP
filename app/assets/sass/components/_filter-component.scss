@@ -29,6 +29,12 @@
       @extend .govuk-body;
       margin-right:45px;
       position: relative;
+      max-width: 450px;
+      white-space: nowrap;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+
       &:after{
         content: "";
         position: absolute;
