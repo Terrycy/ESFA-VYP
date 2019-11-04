@@ -1,0 +1,1912 @@
+[
+  {
+    "date": "3 October 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00",
+    "subtotal": "£27,448,760.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "30 September 2019",
+    "contractNumber": "NM100-346098",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Pupil Premium",
+    "amount": "£6,736,296.00",
+    "subtotal": "£34,185,056.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "20 September 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00",
+    "subtotal": "£61,633,816.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£205,307.00",
+    "subtotal": "£61,839,123.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£514,954.00",
+    "subtotal": "£62,354,077.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "AECT-1090",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Sep 2019",
+    "amount": "£472.00",
+    "subtotal": "£62,354,549.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ Apps Non-Levy (procured) - 19+ non-levy apprenticeships (procured)",
+    "amount": "£13,950.19",
+    "subtotal": "£62,368,499.19",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships (carry-in) Reconciliation Sep 2019",
+    "amount": "£300.22",
+    "subtotal": "£62,368,799.41",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ Apps Non-Levy (carry-in) - 19+ non-levy apprenticeships (carry-in)",
+    "amount": "£927.53",
+    "subtotal": "£62,369,726.94",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships (carry-in) Reconciliation Sep 2019",
+    "amount": "£107.59",
+    "subtotal": "£62,369,834.53",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "APPS-2328",
+    "fundingGroup": "Apps Carry In",
+    "description": "16-18 Apps Non-Levy (carry-in) - 16 to 18 non-levy apprenticeships (carry-in)",
+    "amount": "£655.07",
+    "subtotal": "£62,370,489.60",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16-18 Apps Levy Fully Funded FCS - 16 to 18 levy funded apprenticeships",
+    "amount": "£7,397.25",
+    "subtotal": "£62,377,886.85",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ Apps Levy Fully Funded FCS - 19+ levy funded apprenticeships",
+    "amount": "£35,037.75",
+    "subtotal": "£62,412,924.60",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16-18 Apps Non-Levy (procured) - 16 to 18 non-levy apprenticeships (procured)",
+    "amount": "£29,077.59",
+    "subtotal": "£62,442,002.19",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "Reconciliation Sep 2019",
+    "amount": "£1,040.08",
+    "subtotal": "£62,443,042.27",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "19 September 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "Capping Sep 2019",
+    "amount": "-£0.08",
+    "subtotal": "£62,443,042.19",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£54,289.52",
+    "subtotal": "£62,497,331.71",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,533.62",
+    "subtotal": "£62,498,865.33",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£152,556.65",
+    "subtotal": "£62,651,421.98",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,156.60",
+    "subtotal": "£62,669,578.58",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,458.32",
+    "subtotal": "£62,673,036.90",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,691.74",
+    "subtotal": "£62,722,728.64",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,952.43",
+    "subtotal": "£62,816,681.07",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£133,372.71",
+    "subtotal": "£62,950,053.78",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£62,950,262.11",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£25,838.84",
+    "subtotal": "£62,976,100.95",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£62,976,309.28",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,123.14",
+    "subtotal": "£62,979,432.42",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£57,040.09",
+    "subtotal": "£63,036,472.51",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£41,212.11",
+    "subtotal": "£63,077,684.62",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,074.92",
+    "subtotal": "£63,166,759.54",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£650.00",
+    "subtotal": "£63,167,409.54",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£63,167,617.87",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£39,364.62",
+    "subtotal": "£63,206,982.49",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£110,042.79",
+    "subtotal": "£63,317,025.28",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£104,755.20",
+    "subtotal": "£63,421,780.48",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,467.03",
+    "subtotal": "£63,455,247.51",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£201.48",
+    "subtotal": "£63,455,448.99",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,089.66",
+    "subtotal": "£63,476,538.65",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£350.00",
+    "subtotal": "£63,476,888.65",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,251.05",
+    "subtotal": "£63,498,139.70",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£53,904.34",
+    "subtotal": "£63,552,044.04",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£150.00",
+    "subtotal": "£63,552,194.04",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,310.35",
+    "subtotal": "£63,553,504.39",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£73,083.32",
+    "subtotal": "£63,626,587.71",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,067.65",
+    "subtotal": "£63,728,655.36",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£1,050.00",
+    "subtotal": "£63,729,705.36",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,516.09",
+    "subtotal": "£63,819,221.45",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£2,380.38",
+    "subtotal": "£63,821,601.83",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,930.60",
+    "subtotal": "£63,869,532.43",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£31,159.23",
+    "subtotal": "£63,900,691.66",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "18 September 2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£450.00",
+    "subtotal": "£63,901,141.66",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "4 September 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00",
+    "subtotal": "£91,349,901.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
+    "date": "22 August 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00",
+    "subtotal": "£118,798,661.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£345,528.00",
+    "subtotal": "£119,144,189.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "AECA-1296",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£866,660.00",
+    "subtotal": "£120,010,849.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "AECT-1090",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profile Aug 2019",
+    "amount": "£794.00",
+    "subtotal": "£120,011,643.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "ALLC-4592",
+    "fundingGroup": "All Loans",
+    "description": "Paid-on-actual advanced learner loans bursary Profile Aug 2019",
+    "amount": "£1,731.00",
+    "subtotal": "£120,013,374.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£19,504.00",
+    "subtotal": "£120,032,878.66",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships Reconciliation Aug 2019",
+    "amount": "£2,002.95",
+    "subtotal": "£120,034,881.61",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£1,287.53",
+    "subtotal": "£120,036,169.14",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£175.07",
+    "subtotal": "£120,036,344.21",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships Reconciliation Aug 2019",
+    "amount": "£1,902.67",
+    "subtotal": "£120,038,246.88",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy funded apprenticeships Reconciliation Aug 2019",
+    "amount": "£9,318.81",
+    "subtotal": "£120,047,565.69",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Aug 2019",
+    "amount": "£5,590.05",
+    "subtotal": "£120,053,155.74",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Aug 2019",
+    "amount": "£2,233.36",
+    "subtotal": "£120,055,389.10",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Aug 2019",
+    "amount": "£449.23",
+    "subtotal": "£120,055,838.33",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Aug 2019",
+    "amount": "£5,307.17",
+    "subtotal": "£120,061,145.50",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy funded Reconciliation Aug 2019",
+    "amount": "£42,739.02",
+    "subtotal": "£120,103,884.52",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Capping Aug 2019",
+    "amount": "-£1,040.08",
+    "subtotal": "£120,102,844.44",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Aug 2019",
+    "amount": "£23,526.28",
+    "subtotal": "£120,126,370.72",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Aug 2019",
+    "amount": "£3,000.00",
+    "subtotal": "£120,129,370.72",
+    "remittanceID": 2,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "20 August 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Aug 2019",
+    "amount": "£5,000.00",
+    "subtotal": "£120,134,370.72",
+    "remittanceID": 2,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£72,232.67",
+    "subtotal": "£120,206,603.39",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Free Meals",
+    "amount": "£2,484.79",
+    "subtotal": "£120,209,088.18",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346712",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Bursary Funds",
+    "amount": "£14,379.60",
+    "subtotal": "£120,223,467.78",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£17,721.10",
+    "subtotal": "£120,241,188.88",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,533.62",
+    "subtotal": "£120,242,722.50",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-345218",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£152,556.65",
+    "subtotal": "£120,395,279.15",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346713",
+    "fundingGroup": "16-19 Funding",
+    "description": "Maintained Special SSF Bursary Support",
+    "amount": "£30,397.52",
+    "subtotal": "£120,425,676.67",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,156.60",
+    "subtotal": "£120,443,833.27",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346877",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£2,851.49",
+    "subtotal": "£120,446,684.76",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,458.32",
+    "subtotal": "£120,450,143.08",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,691.74",
+    "subtotal": "£120,499,834.82",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346917",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£12,294.37",
+    "subtotal": "£120,512,129.19",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,952.43",
+    "subtotal": "£120,606,081.62",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346919",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£16,850.96",
+    "subtotal": "£120,622,932.58",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£133,372.71",
+    "subtotal": "£120,756,305.29",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346920",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,400.17",
+    "subtotal": "£120,762,705.46",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£120,762,913.79",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£66.67",
+    "subtotal": "£120,762,980.46",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£25,838.84",
+    "subtotal": "£120,788,819.30",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-346921",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£7,795.00",
+    "subtotal": "£120,796,614.30",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£120,796,822.63",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£66.67",
+    "subtotal": "£120,796,889.30",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,123.14",
+    "subtotal": "£120,800,012.44",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£10,699.93",
+    "subtotal": "£120,810,712.37",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347024",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£57,040.09",
+    "subtotal": "£120,867,752.46",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,401.06",
+    "subtotal": "£120,877,153.52",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347025",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£41,212.11",
+    "subtotal": "£120,918,365.63",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,562.86",
+    "subtotal": "£120,927,928.49",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,074.92",
+    "subtotal": "£121,017,003.41",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347026",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£650.00",
+    "subtotal": "£121,017,653.41",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£208.33",
+    "subtotal": "£121,017,861.74",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery Bursary Funds",
+    "amount": "£107.59",
+    "subtotal": "£121,017,969.33",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,479.56",
+    "subtotal": "£121,024,448.89",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347083",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£39,364.62",
+    "subtotal": "£121,063,813.51",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,088.92",
+    "subtotal": "£121,072,902.43",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347084",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£110,042.79",
+    "subtotal": "£121,182,945.22",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,809.34",
+    "subtotal": "£121,189,754.56",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347085",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£104,755.20",
+    "subtotal": "£121,294,509.76",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£3,299.30",
+    "subtotal": "£121,297,809.06",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347090",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,467.03",
+    "subtotal": "£121,331,276.09",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£201.48",
+    "subtotal": "£121,331,477.57",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£4,113.80",
+    "subtotal": "£121,335,591.37",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,089.66",
+    "subtotal": "£121,356,681.03",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347091",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£350.00",
+    "subtotal": "£121,357,031.03",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£4,279.01",
+    "subtotal": "£121,361,310.04",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347092",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£21,251.05",
+    "subtotal": "£121,382,561.09",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£7,805.78",
+    "subtotal": "£121,390,366.87",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£53,904.34",
+    "subtotal": "£121,444,271.21",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347093",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£150.00",
+    "subtotal": "£121,444,421.21",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£1,310.35",
+    "subtotal": "£121,445,731.56",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£12,293.41",
+    "subtotal": "£121,458,024.97",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347094",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£73,083.32",
+    "subtotal": "£121,531,108.29",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,067.65",
+    "subtotal": "£121,633,175.94",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£8,199.10",
+    "subtotal": "£121,641,375.04",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347139",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£1,050.00",
+    "subtotal": "£121,642,425.04",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£89,516.09",
+    "subtotal": "£121,731,941.13",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347140",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£6,089.76",
+    "subtotal": "£121,738,030.89",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£10,662.61",
+    "subtotal": "£121,748,693.50",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£2,380.38",
+    "subtotal": "£121,751,073.88",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-347528",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,930.60",
+    "subtotal": "£121,799,004.48",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£31,159.23",
+    "subtotal": "£121,830,163.71",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "Advanced Maths Premium SSF",
+    "amount": "£450.00",
+    "subtotal": "£121,830,613.71",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "16 August 2019",
+    "contractNumber": "FF100-348051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£9,994.25",
+    "subtotal": "£121,840,607.96",
+    "remittanceID": 3,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "5 August 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,448,760.00",
+    "subtotal": "£149,289,367.96",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months"
+  },
+  {
+    "date": "22 July 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,522,649.00",
+    "subtotal": "£176,812,016.96",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-294475",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Capacity and Delivery",
+    "amount": "£765.57",
+    "subtotal": "£176,812,782.53",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-294475",
+    "fundingGroup": "16-19 Funding",
+    "description": "16-19 Programme Funding",
+    "amount": "£48,022.98",
+    "subtotal": "£176,860,805.51",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301800",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00",
+    "subtotal": "£176,863,805.51",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301800",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£354,168.17",
+    "subtotal": "£177,217,973.68",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301880",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£32,858.34",
+    "subtotal": "£177,250,832.02",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301922",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£5,314.00",
+    "subtotal": "£177,256,146.02",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301922",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£47,385.32",
+    "subtotal": "£177,303,531.34",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301924",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£183.73",
+    "subtotal": "£177,303,715.07",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301924",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£93,685.48",
+    "subtotal": "£177,397,400.55",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301925",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "-£0.01",
+    "subtotal": "£177,397,400.54",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301925",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£0.01",
+    "subtotal": "£177,397,400.55",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301926",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£135,523.90",
+    "subtotal": "£177,532,924.45",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-301927",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£36,477.24",
+    "subtotal": "£177,569,401.69",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302048",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£4,470.41",
+    "subtotal": "£177,573,872.10",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302048",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£49,828.13",
+    "subtotal": "£177,623,700.23",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302049",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Bursary Funds",
+    "amount": "£0.01",
+    "subtotal": "£177,623,700.24",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302049",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£32,439.72",
+    "subtotal": "£177,656,139.96",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302050",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£95,576.44",
+    "subtotal": "£177,751,716.40",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£5,330.71",
+    "subtotal": "£177,757,047.11",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302051",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£166,475.19",
+    "subtotal": "£177,923,522.30",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302114",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Capacity and Delivery",
+    "amount": "£375.00",
+    "subtotal": "£177,923,897.30",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302114",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£35,409.47",
+    "subtotal": "£177,959,306.77",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302115",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£118,237.64",
+    "subtotal": "£178,077,544.41",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302116",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£106,388.86",
+    "subtotal": "£178,183,933.27",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302121",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£42,232.56",
+    "subtotal": "£178,226,165.83",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302122",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£625.58",
+    "subtotal": "£178,226,791.41",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302122",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£18,155.37",
+    "subtotal": "£178,244,946.78",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302123",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£33,222.24",
+    "subtotal": "£178,278,169.02",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302124",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£59,762.91",
+    "subtotal": "£178,337,931.93",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302125",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,048.04",
+    "subtotal": "£178,340,979.97",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302125",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£77,872.14",
+    "subtotal": "£178,418,852.11",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302177",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£102,373.06",
+    "subtotal": "£178,521,225.17",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302178",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£109,976.17",
+    "subtotal": "£178,631,201.34",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302272",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Formula Protection Funding",
+    "amount": "£3,984.61",
+    "subtotal": "£178,635,185.95",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302272",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£52,024.87",
+    "subtotal": "£178,687,210.82",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "18 July 2019",
+    "contractNumber": "FF100-302698",
+    "fundingGroup": "16-19 Funding",
+    "description": "SSF Programme Funding",
+    "amount": "£22,794.18",
+    "subtotal": "£178,710,005.00",
+    "remittanceID": 3,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "AEC-2078",
+    "fundingGroup": "Non-Procured AEB",
+    "description": "Profiled adult education budget Profile Jul 2019",
+    "amount": "£498,944.00",
+    "subtotal": "£179,208,949.00",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "ANLP-1146",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "19+ non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£18,318.91",
+    "subtotal": "£179,227,267.91",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£175.07",
+    "subtotal": "£179,227,442.98",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£1,046.97",
+    "subtotal": "£179,228,489.95",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "16 to 18 apprenticeships Reconciliation Jul 2019",
+    "amount": "£675.02",
+    "subtotal": "£179,229,164.97",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "APPS-1114",
+    "fundingGroup": "Apps Carry In",
+    "description": "19+ apprenticeships Reconciliation Jul 2019",
+    "amount": "£663.84",
+    "subtotal": "£179,229,828.81",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Jul 2019",
+    "amount": "£366.29",
+    "subtotal": "£179,230,195.10",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy funded apprenticeships Reconciliation Jul 2019",
+    "amount": "£9,528.88",
+    "subtotal": "£179,239,723.98",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy funded Reconciliation Jul 2019",
+    "amount": "£27,590.15",
+    "subtotal": "£179,267,314.13",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Jul 2019",
+    "amount": "£2,028.06",
+    "subtotal": "£179,269,342.19",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Jul 2019",
+    "amount": "£5,997.06",
+    "subtotal": "£179,275,339.25",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Jul 2019",
+    "amount": "£6,285.86",
+    "subtotal": "£179,281,625.11",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Reconciliation Jul 2019",
+    "amount": "£17,740.94",
+    "subtotal": "£179,299,366.05",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships Capping Jul 2019",
+    "amount": "-£1,040.08",
+    "subtotal": "£179,298,325.97",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "LEVY-1720",
+    "fundingGroup": "Apps Levy",
+    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Jul 2019",
+    "amount": "£4,000.00",
+    "subtotal": "£179,302,325.97",
+    "remittanceID": 2,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "15 July 2019",
+    "contractNumber": "YNLP-1147",
+    "fundingGroup": "Procured Non-Levy Apps",
+    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Jul 2019",
+    "amount": "£2,000.00",
+    "subtotal": "£179,304,325.97",
+    "remittanceID": 2,
+    "customClasses": "last-6-months"
+  },
+  {
+    "date": "3 July 2019",
+    "contractNumber": "NM100-343995",
+    "fundingGroup": "Pre-16 Funding",
+    "description": "Dedicated Schools Grant",
+    "amount": "£27,681,480.00",
+    "subtotal": "£206,985,805.97",
+    "remittanceID": 1,
+    "customClasses": "last-6-months"
+  }
+]
