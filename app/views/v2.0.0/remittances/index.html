@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<div class="govuk-width-container">
+    <a href="#" class="govuk-back-link">Back</a>
+
+    <main class="govuk-main-wrapper">
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <h1 class="govuk-heading-xl">View your payments</h1>
+                <p>View all individual remittances or</p>
+                <p>
+                    {{ govukButton({
+                    text: "View all transactions",
+                    href: "/v100/statement",
+                    isStartButton: true
+                    }) }}
+                </p>
+            </div>
+        </div>
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-one-third">
+                {% include "./search-filter.html" %}
+            </div>
+            <div class="govuk-grid-column-two-thirds">
+                {% include "./remittance.html" %}
+            </div>
+        </div>
+    </main>
+</div>
+
+{% endblock %}

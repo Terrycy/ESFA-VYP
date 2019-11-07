@@ -5,19 +5,17 @@ GOV.UK Prototype Kit
 {% endblock %}
 
 
-
 {% block content %}
-<a href="#" class="govuk-back-link">Back</a>
 
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
         <div class="header-wrapper">
-            {% include "../../includes/vyp-intro.html" %}
-        </div>
 
-        {% include "../content/summary-table.html" %}
+            {% include "../../includes/statement-intro.html" %}
+        </div>
+        <p>{{remittanceDate}}</p>
+
         {% include "../content/transaction-table.html" %}
-        {% include "../../includes/pagination.html" %}
     </div>
 </div>
 

@@ -12,6 +12,7 @@ const cookieParser = require('cookie-parser')
 const contractData = require('./app/data/filters/contract-numbers')
 const descriptionData = require('./app/data/filters/contract-descriptions')
 const statementData = require('./app/data/statements/statement-v1.0.0.json')
+const remittanceData = require('./app/data/statements/statement-v2.0.0.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
 // Run before other code to make sure variables from .env are available
@@ -28,6 +29,8 @@ const packageJson = require('./package.json')
 const routes = require('./app/routes.js')
 const utils = require('./lib/utils.js')
 const extensions = require('./lib/extensions/extensions.js')
+const remittanceBuilder = require('./app/node-scripts/remittance-builder')
+//const remittancePageParams = require('./app/node-scripts/remittance-page')
 
 // Variables for v6 backwards compatibility
 // Set false by default, then turn on if we find /app/v6/routes.js
@@ -67,6 +70,8 @@ var gtmId = process.env.GOOGLE_TAG_MANAGER_TRACKING_ID
 const contractContent = Object.assign(contractData)
 const descriptionContent = Object.assign(descriptionData)
 const statementContent = Object.assign(statementData)
+const remittanceContent = Object.assign(remittanceData)
+
 const summaryContent = Object.assign(summaryData)
 
 useHttps = useHttps.toLowerCase()
@@ -172,6 +177,10 @@ if (useV6) {
 // Add global variable to determine if DoNotTrack is enabled.
 // This indicates a user has explicitly opted-out of tracking.
 // Therefore we can avoid injecting third-party scripts that do not respect this decision.
+app.locals.remittancePageUrlParams = {};
+
+
+
 app.use(function (req, res, next) {
   // See https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT
   res.locals.doNotTrackEnabled = (req.header('DNT') === '1')
@@ -187,11 +196,14 @@ app.locals.cookieText = config.cookieText
 app.locals.promoMode = promoMode
 app.locals.releaseVersion = 'v' + releaseVersion
 app.locals.serviceName = config.serviceName
+app.locals.remittanceBuilder = remittanceBuilder
+//app.locals.remittancePageParams = remittancePageParams
 // extensionConfig sets up variables used to add the scripts and stylesheets to each page.
 app.locals.extensionConfig = extensions.getAppConfig()
 app.locals.descriptionContent = descriptionContent
 app.locals.contractContent = contractContent
 app.locals.statementContent = statementContent
+app.locals.remittanceContent = remittanceContent
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal
 
