@@ -14,12 +14,11 @@ router.get('/payment-history', function (req, res) {
   res.render('v2.0.0/remittances/index')
 })
 router.get('/payment-history/remittance/:remittanceDate/:remittanceId', function (req, res) {
-  let remittancePageUrlParams = {
-    "remittanceDate": req.params.remittanceDate,
-    "remittanceId": req.params.remittanceId
-  }
-  app.locals.remittancePageUrlParams = remittancePageUrlParams
-  res.render('v2.0.0/statement/index', {remittanceDate: req.params.remittanceDate, remittanceId: req.params.remittanceId})
+
+  res.render('v2.0.0/statement/index', {
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId
+  })
 })
 
 module.exports = router

@@ -30,7 +30,7 @@ const routes = require('./app/routes.js')
 const utils = require('./lib/utils.js')
 const extensions = require('./lib/extensions/extensions.js')
 const remittanceBuilder = require('./app/node-scripts/remittance-builder')
-const remittancePageParams = require('./app/node-scripts/remittance-page')
+//const remittancePageParams = require('./app/node-scripts/remittance-page')
 
 // Variables for v6 backwards compatibility
 // Set false by default, then turn on if we find /app/v6/routes.js
@@ -179,22 +179,9 @@ if (useV6) {
 // Therefore we can avoid injecting third-party scripts that do not respect this decision.
 app.locals.remittancePageUrlParams = {};
 
-app.use(function (req, res, next) {
 
-  let remittancePageUrlParams = {
-    "remittanceDate": req.params.remittanceDate,
-    "remittanceId": req.params.remittanceId
-  }
-  app.locals.remittancePageUrlParams = remittancePageUrlParams
-  next()
-})
 
 app.use(function (req, res, next) {
-  remittancePageUrlParams = {
-    "remittanceDate": req.params.remittanceDate,
-    "remittanceId": req.params.remittanceId
-  }
-  console.log(req, remittancePageUrlParams);
   // See https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT
   res.locals.doNotTrackEnabled = (req.header('DNT') === '1')
   next()
@@ -210,7 +197,7 @@ app.locals.promoMode = promoMode
 app.locals.releaseVersion = 'v' + releaseVersion
 app.locals.serviceName = config.serviceName
 app.locals.remittanceBuilder = remittanceBuilder
-app.locals.remittancePageParams = remittancePageParams
+//app.locals.remittancePageParams = remittancePageParams
 // extensionConfig sets up variables used to add the scripts and stylesheets to each page.
 app.locals.extensionConfig = extensions.getAppConfig()
 app.locals.descriptionContent = descriptionContent
