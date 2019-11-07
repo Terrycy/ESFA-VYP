@@ -14,35 +14,20 @@
 	</tr>
 	</thead>
 	<tbody class="govuk-table__body no-transition tb-data" id="isotope2">
-
+  
 	{% for item in remittanceContent %}
-  {% if remittanceDate %}
-    {% if remittanceDate | replace('-', ' ') == item.date && remittanceID == item.remittanceId %}
-        <tr class="
-            {{item.customClasses}}
-            {{'grid-sizer' if loop.first}}
-            tb-data-single govuk-table__row grid-item
-            {{item.contractNumber}}
-            {{item.fundingGroup | replace(' ', '-')}}
-            {{item.amount | replace('£', '') | replace(',', '')}}
-            {{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}"
-              data-transactionDate="{{item.date}}" data-contractNumber="{{item.contractNumber}}"
-              data-fundingGroup="{{item.fundingGroup}}" data-description="{{item.description}}"
-              data-transactionAmount="{{item.amount}}">
-            <td class="govuk-table__cell transactionDate">{{item.date}}</td>
-            <td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
-            <td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
-            <td class="govuk-table__cell description">{{item.description}}</td>
-            <td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
-          </tr>
+  {% set remittanceDateString = remittanceDate | replace('-', ' ') %}
+    {% if remittanceDateString === item.date and remittanceId == item.remittanceID  %}
+    <tr class="govuk-table__row grid-item">
+      <td class="govuk-table__cell transactionDate">{{item.date}}</td>
+      <td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
+      <td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
+      <td class="govuk-table__cell description">{{item.description}}</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
+    </tr>
 
-    {% endif %}
   {% endif %}
-	
-	{% else %}
-	<tr class="govuk-table__row">
-		<td class="govuk-table__cell" colspan="5">Empty row</td>
-	</tr>
+
 	{% endfor %}
 	</tbody>
 </table>
