@@ -7,40 +7,25 @@
     </tr>
     </thead>
     <tbody class="govuk-table__body">
-    {% set remittanceID = 0 %}
-    {% set remittanceDate = "" %}
-    {% set remittanceTotal = 0 %}
-    {% set remittanceID = 0 %}
 
-    {% for item in remittanceContent %}
+    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContent) %}
 
-        {% set tempVal = item.amount | replace('£','')| replace(',','') | int  %}
+    {% for item in remittanceData %}
 
-        {% set remittanceTotal = remittanceTotal + tempVal %}
-
-    {% if remittanceID != item.remittanceID %}
-    {% set remittanceID = item.remittanceID %}
-    {% endif %}
-
-
-    {% if remittanceDate != item.date %}
-            {% set remittanceDate = item.date %}
-                <tr class="govuk-table__row">
-                    <td scope="row" class="govuk-table__header">
-                        <span class="date">{{remittanceDate}}
-                        </span><br>
-                        <span class="amount govuk-body">{{remittanceTotal | currency('£')}}</span>
-                    </td>
-                    <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom" >
-                        <a href="#">View your payment details</a>
-                    </td>
-                </tr>
-        {% endif %}
-
-
-
+        <tr class="govuk-table__row">
+            <td scope="row" class="govuk-table__header">
+                <span class="date">{{item.transactionDate}}
+                </span><br>
+                <span class="amount govuk-body">{{item.transactionAmount | float | currency('£')}}</span>
+            </td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/payment-history/remittance/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View your payment details</a>
+            </td>
+        </tr>
 
     {% endfor %}
 
+
     </tbody>
 </table>
+
