@@ -10,11 +10,10 @@ GOV.UK Prototype Kit
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
         <div class="header-wrapper">
-            {% set localRemittanceDate = remittanceDate %}
-            {{localRemittanceDate}}
+
             {% include "../../includes/statement-intro.html" %}
         </div>
-        <p>{{urlParams.remittanceDate}}</p>
+        <p>{{remittanceDate}}</p>
 
         {% include "../content/transaction-table.html" %}
     </div>
