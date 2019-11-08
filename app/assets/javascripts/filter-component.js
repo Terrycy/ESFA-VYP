@@ -32,12 +32,25 @@ $(function () {
         filterValue += filtersObj[prop]
       }
     }
-    console.log(filterValue)
-
     // set filter for Isotope
+
+
     $container.isotope({
       filter: filterValue
     })
+  }
+  function dateRangeFilter(startDate, endDate){
+
+    $container.isotope({
+      filter: function() {
+        // _this_ is the item element. Get text of element's .number
+        var dateVal = new Date($(this).find('.transactionDate').text());
+        console.log(dateVal >= startDate && dateVal <= dateVal)
+        // return true to show, false to hide
+        return dateVal >= startDate && dateVal <= dateVal;
+      }
+    })
+
   }
 
   function updateTextValues () {
@@ -72,8 +85,8 @@ $(function () {
     updateFilters()
     updateTextValues()
   })
-
-  $('.filter-form').on('submit', function(e) {
+//https://codepen.io/desandro/pen/Ehgij
+  $('.filter-form-select').on('submit', function(e) {
     const $this = $(this)
     const filterGroup = $this.data('filter-group')
     let filtersArray = []
@@ -86,8 +99,46 @@ $(function () {
     })
     filtersObj[filterGroup] = filtersArray
     textValueObjs[filterGroup] = textArray
-
+  
     updateFilters()
+    updateTextValues()
+    return false
+  })
+  function convertDate(dateString){
+    convertedDate = new Date(dateString);
+    return convertedDate;
+  }
+
+  $('#byDateRange').on('submit', function(e) {
+    e.preventDefault();
+    const $this = $(this)
+    const filterGroup = $this.data('filter-group')
+
+    const formDataArray = $this.serializeArray();
+    formdateObject = {};
+
+    var formdateObject = {};
+    $(formDataArray).each(function(index, obj){
+      formdateObject[obj.name] = obj.value;
+    });
+    
+    let startDateString = `${formdateObject['start-date-month']}/${formdateObject['start-date-day']}/${formdateObject['start-date-year']}`;
+    let endDateString = `${formdateObject['end-date-month']}/${formdateObject['end-date-day']}/${formdateObject['end-date-year']}`;
+
+    const startDate = convertDate(startDateString);
+    const endDate = convertDate(endDateString);
+
+    let filtersArray = [startDate, endDate];
+    let textArray = []
+
+    filtersArray.push(filterGroup);
+    textArray.push(`from ${startDateString} to ${endDateString}`);
+
+    filtersObj[filterGroup] = filtersArray
+    textValueObjs[filterGroup] = textArray
+  
+    dateRangeFilter(startDate, endDate)
+    //updateFilters()
     updateTextValues()
     return false
   })
