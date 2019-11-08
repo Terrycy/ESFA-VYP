@@ -5,7 +5,6 @@ GOV.UK Prototype Kit
 {% endblock %}
 
 
-
 {% block content %}
 <a href="#" class="govuk-back-link">Back</a>
 
@@ -14,11 +13,24 @@ GOV.UK Prototype Kit
         <div class="header-wrapper">
             {% include "../../includes/vyp-intro.html" %}
         </div>
+    </div>
+</div>
 
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
         {% include "../content/summary-table.html" %}
+    </div>
+</div>
+
+{% include "../../includes/filters.html" %}
+
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
         {% include "../content/transaction-table.html" %}
         {% include "../../includes/pagination.html" %}
     </div>
 </div>
+
+
 
 {% endblock %}
