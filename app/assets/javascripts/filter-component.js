@@ -1,59 +1,66 @@
 $(function () {
-  var $container = $('#isotope2').isotope({
+  let startDate, endDate;
+  let textValueObjs = {};
+  let filtersObj = {};
+  let qsRegex;
+
+  let $container = $('#isotope2').isotope({
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
     transitionDuration: 0
-    // getSortData: {
-    //   transactionDate: function (itemElem) {
-    //     var transactionDate = $(itemElem).find('.transactionDate').text()
-    //     return Date.parse(transactionDate)
-    //   },
-    //   contractNumber: '[data-contractNumber]',
-    //   fundingGroup: function (itemElem) { // function
-    //     var fundingGoup = $(itemElem).find('.fundingGroup').text()
-    //     return fundingGoup.replace(' ', '-')
-    //   },
-    //   description: '[data-description]',
-    //   transactionAmount: function (itemElem) { // function
-    //     var amountString = $(itemElem).find('.transactionAmount').text()
-    //     var amountValue = Number(amountString.replace(/(\£|,)/g, ''))
-    //     return amountValue
-    //   }
-    // }
-  })
+  });
 
-  let textValueObjs = {}
-  let filtersObj = {}
-
-  function updateFilters () {
-    var filterValue = ''
-    for (var prop in filtersObj) {
-      if(filtersObj[prop] !== undefined){
+  function updateFilters() {
+    let filterValue = ''
+    for (let prop in filtersObj) {
+      if (filtersObj[prop] !== undefined) {
         filterValue += filtersObj[prop]
       }
     }
     // set filter for Isotope
-
-
     $container.isotope({
-      filter: filterValue
-    })
-  }
-  function dateRangeFilter(startDate, endDate){
+        filter: function () {
+          let filterValue = '';
+          let isMatched = true;
+          let $this = $(this);
+          console.log($this.text());
+          let searchResult = qsRegex ? $this.text().match(qsRegex) : true;
+          let dateResults = function () {
+            if (startDate !== undefined && endDate !== undefined) {
+              // _this_ is the item element. Get text of element's .number
+              let dateVal = new Date($this.find('.transactionDate').text());
+              // return true to show, false to hide
+              return dateVal >= startDate && dateVal <= endDate;
+            } else {
+              return true;
+            }
+          };
 
-    $container.isotope({
-      filter: function() {
-        // _this_ is the item element. Get text of element's .number
-        var dateVal = new Date($(this).find('.transactionDate').text());
-        console.log(dateVal >= startDate && dateVal <= dateVal)
-        // return true to show, false to hide
-        return dateVal >= startDate && dateVal <= dateVal;
+          for (let prop in filtersObj) {
+            // use function if it matches
+            filterValue += filtersObj[prop]
+            // test each filter
+            if (filterValue) {
+              isMatched = isMatched && $(this).is(filterValue);
+            }
+            // break if not matched
+            if (!isMatched) {
+              break;
+            }
+          }
+          return searchResult && isMatched && dateResults($(this));
+        }
       }
-    })
-
+    )
   }
 
-  function updateTextValues () {
+  let $quicksearch = $('#quickSearch').keyup(debounce(function () {
+    qsRegex = new RegExp($quicksearch.val(), 'gi');
+    console.log(qsRegex);
+    updateFilters();
+  }));
+
+  function updateTextValues() {
     $('.toggle-menu-parent').each(function () {
       const $this = $(this)
       const filterGroups = $this.data('filterGroup').split(', ')
@@ -62,7 +69,6 @@ $(function () {
       filterGroups.forEach(filterGroup => {
         if (textValueObjs[filterGroup] !== undefined) {
           textValue.push(textValueObjs[filterGroup])
-          console.log(textValueObjs[filterGroup])
         }
       })
       if (textValue.length) {
@@ -72,75 +78,102 @@ $(function () {
     })
   }
 
-  $('.filter-button').on('click', function (e) {
-    e.preventDefault()
-    const $this = $(this)
-    let newSubtitle = $this.text()
-    newSubtitle = newSubtitle.trim();
-    const filterGroup = $this.data('filter-group')
-    console.log(newSubtitle)
-    filtersObj[filterGroup] = $this.data('filter')
-    textValueObjs[filterGroup] = newSubtitle
+  function updateDateValues(formDataArray) {
+    let formDateObject = {};
 
-    updateFilters()
-    updateTextValues()
-  })
-//https://codepen.io/desandro/pen/Ehgij
-  $('.filter-form-select').on('submit', function(e) {
-    const $this = $(this)
-    const filterGroup = $this.data('filter-group')
-    let filtersArray = []
-    let textArray = []
+    $(formDataArray).each(function (index, obj) {
+      formDateObject[obj.name] = obj.value;
+    });
 
-    $this.find('input:checked').each(function() {
-      const $this = $(this)
-      filtersArray.push($this.data('filter'))
-      textArray.push($this.parents('label').text().trim())
-    })
-    filtersObj[filterGroup] = filtersArray
-    textValueObjs[filterGroup] = textArray
-  
-    updateFilters()
-    updateTextValues()
-    return false
-  })
-  function convertDate(dateString){
-    convertedDate = new Date(dateString);
-    return convertedDate;
+    let startDateString = `${formDateObject['start-date-month']}/${formDateObject['start-date-day']}/${formDateObject['start-date-year']}`;
+    let endDateString = `${formDateObject['end-date-month']}/${formDateObject['end-date-day']}/${formDateObject['end-date-year']}`;
+
+    startDate = convertDate(startDateString);
+    endDate = convertDate(endDateString);
+
+    return `from ${startDateString} to ${endDateString}`
   }
 
-  $('#byDateRange').on('submit', function(e) {
+  $('.filter-button').on('click', function (e) {
     e.preventDefault();
-    const $this = $(this)
-    const filterGroup = $this.data('filter-group')
+    const $this = $(this);
+    let newSubtitle = $this.text();
+    const filterGroup = $this.data('filter-group');
+
+    newSubtitle = newSubtitle.trim();
+
+    filtersObj[filterGroup] = $this.data('filter');
+    textValueObjs[filterGroup] = newSubtitle;
+
+    updateFilters();
+    updateTextValues()
+  });
+
+  $('.filter-form-select').on('submit', function (e) {
+    e.preventDefault();
+    const $this = $(this);
+    const filterGroup = $this.data('filter-group');
+    let filtersArray = [];
+    let textArray = [];
+
+    $this.find('input:checked').each(function () {
+      const $this = $(this);
+      filtersArray.push($this.data('filter'))
+      textArray.push($this.parents('label').text().trim())
+    });
+
+    filtersObj[filterGroup] = filtersArray;
+    textValueObjs[filterGroup] = textArray;
+
+    updateFilters();
+    updateTextValues();
+    return false
+  });
+
+  function convertDate(dateString) {
+    return new Date(dateString);
+  }
+
+  $('#byDateRange').on('submit', function (e) {
+    e.preventDefault();
+    const $this = $(this);
+    const filterGroup = $this.data('filter-group');
 
     const formDataArray = $this.serializeArray();
-    formdateObject = {};
+    let formDateObject = {};
 
-    var formdateObject = {};
-    $(formDataArray).each(function(index, obj){
-      formdateObject[obj.name] = obj.value;
+    $(formDataArray).each(function (index, obj) {
+      formDateObject[obj.name] = obj.value;
     });
-    
-    let startDateString = `${formdateObject['start-date-month']}/${formdateObject['start-date-day']}/${formdateObject['start-date-year']}`;
-    let endDateString = `${formdateObject['end-date-month']}/${formdateObject['end-date-day']}/${formdateObject['end-date-year']}`;
 
-    const startDate = convertDate(startDateString);
-    const endDate = convertDate(endDateString);
+    let startDateString = `${formDateObject['start-date-month']}/${formDateObject['start-date-day']}/${formDateObject['start-date-year']}`;
+    let endDateString = `${formDateObject['end-date-month']}/${formDateObject['end-date-day']}/${formDateObject['end-date-year']}`;
 
-    let filtersArray = [startDate, endDate];
-    let textArray = []
+    startDate = convertDate(startDateString);
+    endDate = convertDate(endDateString);
 
-    filtersArray.push(filterGroup);
+    let textArray = [];
     textArray.push(`from ${startDateString} to ${endDateString}`);
 
-    filtersObj[filterGroup] = filtersArray
-    textValueObjs[filterGroup] = textArray
-  
-    dateRangeFilter(startDate, endDate)
-    //updateFilters()
-    updateTextValues()
-    return false
-  })
+    textValueObjs['transactionDate'] = textArray;
+    updateFilters();
+    updateTextValues();
+    return false;
+  });
+
+  function debounce( fn, threshold ) {
+    var timeout;
+    threshold = threshold || 100;
+    return function debounced() {
+      clearTimeout( timeout );
+      var args = arguments;
+      var _this = this;
+      function delayed() {
+        fn.apply( _this, args );
+      }
+      timeout = setTimeout( delayed, threshold );
+    };
+  }
 
 })
+
