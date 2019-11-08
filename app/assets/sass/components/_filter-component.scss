@@ -45,6 +45,15 @@
         //chevron down
       }
     }
+    &.buttons{
+      border-right: 0 solid transparent;
+      text-align: right;
+      float: right;
+      button{
+        margin-top: 5px;
+      }
+
+    }
   }
   &__submenu{
     list-style: none;
