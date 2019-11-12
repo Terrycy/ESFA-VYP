@@ -11,8 +11,9 @@ const sessionInMemory = require('express-session')
 const cookieParser = require('cookie-parser')
 const contractData = require('./app/data/filters/contract-numbers')
 const descriptionData = require('./app/data/filters/contract-descriptions')
-const statementData = require('./app/data/statements/statement-v1.0.0.json')
-const remittanceData = require('./app/data/statements/statement-v2.0.0.json')
+const statementData = require('./app/data/statements/statement-v2.0.1.json')
+const remittanceData = require('./app/data/statements/statement-v2.0.1.json')
+// const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
 // Run before other code to make sure variables from .env are available
