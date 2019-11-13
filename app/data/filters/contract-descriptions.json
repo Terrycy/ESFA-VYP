@@ -1,167 +1,458 @@
 [
   {
-    "description": "16 to 18 apprenticeships (carry-in) Reconciliation Sep 2019"
+    "description": "19 to 24 Traineeships (Procured AEB) Sep 19"
   },
   {
-    "description": "16 to 18 apprenticeships Reconciliation Aug 2019"
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Oct 19"
   },
   {
-    "description": "16 to 18 apprenticeships Reconciliation Jul 2019"
+    "description": "19 to 24 Traineeships (Procured AEB) - capping Sep 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Aug 2019"
+    "description": "16 to 18 Traineeships Programme Sep 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships additional payments for employers Reconciliation Jul 2019"
+    "description": "16 to 18 Traineeships Programme - capping Sep 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Aug 2019"
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Oct 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships funded by co-investment Reconciliation Jul 2019"
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Sep 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Aug 2019"
+    "description": "Advanced Learner Loans Bursary - profile Oct 19"
   },
   {
-    "description": "16 to 18 levy apprenticeships funded by ESFA Reconciliation Jul 2019"
+    "description": "Advanced Learner Loans Bursary Sep 19"
   },
   {
-    "description": "16 to 18 levy funded apprenticeships Reconciliation Aug 2019"
+    "description": "Advanced Learner Loans Bursary - capping Sep 19"
   },
   {
-    "description": "16 to 18 levy funded apprenticeships Reconciliation Jul 2019"
+    "description": "ESF investment priority 1.1 transitional area Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Aug 2019"
+    "description": "ESF investment priority 1.1 more-developed area Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships additional payments for employers Reconciliation Jul 2019"
+    "description": "ESF investment priority 1.1 transitional area - capping Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships Capping Aug 2019"
+    "description": "16 to 18 Levy Apprenticeships Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships Capping Jul 2019"
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships Reconciliation Aug 2019"
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Sep 19"
   },
   {
-    "description": "16 to 18 non-levy apprenticeships Reconciliation Jul 2019"
+    "description": "19+ Levy Apprenticeships for individuals Sep 19"
   },
   {
-    "description": "16-18 Apps Levy Fully Funded FCS - 16 to 18 levy funded apprenticeships"
+    "description": "NCS Community Sep 19"
   },
   {
-    "description": "16-18 Apps Non-Levy (carry-in) - 16 to 18 non-levy apprenticeships (carry-in)"
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Sep 19"
   },
   {
-    "description": "16-18 Apps Non-Levy (procured) - 16 to 18 non-levy apprenticeships (procured)"
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Sep 19"
   },
   {
-    "description": "16-19 Bursary Funds"
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Sep 19"
   },
   {
-    "description": "16-19 Capacity and Delivery"
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Sep 19"
   },
   {
-    "description": "16-19 Free Meals"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Sep 19"
   },
   {
-    "description": "16-19 Programme Funding"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Sep 19"
   },
   {
-    "description": "19+ apprenticeships (carry-in) Reconciliation Sep 2019"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping Sep 19"
   },
   {
-    "description": "19+ apprenticeships Reconciliation Aug 2019"
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Sep 19"
   },
   {
-    "description": "19+ apprenticeships Reconciliation Jul 2019"
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Sep 19"
   },
   {
-    "description": "19+ Apps Levy Fully Funded FCS - 19+ levy funded apprenticeships"
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Sep 19"
   },
   {
-    "description": "19+ Apps Non-Levy (carry-in) - 19+ non-levy apprenticeships (carry-in)"
+    "description": "19+ Levy Apprenticeships for employers Sep 19"
   },
   {
-    "description": "19+ Apps Non-Levy (procured) - 19+ non-levy apprenticeships (procured)"
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Sep 19"
   },
   {
-    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Aug 2019"
+    "description": "19+ Trailblazer Apprenticeships for employers Sep 19"
   },
   {
-    "description": "19+ levy apprenticeships funded by co-investment Reconciliation Jul 2019"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Sep 19"
   },
   {
-    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Aug 2019"
+    "description": "19 to 24 Traineeships (Procured AEB) Aug 19"
   },
   {
-    "description": "19+ levy apprenticeships funded by the ESFA Reconciliation Jul 2019"
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Sep 19"
   },
   {
-    "description": "19+ levy funded Reconciliation Aug 2019"
+    "description": "19 to 24 Traineeships (Procured AEB) - capping Aug 19"
   },
   {
-    "description": "19+ levy funded Reconciliation Jul 2019"
+    "description": "16 to 18 Traineeships Programme Aug 19"
   },
   {
-    "description": "19+ non-levy apprenticeships Reconciliation Aug 2019"
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Sep 19"
   },
   {
-    "description": "19+ non-levy apprenticeships Reconciliation Jul 2019"
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Aug 19"
   },
   {
-    "description": "Advanced Maths Premium SSF"
+    "description": "Advanced Learner Loans Bursary - profile Sep 19"
   },
   {
-    "description": "Capping Sep 2019"
+    "description": "Advanced Learner Loans Bursary Aug 19"
   },
   {
-    "description": "Dedicated Schools Grant"
+    "description": "Advanced Learner Loans Bursary - capping Aug 19"
   },
   {
-    "description": "Maintained Special SSF Bursary Support"
+    "description": "ESF investment priority 1.1 transitional area Aug 19"
   },
   {
-    "description": "Paid-on-actual advanced learner loans bursary Profile Aug 2019"
+    "description": "ESF investment priority 1.1 more-developed area Aug 19"
   },
   {
-    "description": "Profile Aug 2019"
+    "description": "16 to 18 Levy Apprenticeships Aug 19"
   },
   {
-    "description": "Profile Sep 2019"
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Aug 19"
   },
   {
-    "description": "Profiled adult education budget Profile Jul 2019"
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Aug 19"
   },
   {
-    "description": "Pupil Premium"
+    "description": "19+ Levy Apprenticeships for individuals Aug 19"
   },
   {
-    "description": "Reconciliation Sep 2019"
+    "description": "NCS Community Aug 19"
   },
   {
-    "description": "SSF Bursary Funds"
+    "description": "NCS Community - capping Aug 19"
   },
   {
-    "description": "SSF Capacity and Delivery"
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Aug 19"
   },
   {
-    "description": "SSF Capacity and Delivery Bursary Funds"
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Aug 19"
   },
   {
-    "description": "SSF Formula Protection Funding"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Aug 19"
   },
   {
-    "description": "SSF High Needs Element 2"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Aug 19"
   },
   {
-    "description": "SSF Maintained Special Element 2"
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Aug 19"
   },
   {
-    "description": "SSF Programme Funding"
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Aug 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Aug 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for employers Aug 19"
+  },
+  {
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Aug 19"
+  },
+  {
+    "description": "19+ Trailblazer Apprenticeships for employers Aug 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Aug 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Procured AEB) July 19"
+  },
+  {
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Aug 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Procured AEB) - capping July 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme July 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme - capping July 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Aug 19"
+  },
+  {
+    "description": "Adult Skills and Community Learning (Non-procured AEB) July 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary July 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary - capping July 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 transitional area July 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 more-developed area July 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 transitional area - capping July 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships July 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment July 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA July 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for individuals July 19"
+  },
+  {
+    "description": "NCS Community July 19"
+  },
+  {
+    "description": "NCS Community - capping July 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) July 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships July 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping July 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping July 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships July 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) July 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping July 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals July 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) July 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping July 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for employers July 19"
+  },
+  {
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers July 19"
+  },
+  {
+    "description": "19+ Trailblazer Apprenticeships for employers July 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers July 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Procured AEB) Jun 19"
+  },
+  {
+    "description": "Adult Skills Learner Support (Procured AEB) - profile July 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme Jun 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme - capping Jun 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile July 19"
+  },
+  {
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Jun 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary - profile July 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary Jun 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary - capping Jun 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships Jun 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Jun 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Jun 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for individuals Jun 19"
+  },
+  {
+    "description": "NCS Community Jun 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Jun 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Jun 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Jun 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Jun 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Jun 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Jun 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Jun 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Jun 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Jun 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for employers Jun 19"
+  },
+  {
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Jun 19"
+  },
+  {
+    "description": "19+ Trailblazer Apprenticeships for employers Jun 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Jun 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Procured AEB) May 19"
+  },
+  {
+    "description": "Adult Skills Learner Support (Procured AEB) - profile June 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Procured AEB) - capping May 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme May 19"
+  },
+  {
+    "description": "16 to 18 Traineeships Programme - capping May 19"
+  },
+  {
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile June 19"
+  },
+  {
+    "description": "Adult Skills and Community Learning (Non-procured AEB) May 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary - profile June 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary May 19"
+  },
+  {
+    "description": "Advanced Learner Loans Bursary - capping May 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 transitional area May 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 more-developed area May 19"
+  },
+  {
+    "description": "ESF investment priority 1.1 transitional area - capping May 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships May 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment May 19"
+  },
+  {
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA May 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for individuals May 19"
+  },
+  {
+    "description": "NCS Community May 19"
+  },
+  {
+    "description": "NCS Community - capping May 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) May 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships May 19"
+  },
+  {
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping May 19"
+  },
+  {
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping May 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships May 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) May 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping May 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals May 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) May 19"
+  },
+  {
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping May 19"
+  },
+  {
+    "description": "19+ Levy Apprenticeships for employers May 19"
+  },
+  {
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers May 19"
+  },
+  {
+    "description": "19+ Trailblazer Apprenticeships for employers May 19"
+  },
+  {
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers May 19"
   }
 ]
