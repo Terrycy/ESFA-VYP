@@ -7,6 +7,9 @@ $govuk-assets-path: '/govuk/assets/';
 // Import GOV.UK Frontend and any extension styles if extensions have been configured
 @import "lib/extensions/extensions";
 
+// Plugins and third party includes
+@import "plugins/fastselect";
+
 // Helpers that aren't in Frontend
 @import "helpers/fieldset-reset";
 @import "helpers/link-reset";

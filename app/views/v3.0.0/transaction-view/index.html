@@ -1,0 +1,38 @@
+{% extends "layout_1280.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<a href="#" class="govuk-back-link">Back</a>
+
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+        <div class="header-wrapper">
+            {% include "../../includes/vyp-intro.html" %}
+        </div>
+    </div>
+</div>
+
+
+
+{% include "../../includes/filter-component.html" %}
+
+
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+        {% include "../content/summary-table.html" %}
+    </div>
+</div>
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+        {% include "../content/transaction-table.html" %}
+        {% include "../../includes/pagination.html" %}
+    </div>
+</div>
+
+
+
+{% endblock %}

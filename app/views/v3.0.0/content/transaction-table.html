@@ -1,0 +1,44 @@
+<table id="transaction-table" class="govuk-table govuk-table-striped grid">
+	<caption class="govuk-table__caption govuk-visually-hidden">Transactions</caption>
+	<thead class="govuk-table__head" class="sort">
+	<tr class="govuk-table__row btn-group" id="sorts2">
+		<th scope="col" class="govuk-table__header asc transactionDate" data-sort-value="transactionDate">Date</th>
+		<th scope="col" class="govuk-table__header contractNumber" data-sort-value="contractNumber">Contract number</th>
+		<th scope="col" class="govuk-table__header fundingGroup" data-sort-value="fundingGroup">Budget Group</th>
+		<th scope="col" class="govuk-table__header description" data-sort-value="description">Description</th>
+		<th scope="col"
+			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount"
+			data-sort-value="transactionAmount">Amount
+		</th>
+	</tr>
+	</thead>
+	<tbody class="govuk-table__body no-transition tb-data" id="isotope2">
+
+	{% for item in remittanceContent %}
+
+
+	<tr class="
+     {{item.customClasses}}
+     {{'grid-sizer' if loop.first}}
+     tb-data-single govuk-table__row grid-item
+     {{item.contractNumber}}
+     {{item.fundingGroup | replace(' ', '-')}}
+     {{item.amount | replace('£', '') | replace(',', '')}}
+     {{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}"
+		data-transactionDate="{{item.date}}" data-contractNumber="{{item.contractNumber}}"
+		data-fundingGroup="{{item.fundingGroup}}" data-description="{{item.description}}"
+		data-transactionAmount="{{item.amount}}">
+		<td class="govuk-table__cell transactionDate">{{item.date}}</td>
+		<td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
+		<td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
+		<td class="govuk-table__cell description">{{item.description}}</td>
+		<td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
+	</tr>
+
+	{% else %}
+	<tr class="govuk-table__row">
+		<td class="govuk-table__cell" colspan="5">Empty row</td>
+	</tr>
+	{% endfor %}
+	</tbody>
+</table>

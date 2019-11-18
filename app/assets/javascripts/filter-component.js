@@ -3,12 +3,15 @@ $(function () {
   let textValueObjs = {};
   let filtersObj = {};
   let qsRegex;
-
   let $container = $('#isotope2').isotope({
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
     transitionDuration: 0
   });
+
+
+
+  updateTotals();
 
   function updateFilters() {
     let filterValue = ''
@@ -23,7 +26,6 @@ $(function () {
           let filterValue = '';
           let isMatched = true;
           let $this = $(this);
-          console.log($this.text());
           let searchResult = qsRegex ? $this.text().match(qsRegex) : true;
           let dateResults = function () {
             if (startDate !== undefined && endDate !== undefined) {
@@ -48,15 +50,30 @@ $(function () {
               break;
             }
           }
+
           return searchResult && isMatched && dateResults($(this));
         }
       }
     )
+    updateTotals();
+  }
+  function updateTotals(){
+    if($('#filterTotal').length){
+      let totalValue = 0;
+       let itemElems = $container.isotope('getFilteredItemElements');
+      $(itemElems).each(function(){
+        let elId = $(this)[0];
+        let $amount = $(elId).children('td.transactionAmount').text()
+        let transactionAmount = Number($amount.replace(/[^0-9.-]+/g,""));
+        totalValue = parseFloat(transactionAmount) + totalValue;
+      });
+
+      $('#filterTotal').text(`£${totalValue.toFixed(2)}`)
+    }
   }
 
   let $quicksearch = $('#quickSearch').keyup(debounce(function () {
     qsRegex = new RegExp($quicksearch.val(), 'gi');
-    console.log(qsRegex);
     updateFilters();
   }));
 
@@ -174,6 +191,30 @@ $(function () {
       timeout = setTimeout( delayed, threshold );
     };
   }
+  let $multiSelect = $('.multipleSelect');
+
+  $multiSelect.fastselect({
+    onItemSelect: function(){
+
+    }
+  });
+
+
+  $('#filters').on('submit', function(e){
+    let $this = $(this);
+    $multiSelect.each(function () {
+      console.log($(this),);
+      const filterGroup = $(this).data('filter-group');
+      const selectedFilters = $(this).data('fastselect').optionsCollection.selectedValues;
+
+
+    })
+    const formDataArray = $this.serializeArray();
+
+    console.log(formDataArray)
+    return false;
+  })
 
 })
+
 
