@@ -1,458 +1,101 @@
 [
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping July 19"
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Jun 19"
+    "description": "16 to 18 Apprenticeships (pre-May 2017)"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping May 19"
+    "description": "16 to 18 Levy Apprenticeships"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Sep 19"
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) Aug 19"
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) July 19"
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) Jun 19"
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) May 19"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping"
   },
   {
-    "description": "16 to 18 Apprenticeships (pre-May 2017) Sep 19"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships Aug 19"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by co-investment Aug 19"
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service)"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by co-investment July 19"
+    "description": "16 to 18 Traineeships Programme - capping"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by co-investment Jun 19"
+    "description": "16 to 18 Traineeships Programme"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by co-investment May 19"
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by co-investment Sep 19"
+    "description": "19 to 24 Traineeships (Procured AEB) - capping"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by ESFA Aug 19"
+    "description": "19 to 24 Traineeships (Procured AEB)"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by ESFA July 19"
+    "description": "19+ Levy Apprenticeships for employers"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by ESFA Jun 19"
+    "description": "19+ Levy Apprenticeships for individuals"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by ESFA May 19"
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships funded by ESFA Sep 19"
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships July 19"
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service)"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships Jun 19"
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships May 19"
+    "description": "19+ Trailblazer Apprenticeships for employers"
   },
   {
-    "description": "16 to 18 Levy Apprenticeships Sep 19"
+    "description": "Adult Skills and Community Learning (Non-procured AEB)"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping July 19"
+    "description": "Adult Skills Learner Support (Procured AEB) - profile"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Jun 19"
+    "description": "Advanced Learner Loans Bursary - capping"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping May 19"
+    "description": "Advanced Learner Loans Bursary - profile"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Sep 19"
+    "description": "Advanced Learner Loans Bursary"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Aug 19"
+    "description": "ESF investment priority 1.1 more-developed area"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships July 19"
+    "description": "ESF investment priority 1.1 transitional area - capping"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Jun 19"
+    "description": "ESF investment priority 1.1 transitional area"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships May 19"
+    "description": "NCS Community - capping"
   },
   {
-    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Sep 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping July 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping May 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping Sep 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships Aug 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Aug 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers July 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Jun 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers May 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Sep 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Aug 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) July 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Jun 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) May 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Sep 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships July 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships Jun 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships May 19"
-  },
-  {
-    "description": "16 to 18 Procured Non-Levy Apprenticeships Sep 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme - capping July 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme - capping Jun 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme - capping May 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme - capping Sep 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme Aug 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme July 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme Jun 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme May 19"
-  },
-  {
-    "description": "16 to 18 Traineeships Programme Sep 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Aug 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Non-procured AEB) - profile July 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Non-procured AEB) - profile June 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Oct 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Sep 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) - capping Aug 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) - capping July 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) - capping May 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) - capping Sep 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) Aug 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) July 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) Jun 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) May 19"
-  },
-  {
-    "description": "19 to 24 Traineeships (Procured AEB) Sep 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for employers Aug 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for employers July 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for employers Jun 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for employers May 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for employers Sep 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for individuals Aug 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for individuals July 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for individuals Jun 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for individuals May 19"
-  },
-  {
-    "description": "19+ Levy Apprenticeships for individuals Sep 19"
-  },
-  {
-    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Aug 19"
-  },
-  {
-    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers July 19"
-  },
-  {
-    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Jun 19"
-  },
-  {
-    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers May 19"
-  },
-  {
-    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Sep 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships for individuals Aug 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships for individuals July 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships for individuals Jun 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships for individuals May 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships for individuals Sep 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Aug 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) July 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Jun 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) May 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Sep 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Aug 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping July 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Jun 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping May 19"
-  },
-  {
-    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Sep 19"
-  },
-  {
-    "description": "19+ Trailblazer Apprenticeships for employers Aug 19"
-  },
-  {
-    "description": "19+ Trailblazer Apprenticeships for employers July 19"
-  },
-  {
-    "description": "19+ Trailblazer Apprenticeships for employers Jun 19"
-  },
-  {
-    "description": "19+ Trailblazer Apprenticeships for employers May 19"
-  },
-  {
-    "description": "19+ Trailblazer Apprenticeships for employers Sep 19"
-  },
-  {
-    "description": "Adult Skills and Community Learning (Non-procured AEB) Aug 19"
-  },
-  {
-    "description": "Adult Skills and Community Learning (Non-procured AEB) July 19"
-  },
-  {
-    "description": "Adult Skills and Community Learning (Non-procured AEB) Jun 19"
-  },
-  {
-    "description": "Adult Skills and Community Learning (Non-procured AEB) May 19"
-  },
-  {
-    "description": "Adult Skills and Community Learning (Non-procured AEB) Sep 19"
-  },
-  {
-    "description": "Adult Skills Learner Support (Procured AEB) - profile Aug 19"
-  },
-  {
-    "description": "Adult Skills Learner Support (Procured AEB) - profile July 19"
-  },
-  {
-    "description": "Adult Skills Learner Support (Procured AEB) - profile June 19"
-  },
-  {
-    "description": "Adult Skills Learner Support (Procured AEB) - profile Oct 19"
-  },
-  {
-    "description": "Adult Skills Learner Support (Procured AEB) - profile Sep 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - capping Aug 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - capping July 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - capping Jun 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - capping May 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - capping Sep 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - profile July 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - profile June 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - profile Oct 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary - profile Sep 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary Aug 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary July 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary Jun 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary May 19"
-  },
-  {
-    "description": "Advanced Learner Loans Bursary Sep 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 more-developed area Aug 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 more-developed area July 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 more-developed area May 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 more-developed area Sep 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area - capping July 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area - capping May 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area - capping Sep 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area Aug 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area July 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area May 19"
-  },
-  {
-    "description": "ESF investment priority 1.1 transitional area Sep 19"
-  },
-  {
-    "description": "NCS Community - capping Aug 19"
-  },
-  {
-    "description": "NCS Community - capping July 19"
-  },
-  {
-    "description": "NCS Community - capping May 19"
-  },
-  {
-    "description": "NCS Community Aug 19"
-  },
-  {
-    "description": "NCS Community July 19"
-  },
-  {
-    "description": "NCS Community Jun 19"
-  },
-  {
-    "description": "NCS Community May 19"
-  },
-  {
-    "description": "NCS Community Sep 19"
+    "description": "NCS Community"
   }
 ]
