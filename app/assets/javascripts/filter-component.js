@@ -2,14 +2,12 @@ $(function () {
   let startDate, endDate;
   let textValueObjs = {};
   let filtersObj = {};
-  let descriptionSearchArray = [];
   let qsRegex;
   let $container = $('#isotope2').isotope({
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
     transitionDuration: 0
   });
-
 
 
   updateTotals();
@@ -27,12 +25,7 @@ $(function () {
           let filterValue = '';
           let isMatched = true;
           let $this = $(this);
-          let descriptionSearch = function(){
-            let descriptionString = $this.find('.description').text();
-            console.log(filtersObj['description'],descriptionString)
-            return (filtersObj['description'].includes(descriptionString));
-          };
-          let searchResult = qsRegex ? $this.find('.description').text().match(qsRegex) : true;
+          let searchResult = qsRegex ? $this.text().match(qsRegex) : true;
           let dateResults = function () {
             if (startDate !== undefined && endDate !== undefined) {
               // _this_ is the item element. Get text of element's .number
@@ -46,15 +39,10 @@ $(function () {
 
           for (let prop in filtersObj) {
             // use function if it matches
-            filterValue += filtersObj[prop];
+            filterValue += filtersObj[prop]
             // test each filter
             if (filterValue) {
-              let descriptionString = $this.find('.description').text();
-              let needle = filterValue.split(",");
-              let stringSearch = (descriptionString.includes(needle));
-              let classOrSearch = stringSearch || $(this).is(filterValue);
-
-              isMatched = isMatched && classOrSearch;
+              isMatched = isMatched && $(this).is(filterValue);
             }
             // break if not matched
             if (!isMatched) {
@@ -62,20 +50,21 @@ $(function () {
             }
           }
 
-          return isMatched && dateResults($(this));
+          return searchResult && isMatched && dateResults($(this));
         }
       }
     )
     updateTotals();
   }
-  function updateTotals(){
-    if($('#filterTotal').length){
+
+  function updateTotals() {
+    if ($('#filterTotal').length) {
       let totalValue = 0;
-       let itemElems = $container.isotope('getFilteredItemElements');
-      $(itemElems).each(function(){
+      let itemElems = $container.isotope('getFilteredItemElements');
+      $(itemElems).each(function () {
         let elId = $(this)[0];
         let $amount = $(elId).children('td.transactionAmount').text()
-        let transactionAmount = Number($amount.replace(/[^0-9.-]+/g,""));
+        let transactionAmount = Number($amount.replace(/[^0-9.-]+/g, ""));
         totalValue = parseFloat(transactionAmount) + totalValue;
       });
 
@@ -189,65 +178,22 @@ $(function () {
     return false;
   });
 
-  function debounce( fn, threshold ) {
+  function debounce(fn, threshold) {
     var timeout;
     threshold = threshold || 100;
     return function debounced() {
-      clearTimeout( timeout );
+      clearTimeout(timeout);
       var args = arguments;
       var _this = this;
+
       function delayed() {
-        fn.apply( _this, args );
+        fn.apply(_this, args);
       }
-      timeout = setTimeout( delayed, threshold );
+
+      timeout = setTimeout(delayed, threshold);
     };
   }
-  let $multiSelect = $('.multipleSelect');
 
-  $multiSelect.fastselect({
-    onItemSelect: function(){
-
-    }
-  });
-
-
-  $('#filters').on('submit', function(e){
-    e.preventDefault()
-    const $this = $(this);
-    let formData = $this.serializeArray();
-    let formDateObject = {};
-
-    $(formData).each(function (index, obj) {
-      formDateObject[obj.name] = obj.value;
-    });
-
-    let startDateString = `${formDateObject['start-date-month']}/${formDateObject['start-date-day']}/${formDateObject['start-date-year']}`;
-    let endDateString = `${formDateObject['end-date-month']}/${formDateObject['end-date-day']}/${formDateObject['end-date-year']}`;
-
-    startDate = convertDate(startDateString);
-    endDate = convertDate(endDateString);
-
-
-    $multiSelect.each(function () {
-      const filterGroup = $(this).data('filter-group');
-      const selectedFilters = $(this).data('fastselect').optionsCollection.selectedValues;
-      let filtersArray = [];
-      console.log($(selectedFilters.length))
-      for (const filter in selectedFilters) {
-        filtersArray.push(filter);
-      }
-      filtersObj[filterGroup] = filtersArray;
-    });
-    //qsRegex = new RegExp(filtersObj['description'], 'gi');
-
-
-    updateFilters();
-
-    console.log(filtersObj);
-
-    return false;
-  })
-
-});
+})
 
 
