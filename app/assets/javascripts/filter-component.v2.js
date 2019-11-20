@@ -74,7 +74,14 @@ $(function () {
         let transactionAmount = Number($amount.replace(/[^0-9.-]+/g,""));
         totalValue = parseFloat(transactionAmount) + totalValue;
       });
-      $filterTotal.text(`£${totalValue.toFixed(2)}`)
+      // Create our number formatter.
+      var formatter = new Intl.NumberFormat('en-UK', {
+        style: 'currency',
+        currency: 'GBP',
+      });
+
+      totalValue = formatter.format(totalValue);
+      $filterTotal.text(`${totalValue}`)
     }
   }
   function convertDate(dateString) {
