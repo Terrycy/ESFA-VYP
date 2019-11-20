@@ -12,7 +12,7 @@
         <div id="transaction-summary-accordion-content-1" class="govuk-accordion__section-content"
              aria-labelledby="transaction-summary-accordion-heading-1">
             <table class="govuk-table govuk-table-striped">
-                <caption class="govuk-table__caption">Funding Summary Report</caption>
+                <caption class="govuk-table__caption">Budget group summary</caption>
                 <thead class="govuk-table__head">
                 <tr class="govuk-table__row">
                     <th scope="col" class="govuk-table__header">Budget</th>
@@ -20,7 +20,7 @@
                         Amount
                     </th>
                     <th scope="col" class="govuk-table__header">Budget</th>
-                    <th scope="col" class="govuk-table__header govuk-table__cell--numeric  govuk-!-font-weight-bold">
+                    <th scope="col" class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold">
                         Amount
                     </th>
                 </tr>
@@ -32,9 +32,9 @@
                 <!-- iterate through odd items so we can close the end row -->
                 {% if cls.next() == "odd" %}
                 <tr class="govuk-table__row">
-                    <td class="govuk-table__cell govuk-!-font-weight-bold">{{item.fundingGroup}}
+                    <td class="govuk-table__cell">{{item.fundingGroup}}
                     </td>
-                    <td class="govuk-table__cell govuk-table__cell--numeric">{{item.amount}}</td>
+                    <td class="govuk-table__cell govuk-table__cell--numeric ">{{item.amount}}</td>
                     {% if loop.last %}
                     <td class="govuk-table__cell"></td>
                     <td class="govuk-table__cell"></td>
