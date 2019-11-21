@@ -3,7 +3,7 @@ $(function () {
   let $multiSelect = $('.multipleSelect');
   let filtersObj = {};
   let $filterTotal = $('#filterTotal');
-  let $container = $('#isotope2').isotope({
+  let $container = $('#transaction-table-v2').isotope({
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
     transitionDuration: 0
@@ -12,13 +12,27 @@ $(function () {
   updateTotals();
 
   function updateFilters() {
-    let filterValue = ''
-    for (let prop in filtersObj) {
-      if (filtersObj[prop] !== undefined) {
-        filterValue += filtersObj[prop]
-      }
+    let filterValue = '';
+    function escapeRegExp(string) {
+      return string.replace(/[*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
     }
     // set filter for Isotope
+    var filterFns = {
+      dateResults : function () {
+        if (startDate !== undefined && endDate !== undefined) {
+          // _this_ is the item element. Get text of element's .number
+          let dateVal = new Date($this.find('.transactionDate').text());
+          // return true to show, false to hide
+          return dateVal >= startDate && dateVal <= endDate;
+        } else {
+          return true;
+        }
+      },
+      description: function() {
+        var number = $(this).find('.number').text();
+        return parseInt( number, 10 ) % 2 === 0;
+      }
+    };
     $container.isotope({
         filter: function () {
           let filterValue = '';
@@ -34,7 +48,6 @@ $(function () {
               return true;
             }
           };
-
           for (let prop in filtersObj) {
             // use function if it matches
             filterValue += filtersObj[prop];
@@ -44,13 +57,15 @@ $(function () {
               let stringFound = false;
               let i = 0;
               while (searchParams[i] && stringFound === false) {
-                let searchString = searchParams[i];
-                let globalRegex = new RegExp(searchString.toString(), 'gi');
+                let searchString =  escapeRegExp(searchParams[i]);
+                let globalRegex = new RegExp(searchString, 'gi');
                 let str = $this.find('.description').text();
                 stringFound =  globalRegex.test(str);
                 i++;
-              }
-              let classOrSearch = $(this).is(filterValue) || stringFound;
+              }              
+              escapedFilterValue = escapeRegExp(filterValue)
+
+              let classOrSearch =  stringFound || $(this).is(escapedFilterValue);
               isMatched = isMatched && classOrSearch;
             }
             // break if not matched
@@ -88,6 +103,7 @@ $(function () {
     return new Date(dateString);
   }
   $('#filters').on('submit', function(e){
+    e.preventDefault();
     const $this = $(this);
     let formData = $this.serializeArray();
     let formDateObject = {};
@@ -106,7 +122,6 @@ $(function () {
       const filterGroup = $(this).data('filter-group');
       const selectedFilters = $(this).data('fastselect').optionsCollection.selectedValues;
       let filtersArray = [];
-      console.log($(selectedFilters.length))
       for (const filter in selectedFilters) {
         filtersArray.push(filter);
       }
