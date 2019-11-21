@@ -204,7 +204,7 @@
     "contractNumber": "APPS-1114",
     "fundingGroup": "Apprenticeships Carry-In",
     "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Sep 19",
-    "amount": "£2,700.00",
+    "amount": "-£2,700.00",
     "subtotal": "£1,797,693.47",
     "remittanceID": 1,
     "customClasses": "last-6-months last-3-months last-1-month"
@@ -814,7 +814,7 @@
     "contractNumber": "APPS-1114",
     "fundingGroup": "Apprenticeships Carry-In",
     "description": "16 to 18 Apprenticeships (pre-May 2017) - capping July 19",
-    "amount": "£1,350.00",
+    "amount": "-£1,350.00",
     "subtotal": "£4,557,157.22",
     "remittanceID": 1,
     "customClasses": "last-6-months last-3-months"
@@ -1094,7 +1094,7 @@
     "contractNumber": "APPS-1114",
     "fundingGroup": "Apprenticeships Carry-In",
     "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Jun 19",
-    "amount": "£2,430.00",
+    "amount": "-£2,430.00",
     "subtotal": "£5,700,746.14",
     "remittanceID": 1,
     "customClasses": "last-6-months"
@@ -1414,7 +1414,7 @@
     "contractNumber": "APPS-1114",
     "fundingGroup": "Apprenticeships Carry-In",
     "description": "16 to 18 Apprenticeships (pre-May 2017) - capping May 19",
-    "amount": "£2,700.00",
+    "amount": "-£2,700.00",
     "subtotal": "£7,763,128.96",
     "remittanceID": 1,
     "customClasses": "last-6-months"
