@@ -18,17 +18,13 @@
 
 
 	<tr class="
-     {{item.customClasses}}
      {{'grid-sizer' if loop.first}}
      tb-data-single govuk-table__row grid-item
      {{item.contractNumber}}
      {{item.fundingGroup | replace(' ', '-')}}
-     {{item.amount | replace('£', '') | replace(',', '')}}
-     {{item.description | replace(' ', '-') | replace('\(', '-') | replace('\)', '-')}}"
-		data-transactionDate="{{item.date}}" data-contractNumber="{{item.contractNumber}}"
-		data-fundingGroup="{{item.fundingGroup}}" data-description="{{item.description}}"
-		data-transactionAmount="{{item.amount}}">
-		<td class="govuk-table__cell transactionDate">{{item.date}}</td>
+     "
+		data-transaction-date="{{item.date}}">
+		<td class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
 		<td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
 		<td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
 		<td class="govuk-table__cell description">{{item.description}}</td>
