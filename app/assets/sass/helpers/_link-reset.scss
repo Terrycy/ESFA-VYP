@@ -18,3 +18,10 @@
   background: #0b0c0c;
   opacity: 0.1;
 }
+.govuk-accordion__section-button.govuk-link{
+  text-decoration: underline;
+  color: $govuk-link-colour;
+  &:hover{
+    color: $govuk-link-hover-colour;
+  }
+}
