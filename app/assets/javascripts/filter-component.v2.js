@@ -129,6 +129,11 @@ $(function () {
     });
     updateFilters();
     return false;
+  }).on('reset', function (e) {
+    $('.fstChoiceRemove').each(function(){
+      $(this).trigger('click');
+    });
+    $(this).submit();
   })
 
 });
