@@ -1,17 +1,17 @@
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
+        <h2 class="govuk-heading-m">Search your transactions</h2>
         <div class="quicksearch govuk-form-group">
             <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
-                <h2 class="govuk-heading-m">Search your transactions</h2>
+                Filter by transaction description
             </label>
-            <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true"
+            <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder="Type or click here to search by transaction descriptions"
                     id="quickSearch" name="quick-search"
                     type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
 
         </div>
     </div>
 </div>
-
 <div class="gov-uk-grid-row">
     <form class="" id="filters">
 
@@ -19,10 +19,10 @@
             <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
                 <div class="govuk-form-group govuk-!-margin-right-5">
                     <label class="govuk-label bold" for="byContractNumber">
-                        Filter by Contract number
+                        Filter by contract number
                     </label>
                     <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
-                            name="contractNumber" multiple>
+                            name="contractNumber" placeholder="Type or click here to filter by contract numbers" multiple>
                         {% for item in contractContent %}
                         {% set filterOpt = item.contractNumber | replace(' ', '-') %}
 
@@ -40,11 +40,11 @@
             </fieldset>
             <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
                 <div class="govuk-form-group">
-                    <label class="govuk-label" for="sort">
-                        Filter by Budget group
+                    <label class="govuk-label" for="byFundingGroup">
+                        Filter by budget group
                     </label>
                     <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                            multiple name="byFundingGroup">
+                            multiple name="byFundingGroup" placeholder="Type or click here to filter by funding groups">
                         {% for item in summaryContent %}
                         {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
                         <option data-filter=".{{filterOpt}}"
