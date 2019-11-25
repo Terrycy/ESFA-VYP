@@ -12,31 +12,31 @@
     "subtotal": "£5,062,324.75"
   },
   {
-    "fundingGroupShort": "All Loans",
+    "fundingGroupShort": "Advanced Learner Loans",
     "fundingGroup": "Advanced Learner Loans",
     "amount": "£1,731.00",
     "subtotal": "£5,064,055.75"
   },
   {
-    "fundingGroupShort": "Apps Carry-In",
+    "fundingGroupShort": "Apprenticeships Carry-In",
     "fundingGroup": "Apprenticeships Carry-in",
     "amount": "£9,628.31",
     "subtotal": "£5,073,684.06"
   },
   {
-    "fundingGroupShort": "Apps Levy",
+    "fundingGroupShort": "Apprenticeships Levy",
     "fundingGroup": "Apprenticeships Levy",
     "amount": "£166,868.94",
     "subtotal": "£5,240,553.00"
   },
   {
-    "fundingGroupShort": "ESF",
+    "fundingGroupShort": "European Social Fund",
     "fundingGroup": "European Social Fund",
     "amount": "£0.00",
     "subtotal": "£5,240,553.00"
   },
   {
-    "fundingGroupShort": "NCS",
+    "fundingGroupShort": "National Careers Service",
     "fundingGroup": "National Careers Service",
     "amount": "£0.00",
     "subtotal": "£5,240,553.00"
@@ -60,7 +60,7 @@
     "subtotal": "£206,857,437.00"
   },
   {
-    "fundingGroupShort": "Precured Non-Levy Apps",
+    "fundingGroupShort": "Procured Non-Levy",
     "fundingGroup": "Procured Non-Levy Apprenticeships",
     "amount": "£128,077.75",
     "subtotal": "£206,985,514.75"
