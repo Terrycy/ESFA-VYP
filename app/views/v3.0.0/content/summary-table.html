@@ -3,7 +3,7 @@
         <div class="govuk-accordion__section-header">
 
             <h2 class="govuk-accordion__section-heading govuk-heading-m">
-                <span class="govuk-accordion__section-button" id="transaction-summary-accordion-heading-1">Summary of funding by budget group</span>
+                <span class="govuk-accordion__section-button govuk-link govuk-link--no-visited-state" id="transaction-summary-accordion-heading-1">Summary of funding by budget group</span>
             </h2>
             <div class="govuk-accordion__section-summary govuk-body" id="transaction-summary-accordion-summary-1">
                 Subtotal of the current view <span id="filterTotal"></span>
@@ -39,10 +39,10 @@
                     <td class="govuk-table__cell"></td>
                     <td class="govuk-table__cell"></td>
                 </tr>
-                <tr class="govuk-table__row totals-row">
-                    <td class="govuk-table__cell" colspan="2">Total for above (will do logic for dates)</td>
-                    <td class="govuk-table__cell govuk-table__cell--numeric" colspan="2">{{item.subtotal}}</td>
-                </tr>
+<!--                <tr class="govuk-table__row totals-row">-->
+<!--                    <td class="govuk-table__cell" colspan="2">Total for above (will do logic for dates)</td>-->
+<!--                    <td class="govuk-table__cell govuk-table__cell&#45;&#45;numeric" colspan="2">{{item.subtotal}}</td>-->
+<!--                </tr>-->
                 {% endif %}
 
                 {% else %}

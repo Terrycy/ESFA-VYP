@@ -17,22 +17,7 @@ $(function () {
       return string.replace(/[*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
     }
     // set filter for Isotope
-    var filterFns = {
-      dateResults : function () {
-        if (startDate !== undefined && endDate !== undefined) {
-          // _this_ is the item element. Get text of element's .number
-          let dateVal = new Date($this.find('.transactionDate').text());
-          // return true to show, false to hide
-          return dateVal >= startDate && dateVal <= endDate;
-        } else {
-          return true;
-        }
-      },
-      description: function() {
-        var number = $(this).find('.number').text();
-        return parseInt( number, 10 ) % 2 === 0;
-      }
-    };
+
     $container.isotope({
         filter: function () {
           let filterValue = '';
@@ -41,7 +26,8 @@ $(function () {
           let dateResults = function () {
             if (startDate !== undefined && endDate !== undefined) {
               // _this_ is the item element. Get text of element's .number
-              let dateVal = new Date($this.find('.transactionDate').text());
+              let dateVal = new Date($this.data('transactionDate'));
+              console.log($this.data('transactionDate'))
               // return true to show, false to hide
               return dateVal >= startDate && dateVal <= endDate;
             } else {
@@ -129,6 +115,11 @@ $(function () {
     });
     updateFilters();
     return false;
+  }).on('reset', function (e) {
+    $('.fstChoiceRemove').each(function(){
+      $(this).trigger('click');
+    });
+    $(this).submit();
   })
 
 });
