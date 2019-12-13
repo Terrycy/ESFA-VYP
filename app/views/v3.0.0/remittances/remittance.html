@@ -1,9 +1,9 @@
 <table class="govuk-table" id="remittance-table">
-    <caption class="govuk-table__caption">Dates and amounts</caption>
+    <caption class="govuk-table__caption">Payments history</caption>
     <thead class="govuk-table__head">
     <tr class="govuk-table__row">
-        <th scope="col" class="govuk-table__header">Remittance date and amount</th>
-        <th scope="col" class="govuk-table__header govuk-table__header--numeric">Link to remittance</th>
+        <th scope="col" class="govuk-table__header">Payment date and amount</th>
+        <th scope="col" class="govuk-table__header govuk-table__header--numeric">Payment details</th>
     </tr>
     </thead>
     <tbody class="govuk-table__body">
@@ -19,7 +19,7 @@
                 <span class="amount govuk-body">{{item.transactionAmount | float | currency('£')}}</span>
             </td>
             <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
-                <a href="/payment-history/remittance-statement/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View your payment details</a>
+                <a href="/payment-history/remittance-statement/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>
             </td>
         </tr>
 
