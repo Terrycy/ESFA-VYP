@@ -1,11 +1,14 @@
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
-        <h2 class="govuk-heading-m">Search your transactions</h2>
+        <h2 class="govuk-heading-m">Filter transactions</h2>
         <div class="quicksearch govuk-form-group">
             <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
-                Filter by transaction description
+                Transaction description
+
             </label>
-            <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder="Type or click here to search by transaction descriptions"
+            <span class="govuk-hint">
+Begin typing, and either add from the list that appears or apply your own keywords (for example, ‘Capping’). You can add multiple terms.                </span>
+            <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
                     id="quickSearch" name="quick-search"
                     type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
 
@@ -14,15 +17,15 @@
 </div>
 <div class="gov-uk-grid-row">
     <form class="" id="filters">
-
         <div class="govuk-clearfix" >
             <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
                 <div class="govuk-form-group govuk-!-margin-right-5">
                     <label class="govuk-label bold" for="byContractNumber">
-                        Filter by contract number
-                    </label>
+                        Contract number
+                    </label><span class="govuk-hint">
+Begin typing and add filters from the list that appears.    </span>
                     <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
-                            name="contractNumber" placeholder="Type or click here to filter by contract numbers" multiple>
+                            name="contractNumber" placeholder=" " multiple>
                         {% for item in contractContent %}
                         {% set filterOpt = item.contractNumber | replace(' ', '-') %}
 
@@ -41,10 +44,10 @@
             <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
                 <div class="govuk-form-group">
                     <label class="govuk-label" for="byFundingGroup">
-                        Filter by budget group
-                    </label>
+                        Budget group
+                    </label><span class="govuk-hint">&nbsp; </span>
                     <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                            multiple name="byFundingGroup" placeholder="Type or click here to filter by funding groups">
+                            multiple name="byFundingGroup" placeholder=" ">
                         {% for item in summaryContent %}
                         {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
                         <option data-filter=".{{filterOpt}}"
@@ -258,12 +261,12 @@
 <!--           data-filter-group="fundingGroup, contractNumber, description" data-toggle-all-menus="true">-->
 <!--            <span class="govuk-filter-group__container__title">Refine by</span>-->
 <!--            <span class="govuk-filter-group__container__subtitle"-->
-<!--                  data-default-text="Budget Group, Description or Contract Number">Budget Group, Description or Contract Number</span>-->
+<!--                  data-default-text="Budget group, Description or Contract Number">Budget group, Description or Contract Number</span>-->
 <!--        </a>-->
 <!--        <ul class="govuk-filter-group__submenu hidden filterMenu">-->
 <!--            <li class="govuk-filter-group__submenu__menu-item">-->
 <!--                <a href="#" class="toggle-menu" data-target-element="#byFundingGroup">-->
-<!--                    Budget Group-->
+<!--                    Budget group-->
 <!--                    <span class="govuk-caption-m">Nothing selected</span>-->
 <!--                </a>-->
 <!--            </li>-->
