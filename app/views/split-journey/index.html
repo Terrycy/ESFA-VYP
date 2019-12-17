@@ -1,0 +1,77 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+{% block content %}
+<div class="govuk-width-container">
+    <a href="#" class="govuk-back-link">Back</a>
+    <main class="govuk-main-wrapper">
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <h1 class="govuk-heading-xl">View your payments
+                    <span class="govuk-caption-xl">View and filter payment history and transactions</span>
+                </h1>
+            </div>
+        </div>
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-one-half">
+                <h2 class="govuk-heading-l govuk-!-padding-right-5">View your remittance details
+                    <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.
+</span>
+                </h2>
+                <p>
+                    From here, you can navigate to:
+                </p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>a view of all your grouped payments over a given date range
+                    </li>
+                    <li>individual grouped payments for a given date</li>
+
+                </ul>
+                <p>
+                    <a href="/v3/mvp/payment-history" role="button" draggable="false"
+                       class="govuk-button govuk-button--start" data-module="govuk-button">
+                        View your payment history
+                        <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5"
+                             height="19" viewBox="0 0 33 40" role="presentation" focusable="false">
+                            <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path>
+                        </svg>
+                    </a>
+
+                </p>
+            </div>
+
+            <div class="govuk-grid-column-one-half">
+                <h2 class="govuk-heading-l">View your individual transactions
+                    <span class="govuk-caption-xl">Something about transactions.</span>
+                </h2>
+                <p>
+                    From here, you can navigate to:
+                </p>
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>an exportable list of transactions that made up each payment</li>
+                    <li>a view of all your transactions, which you can search, filter and export according to budget
+                        groups, contract numbers and time periods
+                    </li>
+                </ul>
+                <p></p>
+                <p>
+
+
+                    <a href="/v3/filter-and-export" role="button" draggable="false"
+                       class="govuk-button govuk-button--start" data-module="govuk-button">
+                        Filter and export transactions
+                        <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5"
+                             height="19" viewBox="0 0 33 40" role="presentation" focusable="false">
+                            <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"></path>
+                        </svg>
+                    </a>
+
+                </p>
+            </div>
+        </div>
+    </main>
+</div>
+{% endblock %}
