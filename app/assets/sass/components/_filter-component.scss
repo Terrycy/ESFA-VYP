@@ -180,3 +180,31 @@
 .filter-bottom-group{
   text-align: right;
 }
+
+.filter-button-group{
+  vertical-align: middle;
+
+  .govuk-date-input {
+    font-size: 0;
+  }
+
+  .govuk-date-input:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  .govuk-button {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
+
+  .govuk-date-input__label {
+    display: block;
+  }
+
+  .govuk-date-input__input {
+    margin-bottom: 0;
+  }
+}
