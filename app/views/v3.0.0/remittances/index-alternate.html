@@ -15,7 +15,7 @@ GOV.UK Prototype Kit
                     <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.</span>
                 </h1>
 
-                <form class="">
+                <form class="govuk-form-group" id="datePicker">
                     <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
                               data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
                               aria-describedby="date-range-hint">
@@ -24,9 +24,16 @@ GOV.UK Prototype Kit
                                 What date range are you interested in viewing?
                             </h2>
                         </legend>
+
                         <span id="dob-hint" class="govuk-hint">
       For example, 31 3 2018 to 31 5 2019
     </span>
+                        <span id="three-year-error" class="govuk-error-message">
+  <span class="govuk-visually-hidden">Error:</span> The date must not be more than 3 years from today
+  </span>
+                        <span id="future-date-error" class="govuk-error-message">
+  <span class="govuk-visually-hidden">Error:</span> The date must not be in the future
+  </span>
                         <!--            <span id="date-range-hint" class="govuk-hint">-->
                         <!--                      For example, 12 11 2007-->
                         <!--                    </span>-->
@@ -37,9 +44,9 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="start-date-day">
                                             Day
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                        <input class="govuk-input govuk-date-input__input govuk-date-input__day govuk-input--width-2"
                                                id="start-date-day"
-                                               name="start-date-day" type="number" pattern="[0-9]*" value="19">
+                                               name="start-date-day" type="number" pattern="[1-9]|[12]\d|3[01]" value="19">
                                     </div>
                                 </div>
                                 <div class="govuk-date-input__item">
@@ -47,9 +54,9 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="start-date-month">
                                             Month
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                        <input class="govuk-input govuk-date-input__input govuk-date-input__month  govuk-input--width-2"
                                                id="start-date-month" name="start-date-month" type="number"
-                                               pattern="[0-9]*"
+                                               pattern="^(0?[1-9]|1[012])$"
                                                value="09">
                                     </div>
                                 </div>
@@ -58,9 +65,14 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="start-date-year">
                                             Year
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-4"
+                                        <select class="govuk-input govuk-date-input__input govuk-date-input__year govuk-input--width-4"
                                                id="start-date-year"
-                                               name="start-date-year" type="number" pattern="[0-9]*" value="2019">
+                                                name="start-date-year">
+                                            <option value="2020" >2020</option>
+                                            <option value="2019" selected>2019</option>
+                                            <option value="2018">2018</option>
+                                            <option value="2017">2017</option>
+                                        </select>
                                     </div>
                                 </div>
                             </div>
@@ -71,7 +83,7 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="end-date-day">
                                             Day
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                        <input class="govuk-input govuk-date-input__input govuk-date-input__day govuk-input--width-2"
                                                id="end-date-day"
                                                name="end-date-day" type="number" pattern="[0-9]*" value="19">
                                     </div>
@@ -81,7 +93,7 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="end-date-month">
                                             Month
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                        <input class="govuk-input govuk-date-input__input govuk-date-input__month govuk-input--width-2"
                                                id="end-date-month"
                                                name="end-date-month" type="number" pattern="[0-9]*" value="10">
                                     </div>
@@ -91,9 +103,14 @@ GOV.UK Prototype Kit
                                         <label class="govuk-label govuk-date-input__label" for="end-date-year">
                                             Year
                                         </label>
-                                        <input class="govuk-input govuk-date-input__input govuk-input--width-4"
+                                        <select class="govuk-input govuk-date-input__input govuk-date-input__year govuk-input--width-4"
                                                id="end-date-year"
-                                               name="end-date-year" type="number" pattern="[0-9]*" value="2019">
+                                                name="end-date-year" >
+                                            <option value="2020">2020</option>
+                                            <option value="2019" selected>2019</option>
+                                            <option value="2018">2018</option>
+                                            <option value="2017">2017</option>
+                                        </select>
                                     </div>
                                 </div>
                             </div>
