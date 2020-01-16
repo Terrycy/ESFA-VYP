@@ -1,4 +1,4 @@
-.govuk-filter-group{
+.govuk-filter-group {
   border-width: 1px 0;
   border-style: solid;
   border-color: $govuk-border-colour;
@@ -7,7 +7,8 @@
   position: relative;
   @include govuk-clearfix;
   z-index: 1000;
-  &__container{
+
+  &__container {
     float: left;
     margin: 0;
     padding: 15px;
@@ -22,13 +23,14 @@
     background: white;
     cursor: pointer;
 
-    &__title{
+    &__title {
       @extend .govuk-heading-s;
       margin: 0;
     }
-    &__subtitle{
+
+    &__subtitle {
       @extend .govuk-body;
-      margin-right:45px;
+      margin-right: 45px;
       position: relative;
       max-width: 450px;
       white-space: nowrap;
@@ -36,7 +38,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
 
-      &:after{
+      &:after {
         content: "";
         position: absolute;
         right: -45px;
@@ -45,17 +47,20 @@
         //chevron down
       }
     }
-    &.buttons{
+
+    &.buttons {
       border-right: 0 solid transparent;
       text-align: right;
       float: right;
-      button{
+
+      button {
         margin-top: 5px;
       }
 
     }
   }
-  &__submenu{
+
+  &__submenu {
     list-style: none;
     z-index: 1000;
     background: #fff;
@@ -63,10 +68,12 @@
     padding: 0;
     border: 0 solid transparent;
     border-top: 1px solid $govuk-border-colour;
-    &.hidden{
+
+    &.hidden {
       display: none;
     }
-    &__menu-item{
+
+    &__menu-item {
       @extend .govuk-body;
       margin: 0;
       padding: 15px;
@@ -76,27 +83,32 @@
       border-color: $govuk-border-colour;
       overflow-wrap: break-word;
       position: relative;
-      &.back-link{
+
+      &.back-link {
       }
-      &:hover{
-        background-color:  $govuk-link-hover-colour;
+
+      &:hover {
+        background-color: $govuk-link-hover-colour;
         color: white;
       }
     }
 
   }
 }
-.govuk-button__filters{
- @extend .govuk-button;
+
+.govuk-button__filters {
+  @extend .govuk-button;
   width: 100%;
   margin: 0;
 }
-.filter-form{
+
+.filter-form {
   fieldset {
     max-height: 326px;
     overflow: auto;
   }
-  legend{
+
+  legend {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -108,13 +120,15 @@
     border-color: $govuk-border-colour;
     width: 100%;
     position: relative;
-    &:before{
+
+    &:before {
       content: "";
       display: inline;
       margin-left: 15px;
     }
   }
-  .govuk-custom-checkbox{
+
+  .govuk-custom-checkbox {
     display: list-item;
     position: relative;
     cursor: pointer;
@@ -123,6 +137,7 @@
     -ms-user-select: none;
     user-select: none;
   }
+
   /* Hide the browser's default checkbox */
   input[type=checkbox] {
     position: absolute;
@@ -177,11 +192,29 @@
     transform: rotate(45deg);
   }
 }
-.filter-bottom-group{
+
+.filter-bottom-group {
   text-align: right;
 }
 
-.filter-button-group{
+#three-year-error, #future-date-error {
+  display: none;
+}
+
+.govuk-form-group--error{
+  &.three-year-warning {
+    #three-year-error {
+      display: inherit;
+    }
+  }
+  &.future-date-warning {
+    #future-date-error{
+      display: inherit;
+    }
+  }
+}
+
+.filter-button-group {
   vertical-align: middle;
 
   .govuk-date-input {
