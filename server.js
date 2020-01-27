@@ -13,6 +13,7 @@ const contractData = require('./app/data/filters/contract-numbers')
 const descriptionData = require('./app/data/filters/contract-descriptions')
 const statementData = require('./app/data/statements/statement-v2.0.1.json')
 const remittanceData = require('./app/data/statements/statement-v2.0.1.json')
+const remittanceDataMATS = require('./app/data/statements/statement-MATS.json')
 // const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
@@ -72,6 +73,8 @@ const contractContent = Object.assign(contractData)
 const descriptionContent = Object.assign(descriptionData)
 const statementContent = Object.assign(statementData)
 const remittanceContent = Object.assign(remittanceData)
+const remittanceContentMATS = Object.assign(remittanceDataMATS)
+
 
 const summaryContent = Object.assign(summaryData)
 
@@ -205,6 +208,7 @@ app.locals.descriptionContent = descriptionContent
 app.locals.contractContent = contractContent
 app.locals.statementContent = statementContent
 app.locals.remittanceContent = remittanceContent
+app.locals.remittanceContentMATS = remittanceContentMATS
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal
 

@@ -1,0 +1,31 @@
+<table class="govuk-table" id="remittance-table">
+    <caption class="govuk-table__caption">Payments history</caption>
+    <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+        <th scope="col" class="govuk-table__header">Payment date and amount</th>
+        <th scope="col" class="govuk-table__header govuk-table__header--numeric">Payment details</th>
+    </tr>
+    </thead>
+    <tbody class="govuk-table__body">
+
+    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContent) %}
+
+    {% for item in remittanceData %}
+
+        <tr class="govuk-table__row">
+            <td scope="row" class="govuk-table__header">
+                <span class="date">{{item.transactionDate}}
+                </span><br>
+                <span class="amount govuk-body">{{item.transactionAmount | float | currency('£')}}</span>
+            </td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/payment-history/remittance-statement/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>
+            </td>
+        </tr>
+
+    {% endfor %}
+
+
+    </tbody>
+</table>
+

@@ -49,4 +49,19 @@ router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId'
 })
 
 
+// v4 MATS stuff
+router.get('/v4/vyp', function (req, res) {
+  res.render('v4.0.0/index')
+})
+
+
+router.get('/v4/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v4.0.0/remittance-statement/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
+
 module.exports = router
