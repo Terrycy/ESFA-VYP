@@ -6,8 +6,11 @@ $(function () {
   let $container = $('#transaction-table-v2').isotope({
     itemSelector: '.tb-data-single',
     layoutMode: 'vertical',
-    transitionDuration: 0
+    transitionDuration: 0,
   });
+  $('#transaction-table-v2').attr('style', '');
+  $('.tb-data-single').css({'position': '', 'left':'', 'top':''});
+
   $multiSelect.fastselect();
   updateTotals();
 
@@ -27,7 +30,6 @@ $(function () {
             if (startDate !== undefined && endDate !== undefined) {
               // _this_ is the item element. Get text of element's .number
               let dateVal = new Date($this.data('transactionDate'));
-              console.log($this.data('transactionDate'))
               // return true to show, false to hide
               return dateVal >= startDate && dateVal <= endDate;
             } else {
@@ -49,7 +51,7 @@ $(function () {
                 stringFound =  globalRegex.test(str);
                 i++;
               }              
-              escapedFilterValue = escapeRegExp(filterValue)
+              let escapedFilterValue = escapeRegExp(filterValue)
 
               let classOrSearch =  stringFound || $(this).is(escapedFilterValue);
               isMatched = isMatched && classOrSearch;
@@ -64,6 +66,8 @@ $(function () {
       }
     );
     updateTotals();
+    $('#transaction-table-v2').attr('style', '');
+    $('.tb-data-single').css({'position': '', 'left':'', 'top':''});
   }
   function updateTotals(){
     if($filterTotal.length){
@@ -93,14 +97,12 @@ $(function () {
     const $this = $(this);
     let formData = $this.serializeArray();
     let formDateObject = {};
-
     $(formData).each(function (index, obj) {
       formDateObject[obj.name] = obj.value;
     });
 
     let startDateString = `${formDateObject['start-date-month']}/${formDateObject['start-date-day']}/${formDateObject['start-date-year']}`;
     let endDateString = `${formDateObject['end-date-month']}/${formDateObject['end-date-day']}/${formDateObject['end-date-year']}`;
-
     startDate = convertDate(startDateString);
     endDate = convertDate(endDateString);
 

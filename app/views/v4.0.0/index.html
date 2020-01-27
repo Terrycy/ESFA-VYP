@@ -1,0 +1,161 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<div class="govuk-width-container">
+    <a href="#" class="govuk-back-link">Back</a>
+    <main class="govuk-main-wrapper">
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <h1 class="govuk-heading-xl">Payment history
+                    <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.</span>
+                </h1>
+
+                <form class="govuk-form-group date-picker" id="filters">
+                    <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
+                              data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
+                              aria-describedby="date-range-hint">
+                        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m">
+                            <h2 class="govuk-fieldset__heading">
+                                What date range are you interested in viewing?
+                            </h2>
+                        </legend>
+
+                        <span id="dob-hint" class="govuk-hint">
+      For example, 31 3 2018 to 31 5 2019
+    </span>
+                        <span id="three-year-error" class="govuk-error-message">
+  <span class="govuk-visually-hidden">Error:</span> The date must not be more than 3 years from today
+  </span>
+                        <span id="future-date-error" class="govuk-error-message">
+  <span class="govuk-visually-hidden">Error:</span> The date must not be in the future
+  </span>
+                        <!--            <span id="date-range-hint" class="govuk-hint">-->
+                        <!--                      For example, 12 11 2007-->
+                        <!--                    </span>-->
+                        <div class="govuk-grid-row">
+                            <div class="govuk-date-input govuk-grid-column-two-thirds">
+                                <div class="govuk-!-display-inline-block" id="start-date">
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="start-date-day">
+                                                Day
+                                            </label>
+                                            <input class="govuk-input govuk-date-input__input govuk-date-input__day govuk-input--width-2"
+                                                   id="start-date-day"
+                                                   name="start-date-day" type="number" pattern="[1-9]|[12]\d|3[01]" value="19">
+                                        </div>
+                                    </div>
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="start-date-month">
+                                                Month
+                                            </label>
+                                            <input class="govuk-input govuk-date-input__input govuk-date-input__month  govuk-input--width-2"
+                                                   id="start-date-month" name="start-date-month" type="number"
+                                                   pattern="^(0?[1-9]|1[012])$"
+                                                   value="09">
+                                        </div>
+                                    </div>
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="start-date-year">
+                                                Year
+                                            </label>
+                                            <select class="govuk-input govuk-date-input__input govuk-date-input__year govuk-input--width-4"
+                                                    id="start-date-year"
+                                                    name="start-date-year">
+                                                <option value="2020" >2020</option>
+                                                <option value="2019">2019</option>
+                                                <option value="2018">2018</option>
+                                                <option value="2017" selected>2017</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="govuk-!-display-inline-block govuk-!-margin-right-5">to</p>
+                                <div id="end-date" class="govuk-!-display-inline-block">
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="end-date-day">
+                                                Day
+                                            </label>
+                                            <input class="govuk-input govuk-date-input__input govuk-date-input__day govuk-input--width-2"
+                                                   id="end-date-day"
+                                                   name="end-date-day" type="number" pattern="[0-9]*" value="19">
+                                        </div>
+                                    </div>
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="end-date-month">
+                                                Month
+                                            </label>
+                                            <input class="govuk-input govuk-date-input__input govuk-date-input__month govuk-input--width-2"
+                                                   id="end-date-month"
+                                                   name="end-date-month" type="number" pattern="[0-9]*" value="01">
+                                        </div>
+                                    </div>
+                                    <div class="govuk-date-input__item">
+                                        <div class="govuk-form-group">
+                                            <label class="govuk-label govuk-date-input__label" for="end-date-year">
+                                                Year
+                                            </label>
+                                            <select class="govuk-input govuk-date-input__input govuk-date-input__year govuk-input--width-4"
+                                                    id="end-date-year"
+                                                    name="end-date-year" >
+                                                <option value="2020" selected>2020</option>
+                                                <option value="2019">2019</option>
+                                                <option value="2018">2018</option>
+                                                <option value="2017">2017</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </fieldset>
+                    <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-!-font-weight-bold" for="byFundingGroup">
+                                Filter by academy
+                            </label>
+                            <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
+                                    multiple name="byFundingGroup" placeholder="All academies">
+                                <option value=".Alpha-academy">Alpha academy</option>
+                                <option value=".Beta-academy">Beta academy</option>
+                                <option value=".Charlie-academy">Charlie academy</option>
+                                <option value=".Delta-academy">Delta academy</option>
+                                <option value=".Echo-academy">Echo academy</option>
+                            </select>
+                        </div>
+                    </fieldset>
+
+                    <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
+                        <button class="govuk-button govuk-button--secondary  govuk-!-margin-right-1" type="reset"
+                                data-module="govuk-button">
+                            Reset
+                        </button>
+                        <button class="govuk-button" data-module="govuk-button" type="submit">
+                            Apply
+                        </button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                {% include "./remittance.html" %}
+            </div>
+        </div>
+    </main>
+</div>
+
+{% endblock %}

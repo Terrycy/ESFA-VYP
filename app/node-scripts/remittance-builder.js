@@ -11,6 +11,8 @@ const mapRemittanceData = (data) => {
 
   for (const lineItem in remittanceData) {
     if (remittanceData[lineItem].hasOwnProperty('date')) {
+      const academy = (remittanceData[lineItem].academy) ? remittanceData[lineItem].academy : "";
+
       const lineItemDate = remittanceData[lineItem].date;
       const lineItemID = Number(remittanceData[lineItem].remittanceID);
       let lineItemAmount = parseFloat(remittanceData[lineItem].amount.replace(/[^0-9.-]+/g,""));
@@ -19,7 +21,7 @@ const mapRemittanceData = (data) => {
         lineRunningTotal = lineItemAmount;
         temporaryID = lineItemID;
         temporaryDate = lineItemDate;
-        temporaryRemittanceLineItem = new RemittanceLineItem(lineItemDate, lineItemAmount, lineItem, lineItemID);
+        temporaryRemittanceLineItem = new RemittanceLineItem(academy, lineItemDate, lineItemAmount, lineItem, lineItemID);
 
       } else {
         lineRunningTotal = parseFloat(lineRunningTotal) + lineItemAmount;
@@ -37,10 +39,11 @@ const mapRemittanceData = (data) => {
 
 
 class RemittanceLineItem {
-  constructor(transactionDate, transactionAmount, transactionID, remittanceID) {
+  constructor(academy, transactionDate, transactionAmount, transactionID, remittanceID) {
     this.transactionDate = transactionDate;
     this.transactionAmount = transactionAmount;
     this.lineID = transactionID;
+    this.academy = academy;
     this.remittanceID = remittanceID
   }
 
