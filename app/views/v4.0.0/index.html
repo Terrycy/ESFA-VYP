@@ -15,7 +15,7 @@ GOV.UK Prototype Kit
                     <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.</span>
                 </h1>
 
-                <form class="govuk-form-group" id="datePicker">
+                <form class="govuk-form-group date-picker" id="filters">
                     <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
                               data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
                               aria-describedby="date-range-hint">
@@ -70,9 +70,9 @@ GOV.UK Prototype Kit
                                                     id="start-date-year"
                                                     name="start-date-year">
                                                 <option value="2020" >2020</option>
-                                                <option value="2019" selected>2019</option>
+                                                <option value="2019">2019</option>
                                                 <option value="2018">2018</option>
-                                                <option value="2017">2017</option>
+                                                <option value="2017" selected>2017</option>
                                             </select>
                                         </div>
                                     </div>
@@ -96,7 +96,7 @@ GOV.UK Prototype Kit
                                             </label>
                                             <input class="govuk-input govuk-date-input__input govuk-date-input__month govuk-input--width-2"
                                                    id="end-date-month"
-                                                   name="end-date-month" type="number" pattern="[0-9]*" value="10">
+                                                   name="end-date-month" type="number" pattern="[0-9]*" value="01">
                                         </div>
                                     </div>
                                     <div class="govuk-date-input__item">
@@ -107,8 +107,8 @@ GOV.UK Prototype Kit
                                             <select class="govuk-input govuk-date-input__input govuk-date-input__year govuk-input--width-4"
                                                     id="end-date-year"
                                                     name="end-date-year" >
-                                                <option value="2020">2020</option>
-                                                <option value="2019" selected>2019</option>
+                                                <option value="2020" selected>2020</option>
+                                                <option value="2019">2019</option>
                                                 <option value="2018">2018</option>
                                                 <option value="2017">2017</option>
                                             </select>
@@ -119,26 +119,23 @@ GOV.UK Prototype Kit
 
 
                         </div>
-                        <div class="govuk-grid-row">
-                            <div class="govuk-grid-column-one-third">
-                                <br>
-                                <label class="govuk-label govuk-date-input__label govuk-!-font-weight-bold" for="academy-selector">
-                                    Filter by academy
-                                </label>
-                                <select class="govuk-input govuk-academy-input__input"
-                                        id="academy-selector"
-                                        name="academy-selector" >
-                                    <option value="" selected>All Academy's</option>
-                                    <option value=".Alpha-academy">Alpha academy</option>
-                                    <option value=".Beta-academy">Beta academy</option>
-                                    <option value=".Charlie-academy">Charlie academy</option>
-                                    <option value=".Delta-academy">Delta academy</option>
-                                    <option value=".Echo-academy">Echo academy</option>
-                                </select>
-                            </div>
-                        </div>
-
                     </fieldset>
+                    <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-!-font-weight-bold" for="byFundingGroup">
+                                Filter by academy
+                            </label>
+                            <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
+                                    multiple name="byFundingGroup" placeholder="All academies">
+                                <option value=".Alpha-academy">Alpha academy</option>
+                                <option value=".Beta-academy">Beta academy</option>
+                                <option value=".Charlie-academy">Charlie academy</option>
+                                <option value=".Delta-academy">Delta academy</option>
+                                <option value=".Echo-academy">Echo academy</option>
+                            </select>
+                        </div>
+                    </fieldset>
+
                     <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
                         <button class="govuk-button govuk-button--secondary  govuk-!-margin-right-1" type="reset"
                                 data-module="govuk-button">

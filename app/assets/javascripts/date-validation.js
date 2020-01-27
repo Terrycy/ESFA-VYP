@@ -1,6 +1,3 @@
-let checkDateDay;
-let checkDateMonth;
-
 let calendarObj = {
   1: 31,
   2: 28,
@@ -25,7 +22,7 @@ let leapYear = function (yearVal) {
 let todaysDate = new Date();
 let pastDate = new Date();
 pastDate.setDate(pastDate.getDate() - (365 * 3)-1);
-const $datePicker = $('#datePicker');
+const $datePicker = $('.date-picker');
 
 $('#start-date').on('change', function () {
   const $startDay = $(this).find('.govuk-date-input__day'), $startMonth = $(this).find('.govuk-date-input__month'),
