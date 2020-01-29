@@ -53,6 +53,9 @@ router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId'
 router.get('/v4/vyp', function (req, res) {
   res.render('v4.0.0/index')
 })
+router.get('/v4/filter-and-export', function (req, res) {
+  res.render('v4.0.0/transaction-view/index')
+})
 
 
 router.get('/v4/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
