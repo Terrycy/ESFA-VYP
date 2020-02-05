@@ -2,7 +2,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "3 March 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
     "amount": "£ 9,750.00"
@@ -10,7 +10,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "3 March 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
     "amount": "£ 4,000.00"
@@ -18,7 +18,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "3 March 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
     "amount": "-£ 1,420.00"
@@ -26,7 +26,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "3 March 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
     "amount": "£ 380,837.66"
@@ -34,247 +34,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-343268",
-    "description": "Other Factors",
-    "amount": "£ 9,168.13"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-343268",
-    "description": "MFG",
-    "amount": "-£ 275.24"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-343268",
-    "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 3,080.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 36,792.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-305006",
-    "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-305006",
-    "description": "Other Factors",
-    "amount": "£ 10,387.87"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-305006",
-    "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-305006",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 9,680.00"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Other Factors",
-    "amount": "£ 9,918.67"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£ 8,818.97"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 13,200.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 13,608.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-318221",
-    "description": "Other Factors",
-    "amount": "£ 22,916.67"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "AC100-318221",
-    "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 March 19",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 4,840.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "7 April 19",
-    "contractNumber": "AC100-316978",
-    "description": "Other Factors",
-    "amount": "£ 9,750.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "7 April 19",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "7 April 19",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "7 April 19",
-    "contractNumber": "AC100-316978",
-    "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 2,587.00"
@@ -282,15 +42,15 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£ 97,941.25"
+    "description": "Universal Infant Free School Meal Funding",
+    "amount": "£ 92,941.25"
   },
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
     "amount": "£ 9,168.13"
@@ -298,7 +58,7 @@
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
     "amount": "-£ 275.24"
@@ -306,23 +66,23 @@
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
+    "amount": "£ 114,955.00"
   },
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
+    "description": "Universal Infant Free School Meal Funding",
     "amount": "£ 56,100.00"
   },
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
     "amount": "£ 36,792.00"
@@ -330,7 +90,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 1,537.00"
@@ -338,7 +98,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
     "amount": "£ 600,412.13"
@@ -346,7 +106,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
     "amount": "£ 10,387.87"
@@ -354,15 +114,15 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
+    "amount": "£ 112,812.91"
   },
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
     "amount": "-£ 3,116.67"
@@ -370,23 +130,23 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
+    "description": "Universal Infant Free School Meal Funding",
     "amount": "£ 79,616.25"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
+    "amount": "£ 463,083.59"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
     "amount": "£ 9,918.67"
@@ -394,7 +154,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
     "amount": "-£ 8,818.97"
@@ -402,7 +162,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
     "amount": "£ 1,500.00"
@@ -410,7 +170,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
     "amount": "£ 75,843.17"
@@ -418,15 +178,15 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
+    "amount": "-£ 2,154.67"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
     "amount": "£ 1,633.36"
@@ -434,23 +194,23 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
+    "description": "Universal Infant Free School Meal Funding",
     "amount": "£ 72,635.63"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 13,608.00"
+    "amount": "£ 12,608.00"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
     "amount": "£ 22,916.67"
@@ -458,7 +218,7 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 1,637.00"
@@ -466,7 +226,7 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
     "amount": "-£ 745.00"
@@ -474,266 +234,18 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
+    "amount": "£ 143,340.02"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "7 April 19",
+    "date": "4 July 19",
     "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£ 28,938.75"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-316978",
-    "description": "Other Factors",
-    "amount": "£ 9,750.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-316978",
-    "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
-  },
-  {
-    "remittanceID": 1,
-    "academy": "Alpha academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£ 16,800.00"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-343268",
-    "description": "Other Factors",
-    "amount": "£ 9,168.13"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-343268",
-    "description": "MFG",
-    "amount": "-£ 275.24"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-343268",
-    "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
-  },
-  {
-    "remittanceID": 2,
-    "academy": "Beta academy",
-    "date": "3 May 19",
-    "contractNumber": "EUPS100527",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£ 5,055.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 36,792.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-305006",
-    "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-305006",
-    "description": "Other Factors",
-    "amount": "£ 10,387.87"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-305006",
-    "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-305006",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
-  },
-  {
-    "remittanceID": 3,
-    "academy": "Charlie academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£ 35,669.00"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Other Factors",
-    "amount": "£ 9,918.67"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£ 8,818.97"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-304612",
-    "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
-  },
-  {
-    "remittanceID": 4,
-    "academy": "Delta academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£ 27,310.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 13,608.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-318221",
-    "description": "Other Factors",
-    "amount": "£ 22,916.67"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "AC100-318221",
-    "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
-  },
-  {
-    "remittanceID": 5,
-    "academy": "Echo academy",
-    "date": "3 May 19",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£ 8,827.00"
+    "description": "Universal Infant Free School Meal Funding",
+    "amount": "£ 24,938.75"
   },
   {
     "remittanceID": 1,
@@ -1010,7 +522,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
     "amount": "£ 9,750.00"
@@ -1018,7 +530,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
     "amount": "£ 4,000.00"
@@ -1026,7 +538,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
     "amount": "-£ 1,420.00"
@@ -1034,7 +546,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
     "amount": "£ 380,837.66"
@@ -1042,7 +554,7 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 2,587.00"
@@ -1050,15 +562,15 @@
   {
     "remittanceID": 1,
     "academy": "Alpha academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 92,941.25"
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£ 16,800.00"
   },
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
     "amount": "£ 9,168.13"
@@ -1066,7 +578,7 @@
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
     "amount": "-£ 275.24"
@@ -1074,23 +586,23 @@
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 114,955.00"
+    "amount": "£ 134,955.00"
   },
   {
     "remittanceID": 2,
     "academy": "Beta academy",
-    "date": "4 July 19",
-    "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 56,100.00"
+    "date": "3 May 19",
+    "contractNumber": "EUPS100527",
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£ 5,055.00"
   },
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
     "amount": "£ 36,792.00"
@@ -1098,7 +610,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 1,537.00"
@@ -1106,7 +618,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
     "amount": "£ 600,412.13"
@@ -1114,7 +626,7 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
     "amount": "£ 10,387.87"
@@ -1122,15 +634,15 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 112,812.91"
+    "amount": "£ 122,812.91"
   },
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
     "amount": "-£ 3,116.67"
@@ -1138,23 +650,23 @@
   {
     "remittanceID": 3,
     "academy": "Charlie academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 79,616.25"
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£ 35,669.00"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 463,083.59"
+    "amount": "£ 483,083.59"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
     "amount": "£ 9,918.67"
@@ -1162,7 +674,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
     "amount": "-£ 8,818.97"
@@ -1170,7 +682,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
     "amount": "£ 1,500.00"
@@ -1178,7 +690,7 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
     "amount": "£ 75,843.17"
@@ -1186,15 +698,15 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,154.67"
+    "amount": "-£ 2,196.67"
   },
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
     "amount": "£ 1,633.36"
@@ -1202,23 +714,23 @@
   {
     "remittanceID": 4,
     "academy": "Delta academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 72,635.63"
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£ 27,310.00"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£ 12,608.00"
+    "amount": "£ 13,608.00"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
     "amount": "£ 22,916.67"
@@ -1226,7 +738,7 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
     "amount": "-£ 1,637.00"
@@ -1234,7 +746,7 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
     "amount": "-£ 745.00"
@@ -1242,17 +754,505 @@
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 143,340.02"
+    "amount": "£ 163,340.02"
   },
   {
     "remittanceID": 5,
     "academy": "Echo academy",
-    "date": "4 July 19",
+    "date": "3 May 19",
     "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 24,938.75"
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£ 8,827.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-316978",
+    "description": "Other Factors",
+    "amount": "£ 9,750.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£ 4,000.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 1,420.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-316978",
+    "description": "Pupil Led Factors",
+    "amount": "£ 380,837.66"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 2,587.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£ 97,941.25"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-343268",
+    "description": "Other Factors",
+    "amount": "£ 9,168.13"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-343268",
+    "description": "MFG",
+    "amount": "-£ 275.24"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-343268",
+    "description": "Pupil Led Factors",
+    "amount": "£ 134,955.00"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£ 56,100.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£ 36,792.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 1,537.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-305006",
+    "description": "Pupil Led Factors",
+    "amount": "£ 600,412.13"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-305006",
+    "description": "Other Factors",
+    "amount": "£ 10,387.87"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-305006",
+    "description": "Academies Programme Funding",
+    "amount": "£ 122,812.91"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-305006",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 3,116.67"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£ 79,616.25"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Pupil Led Factors",
+    "amount": "£ 483,083.59"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Other Factors",
+    "amount": "£ 9,918.67"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£ 8,818.97"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies High Needs Element 2",
+    "amount": "£ 1,500.00"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies Programme Funding",
+    "amount": "£ 75,843.17"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 2,196.67"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies Formula Protection Funding",
+    "amount": "£ 1,633.36"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£ 72,635.63"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£ 13,608.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-318221",
+    "description": "Other Factors",
+    "amount": "£ 22,916.67"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 1,637.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 745.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "AC100-318221",
+    "description": "Pupil Led Factors",
+    "amount": "£ 163,340.02"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "7 April 19",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£ 28,938.75"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-316978",
+    "description": "Other Factors",
+    "amount": "£ 9,750.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£ 4,000.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 1,420.00"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-316978",
+    "description": "Pupil Led Factors",
+    "amount": "£ 380,837.66"
+  },
+  {
+    "remittanceID": 1,
+    "academy": "Alpha academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 2,587.00"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-343268",
+    "description": "Other Factors",
+    "amount": "£ 9,168.13"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-343268",
+    "description": "MFG",
+    "amount": "-£ 275.24"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-343268",
+    "description": "Pupil Led Factors",
+    "amount": "£ 134,955.00"
+  },
+  {
+    "remittanceID": 2,
+    "academy": "Beta academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£ 3,080.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£ 36,792.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 1,537.00"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-305006",
+    "description": "Pupil Led Factors",
+    "amount": "£ 600,412.13"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-305006",
+    "description": "Other Factors",
+    "amount": "£ 10,387.87"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-305006",
+    "description": "Academies Programme Funding",
+    "amount": "£ 122,812.91"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-305006",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 3,116.67"
+  },
+  {
+    "remittanceID": 3,
+    "academy": "Charlie academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£ 9,680.00"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Pupil Led Factors",
+    "amount": "£ 483,083.59"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Other Factors",
+    "amount": "£ 9,918.67"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£ 8,818.97"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies High Needs Element 2",
+    "amount": "£ 1,500.00"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies Programme Funding",
+    "amount": "£ 75,843.17"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 2,196.67"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-304612",
+    "description": "Academies Formula Protection Funding",
+    "amount": "£ 1,633.36"
+  },
+  {
+    "remittanceID": 4,
+    "academy": "Delta academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£ 13,200.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£ 13,608.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-318221",
+    "description": "Other Factors",
+    "amount": "£ 22,916.67"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£ 1,637.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£ 745.00"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "AC100-318221",
+    "description": "Pupil Led Factors",
+    "amount": "£ 163,340.02"
+  },
+  {
+    "remittanceID": 5,
+    "academy": "Echo academy",
+    "date": "3 March 19",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£ 4,840.00"
   }
 ]
