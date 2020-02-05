@@ -12,22 +12,16 @@ GOV.UK Prototype Kit
         <div class="govuk-grid-row">
             <div class="govuk-grid-column-full">
                 <h1 class="govuk-heading-xl">Payment history
-                    <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.</span>
+                    <span class="govuk-caption-xl">A list of the funding payments that you’ve received from the ESFA.</span>
                 </h1>
 
                 <form class="govuk-form-group date-picker" id="filters">
                     <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
                               data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
                               aria-describedby="date-range-hint">
-                        <legend class="govuk-fieldset__legend govuk-fieldset__legend--m">
-                            <h2 class="govuk-fieldset__heading">
-                                What date range are you interested in viewing?
-                            </h2>
-                        </legend>
-
-                        <span id="dob-hint" class="govuk-hint">
-      For example, 31 3 2018 to 31 5 2019
-    </span>
+                              <label class="govuk-label govuk-!-font-weight-bold" for="byFundingGroup">
+                                Filter by date
+                            </label>
                         <span id="three-year-error" class="govuk-error-message">
   <span class="govuk-visually-hidden">Error:</span> The date must not be more than 3 years from today
   </span>

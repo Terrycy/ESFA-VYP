@@ -1,13 +1,24 @@
-<table id="transaction-table" class="govuk-table grid">
+<table id="transaction-table" class="govuk-table grid sortable">
 	<caption class="govuk-table__caption govuk-visually-hidden">Transactions</caption>
 	<thead class="govuk-table__head" class="sort">
 	<tr class="govuk-table__row btn-group" id="sorts2">
-		<th scope="col" class="govuk-table__header asc transactionDate" data-sort-value="transactionDate">Date</th>
-		<th scope="col" class="govuk-table__header academy" data-sort-value="academy">Academy Name</th>
-		<th scope="col" class="govuk-table__header description" data-sort-value="description">Description</th>
+		<th scope="col" class="govuk-table__header asc transactionDate sortable-column" data-sort-value="transactionDate">
+			<span class="th-content">Date</span>
+			
+		</th>
+		<th scope="col" class="govuk-table__header academy sortable-column" data-sort-value="academy">
+			<span class="th-content">Academy Name</span>
+			
+		</th>
+		<th scope="col" class="govuk-table__header description sortable-column" data-sort-value="description">
+			<span class="th-content">Description</span>
+			
+		</th>
 		<th scope="col"
-			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount"
-			data-sort-value="transactionAmount">Amount
+			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount sortable-column"
+			data-sort-value="transactionAmount">
+			<span class="th-content">Amount</span>
+			
 		</th>
 	</tr>
 	</thead>
@@ -23,12 +34,12 @@
 	 {{item.academy | replace(' ', '-')}}
      "
 		data-transaction-date="{{item.date}}">
-		<td class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
+		<td scope="row" class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
 		<td scope="row" class="govuk-table__cell">
 			<span class="academyName">{{item.academy}}</span>
 		</td>
-		<td class="govuk-table__cell description">{{item.description}}</td>
-		<td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
+		<td scope="row" class="govuk-table__cell description">{{item.description}}</td>
+		<td scope="row" class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>
 
 	{% else %}
