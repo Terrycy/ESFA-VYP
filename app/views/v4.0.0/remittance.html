@@ -8,7 +8,7 @@
     </thead>
     <tbody class="govuk-table__body" id="transaction-table">
 
-    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContentMATS) %}
+    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContentMATSFilter) %}
 
     {% for item in remittanceData %}
 

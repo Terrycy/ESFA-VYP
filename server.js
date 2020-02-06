@@ -14,6 +14,7 @@ const descriptionData = require('./app/data/filters/contract-descriptions')
 const statementData = require('./app/data/statements/statement-v2.0.1.json')
 const remittanceData = require('./app/data/statements/statement-v2.0.1.json')
 const remittanceDataMATS = require('./app/data/statements/statement-MATS.json')
+const remittanceDataMATSFilter = require('./app/data/statements/statement-MATS-remittance.json')
 // const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
@@ -74,6 +75,7 @@ const descriptionContent = Object.assign(descriptionData)
 const statementContent = Object.assign(statementData)
 const remittanceContent = Object.assign(remittanceData)
 const remittanceContentMATS = Object.assign(remittanceDataMATS)
+const remittanceContentMATSFilter = Object.assign(remittanceDataMATSFilter)
 
 
 const summaryContent = Object.assign(summaryData)
@@ -209,6 +211,7 @@ app.locals.contractContent = contractContent
 app.locals.statementContent = statementContent
 app.locals.remittanceContent = remittanceContent
 app.locals.remittanceContentMATS = remittanceContentMATS
+app.locals.remittanceContentMATSFilter = remittanceContentMATSFilter
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal
 
