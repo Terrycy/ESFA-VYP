@@ -1,23 +1,20 @@
 [
-    {
-      "contractNumber": "AC100-316978"
-    },
-    {
-      "contractNumber": "(blank)"
-    },
-    {
-      "contractNumber": "AC100-343268"
-    },
-    {
-      "contractNumber": "AC100-305006"
-    },
-    {
-      "contractNumber": "AC100-304612"
-    },
-    {
-      "contractNumber": "AC100-318221"
-    },
-    {
-      "contractNumber": "EUPS100527"
-    }
-  ]
+  {
+    "AC100-316978": "AC100-305006"
+  },
+  {
+    "AC100-316978": "AC100-304612"
+  },
+  {
+    "AC100-316978": "AC100-318221"
+  },
+  {
+    "AC100-316978": "(blank)"
+  },
+  {
+    "AC100-316978": "AC100-343268"
+  },
+  {
+    "AC100-316978": "EUPS100527"
+  }
+]
