@@ -19,3 +19,10 @@
 {% if useAutoStoreData %}
   <script src="/public/javascripts/auto-store-data.js"></script>
 {% endif %}
+<script>
+  function reset_options() {
+      document.getElementById('byFundingGroup').options.length = 0;
+      return true;
+  }
+  
+  </script>

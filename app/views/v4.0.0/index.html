@@ -6,7 +6,7 @@ GOV.UK Prototype Kit
 
 
 {% block content %}
-<div class="govuk-width-container">
+<div class="govuk-width-container" onbeforeunload='reset_options()'>
     <a href="#" class="govuk-back-link">Back</a>
     <main class="govuk-main-wrapper">
         <div class="govuk-grid-row">
@@ -120,7 +120,7 @@ GOV.UK Prototype Kit
                                 Filter by academy
                             </label>
                             <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                                    multiple name="byFundingGroup" placeholder="All academies">
+                                    multiple name="byFundingGroup" placeholder="All academies" onload='reset_options()'>
                                 <option value=".Alpha-academy">Alpha academy</option>
                                 <option value=".Beta-academy">Beta academy</option>
                                 <option value=".Charlie-academy">Charlie academy</option>
@@ -135,7 +135,7 @@ GOV.UK Prototype Kit
                                 data-module="govuk-button">
                             Reset
                         </button>
-                        <button class="govuk-button" data-module="govuk-button" type="submit">
+                        <button class="govuk-button" data-module="govuk-button" type="submit" onClick='reset_options()'>
                             Apply
                         </button>
                     </div>
