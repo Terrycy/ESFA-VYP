@@ -57,6 +57,14 @@ router.get('/v4/filter-and-export', function (req, res) {
   res.render('v4.0.0/transaction-view/index')
 })
 
+// v4.1 fixed MATs
+router.get('/v4.1/vyp', function (req, res) {
+  res.render('v4.1.0/index')
+})
+router.get('/v4.1/filter-and-export', function (req, res) {
+  res.render('v4.1.0/transaction-view/index')
+})
+
 
 router.get('/v4/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
 
