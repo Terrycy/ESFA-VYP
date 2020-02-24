@@ -51,7 +51,7 @@ $(function () {
                 stringFound =  globalRegex.test(str);
                 i++;
               }              
-              let escapedFilterValue = escapeRegExp(filterValue)
+              let escapedFilterValue = escapeRegExp(filterValue);
 
               let classOrSearch =  stringFound || $(this).is(escapedFilterValue);
               isMatched = isMatched && classOrSearch;
