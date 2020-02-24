@@ -5,7 +5,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
+    "amount": "-£ 1,420.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 3,
@@ -13,7 +14,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
+    "amount": "-£ 3,116.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -21,7 +23,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,154.67"
+    "amount": "-£ 2,154.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 5,
@@ -29,7 +32,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
+    "amount": "-£ 745.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -37,7 +41,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
+    "amount": "£ 1,633.36",
+    "realdescription": "Academies Formula Protection Funding"
   },
   {
     "remittanceID": 4,
@@ -45,7 +50,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
+    "amount": "£ 1,500.00",
+    "realdescription": "Academies High Needs Element 2"
   },
   {
     "remittanceID": 3,
@@ -53,7 +59,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 112,812.91"
+    "amount": "£ 112,812.91",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 4,
@@ -61,7 +68,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
+    "amount": "£ 75,843.17",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 1,
@@ -69,7 +77,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
+    "amount": "-£ 2,587.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 3,
@@ -77,7 +86,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
+    "amount": "-£ 1,537.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 5,
@@ -85,7 +95,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
+    "amount": "-£ 1,637.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 2,
@@ -93,7 +104,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
-    "amount": "-£ 275.24"
+    "amount": "-£ 275.24",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 4,
@@ -101,7 +113,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
-    "amount": "-£ 8,818.97"
+    "amount": "-£ 8,818.97",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 1,
@@ -109,7 +122,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
-    "amount": "£ 9,750.00"
+    "amount": "£ 9,750.00",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 2,
@@ -117,7 +131,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
-    "amount": "£ 9,168.13"
+    "amount": "£ 9,168.13",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 3,
@@ -125,7 +140,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
-    "amount": "£ 10,387.87"
+    "amount": "£ 10,387.87",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 4,
@@ -133,7 +149,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
-    "amount": "£ 9,918.67"
+    "amount": "£ 9,918.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 5,
@@ -141,7 +158,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
-    "amount": "£ 22,916.67"
+    "amount": "£ 22,916.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 1,
@@ -149,7 +167,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
+    "amount": "£ 4,000.00",
+    "realdescription": "Pre 16 High Needs"
   },
   {
     "remittanceID": 1,
@@ -157,7 +176,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
+    "amount": "£ 380,837.66",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 2,
@@ -165,7 +185,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 114,955.00"
+    "amount": "£ 114,955.00",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -173,7 +194,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
+    "amount": "£ 600,412.13",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 4,
@@ -181,7 +203,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 463,083.59"
+    "amount": "£ 463,083.59",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 5,
@@ -189,7 +212,8 @@
     "date": "4 July 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 143,340.02"
+    "amount": "£ 143,340.02",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -197,7 +221,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 36,792.00"
+    "amount": "£ 36,792.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 5,
@@ -205,7 +230,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 12,608.00"
+    "amount": "£ 12,608.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 1,
@@ -213,7 +239,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 92,941.25"
+    "amount": "£ 92,941.25",
+    "realdescription": "Universal Infant Free School Meal Funding"
   },
   {
     "remittanceID": 2,
@@ -221,7 +248,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 56,100.00"
+    "amount": "£ 56,100.00",
+    "realdescription": "Universal Infant Free School Meal Funding"
   },
   {
     "remittanceID": 3,
@@ -229,7 +257,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 79,616.25"
+    "amount": "£ 79,616.25",
+    "realdescription": "Universal Infant Free School Meal Funding"
   },
   {
     "remittanceID": 4,
@@ -237,7 +266,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 72,635.63"
+    "amount": "£ 72,635.63",
+    "realdescription": "Universal Infant Free School Meal Funding"
   },
   {
     "remittanceID": 5,
@@ -245,7 +275,8 @@
     "date": "4 July 19",
     "contractNumber": "(blank)",
     "description": "Universal Infant Free School Meal Funding",
-    "amount": "£ 24,938.75"
+    "amount": "£ 24,938.75",
+    "realdescription": "Universal Infant Free School Meal Funding"
   },
   {
     "remittanceID": 1,
@@ -253,7 +284,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£ 97,941.25"
+    "amount": "£ 97,941.25",
+    "realdescription": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4"
   },
   {
     "remittanceID": 2,
@@ -261,7 +293,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£ 56,100.00"
+    "amount": "£ 56,100.00",
+    "realdescription": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4"
   },
   {
     "remittanceID": 3,
@@ -269,7 +302,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£ 79,616.25"
+    "amount": "£ 79,616.25",
+    "realdescription": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4"
   },
   {
     "remittanceID": 4,
@@ -277,7 +311,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£ 72,635.63"
+    "amount": "£ 72,635.63",
+    "realdescription": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4"
   },
   {
     "remittanceID": 5,
@@ -285,7 +320,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£ 28,938.75"
+    "amount": "£ 28,938.75",
+    "realdescription": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4"
   },
   {
     "remittanceID": 1,
@@ -293,7 +329,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
+    "amount": "-£ 1,420.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 3,
@@ -301,7 +338,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
+    "amount": "-£ 3,116.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -309,7 +347,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
+    "amount": "-£ 2,196.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 5,
@@ -317,7 +356,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
+    "amount": "-£ 745.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -325,7 +365,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
+    "amount": "£ 1,633.36",
+    "realdescription": "Academies Formula Protection Funding"
   },
   {
     "remittanceID": 4,
@@ -333,7 +374,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
+    "amount": "£ 1,500.00",
+    "realdescription": "Academies High Needs Element 2"
   },
   {
     "remittanceID": 3,
@@ -341,7 +383,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 124,812.91"
+    "amount": "£ 124,812.91",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 4,
@@ -349,7 +392,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
-    "amount": "£ 45,843.17"
+    "amount": "£ 45,843.17",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 1,
@@ -357,7 +401,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
+    "amount": "-£ 2,587.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 3,
@@ -365,7 +410,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
+    "amount": "-£ 1,537.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 5,
@@ -373,7 +419,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
+    "amount": "-£ 1,637.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 2,
@@ -381,7 +428,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
-    "amount": "-£ 245.24"
+    "amount": "-£ 245.24",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 4,
@@ -389,7 +437,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
-    "amount": "-£ 8,818.97"
+    "amount": "-£ 8,818.97",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 1,
@@ -397,7 +446,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
-    "amount": "£ 4,750.00"
+    "amount": "£ 4,750.00",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 2,
@@ -405,7 +455,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
-    "amount": "£ 9,168.13"
+    "amount": "£ 9,168.13",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 3,
@@ -413,7 +464,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
-    "amount": "£ 10,387.87"
+    "amount": "£ 10,387.87",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 4,
@@ -421,7 +473,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
-    "amount": "£ 9,918.67"
+    "amount": "£ 9,918.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 5,
@@ -429,7 +482,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
-    "amount": "£ 22,916.67"
+    "amount": "£ 22,916.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 1,
@@ -437,7 +491,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
+    "amount": "£ 4,000.00",
+    "realdescription": "Pre 16 High Needs"
   },
   {
     "remittanceID": 1,
@@ -445,7 +500,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
+    "amount": "£ 380,837.66",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 2,
@@ -453,7 +509,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
+    "amount": "£ 134,955.00",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -461,7 +518,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
+    "amount": "£ 600,412.13",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 4,
@@ -469,7 +527,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
+    "amount": "£ 483,083.59",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 5,
@@ -477,7 +536,8 @@
     "date": "8 June 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
+    "amount": "£ 163,340.02",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -485,7 +545,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 34,792.00"
+    "amount": "£ 34,792.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 5,
@@ -493,7 +554,8 @@
     "date": "8 June 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 11,608.00"
+    "amount": "£ 11,608.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 1,
@@ -501,7 +563,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
+    "amount": "-£ 1,420.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 3,
@@ -509,7 +572,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
+    "amount": "-£ 3,116.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -517,7 +581,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
+    "amount": "-£ 2,196.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 5,
@@ -525,7 +590,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
+    "amount": "-£ 745.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -533,7 +599,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
+    "amount": "£ 1,633.36",
+    "realdescription": "Academies Formula Protection Funding"
   },
   {
     "remittanceID": 4,
@@ -541,7 +608,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
+    "amount": "£ 1,500.00",
+    "realdescription": "Academies High Needs Element 2"
   },
   {
     "remittanceID": 3,
@@ -549,7 +617,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
+    "amount": "£ 122,812.91",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 4,
@@ -557,7 +626,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
+    "amount": "£ 75,843.17",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 1,
@@ -565,7 +635,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
+    "amount": "-£ 2,587.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 3,
@@ -573,7 +644,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
+    "amount": "-£ 1,537.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 5,
@@ -581,7 +653,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
+    "amount": "-£ 1,637.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 2,
@@ -589,7 +662,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
-    "amount": "-£ 275.24"
+    "amount": "-£ 275.24",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 4,
@@ -597,7 +671,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
-    "amount": "-£ 8,818.97"
+    "amount": "-£ 8,818.97",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 1,
@@ -605,7 +680,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
-    "amount": "£ 9,750.00"
+    "amount": "£ 9,750.00",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 2,
@@ -613,7 +689,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
-    "amount": "£ 9,168.13"
+    "amount": "£ 9,168.13",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 3,
@@ -621,7 +698,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
-    "amount": "£ 10,387.87"
+    "amount": "£ 10,387.87",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 4,
@@ -629,7 +707,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
-    "amount": "£ 9,918.67"
+    "amount": "£ 9,918.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 5,
@@ -637,7 +716,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
-    "amount": "£ 22,916.67"
+    "amount": "£ 22,916.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 1,
@@ -645,7 +725,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
+    "amount": "£ 4,000.00",
+    "realdescription": "Pre 16 High Needs"
   },
   {
     "remittanceID": 1,
@@ -653,7 +734,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
+    "amount": "£ 380,837.66",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 2,
@@ -661,7 +743,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
+    "amount": "£ 134,955.00",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -669,7 +752,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
+    "amount": "£ 600,412.13",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 4,
@@ -677,7 +761,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
+    "amount": "£ 483,083.59",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 5,
@@ -685,7 +770,8 @@
     "date": "3 May 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
+    "amount": "£ 163,340.02",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -693,7 +779,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 36,792.00"
+    "amount": "£ 36,792.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 5,
@@ -701,7 +788,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 13,608.00"
+    "amount": "£ 13,608.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 1,
@@ -709,7 +797,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Teacher Pay Grant Academies",
-    "amount": "£ 16,800.00"
+    "amount": "£ 16,800.00",
+    "realdescription": "Teacher Pay Grant Academies"
   },
   {
     "remittanceID": 2,
@@ -717,7 +806,8 @@
     "date": "3 May 19",
     "contractNumber": "EUPS100527",
     "description": "Teacher Pay Grant Academies",
-    "amount": "£ 5,055.00"
+    "amount": "£ 5,055.00",
+    "realdescription": "Teacher Pay Grant Academies"
   },
   {
     "remittanceID": 3,
@@ -725,7 +815,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Teacher Pay Grant Academies",
-    "amount": "£ 35,669.00"
+    "amount": "£ 35,669.00",
+    "realdescription": "Teacher Pay Grant Academies"
   },
   {
     "remittanceID": 4,
@@ -733,7 +824,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Teacher Pay Grant Academies",
-    "amount": "£ 27,310.00"
+    "amount": "£ 27,310.00",
+    "realdescription": "Teacher Pay Grant Academies"
   },
   {
     "remittanceID": 5,
@@ -741,7 +833,8 @@
     "date": "3 May 19",
     "contractNumber": "(blank)",
     "description": "Teacher Pay Grant Academies",
-    "amount": "£ 8,827.00"
+    "amount": "£ 8,827.00",
+    "realdescription": "Teacher Pay Grant Academies"
   },
   {
     "remittanceID": 1,
@@ -749,7 +842,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
+    "amount": "-£ 1,420.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 3,
@@ -757,7 +851,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
+    "amount": "-£ 3,116.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -765,7 +860,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
+    "amount": "-£ 2,196.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 5,
@@ -773,7 +869,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
+    "amount": "-£ 745.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -781,7 +878,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
+    "amount": "£ 1,633.36",
+    "realdescription": "Academies Formula Protection Funding"
   },
   {
     "remittanceID": 4,
@@ -789,7 +887,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
+    "amount": "£ 1,500.00",
+    "realdescription": "Academies High Needs Element 2"
   },
   {
     "remittanceID": 3,
@@ -797,7 +896,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
+    "amount": "£ 122,812.91",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 4,
@@ -805,7 +905,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
+    "amount": "£ 75,843.17",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 1,
@@ -813,7 +914,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
+    "amount": "-£ 2,587.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 3,
@@ -821,7 +923,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
+    "amount": "-£ 1,537.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 5,
@@ -829,7 +932,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
+    "amount": "-£ 1,637.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 2,
@@ -837,7 +941,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
-    "amount": "-£ 275.24"
+    "amount": "-£ 275.24",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 4,
@@ -845,7 +950,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
-    "amount": "-£ 8,818.97"
+    "amount": "-£ 8,818.97",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 1,
@@ -853,7 +959,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
-    "amount": "£ 9,750.00"
+    "amount": "£ 9,750.00",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 2,
@@ -861,7 +968,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
-    "amount": "£ 9,168.13"
+    "amount": "£ 9,168.13",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 3,
@@ -869,7 +977,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
-    "amount": "£ 10,387.87"
+    "amount": "£ 10,387.87",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 4,
@@ -877,7 +986,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
-    "amount": "£ 9,918.67"
+    "amount": "£ 9,918.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 5,
@@ -885,7 +995,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
-    "amount": "£ 22,916.67"
+    "amount": "£ 22,916.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 1,
@@ -893,7 +1004,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
+    "amount": "£ 4,000.00",
+    "realdescription": "Pre 16 High Needs"
   },
   {
     "remittanceID": 1,
@@ -901,7 +1013,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Primary PE and Sport Premium",
-    "amount": "£ 97,941.25"
+    "amount": "£ 97,941.25",
+    "realdescription": "Primary PE and Sport Premium"
   },
   {
     "remittanceID": 2,
@@ -909,7 +1022,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Primary PE and Sport Premium",
-    "amount": "£ 56,100.00"
+    "amount": "£ 56,100.00",
+    "realdescription": "Primary PE and Sport Premium"
   },
   {
     "remittanceID": 3,
@@ -917,7 +1031,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Primary PE and Sport Premium",
-    "amount": "£ 79,616.25"
+    "amount": "£ 79,616.25",
+    "realdescription": "Primary PE and Sport Premium"
   },
   {
     "remittanceID": 4,
@@ -925,7 +1040,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Primary PE and Sport Premium",
-    "amount": "£ 72,635.63"
+    "amount": "£ 72,635.63",
+    "realdescription": "Primary PE and Sport Premium"
   },
   {
     "remittanceID": 5,
@@ -933,7 +1049,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Primary PE and Sport Premium",
-    "amount": "£ 28,938.75"
+    "amount": "£ 28,938.75",
+    "realdescription": "Primary PE and Sport Premium"
   },
   {
     "remittanceID": 1,
@@ -941,7 +1058,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
+    "amount": "£ 380,837.66",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 2,
@@ -949,7 +1067,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
+    "amount": "£ 134,955.00",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -957,7 +1076,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
+    "amount": "£ 600,412.13",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 4,
@@ -965,7 +1085,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
+    "amount": "£ 483,083.59",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 5,
@@ -973,7 +1094,8 @@
     "date": "7 April 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
+    "amount": "£ 163,340.02",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -981,7 +1103,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 36,792.00"
+    "amount": "£ 36,792.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 5,
@@ -989,7 +1112,8 @@
     "date": "7 April 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 13,608.00"
+    "amount": "£ 13,608.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 1,
@@ -997,7 +1121,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-316978",
     "description": "Acad Risk Protection",
-    "amount": "-£ 1,420.00"
+    "amount": "-£ 1,420.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 3,
@@ -1005,7 +1130,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-305006",
     "description": "Acad Risk Protection",
-    "amount": "-£ 3,116.67"
+    "amount": "-£ 3,116.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -1013,7 +1139,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Acad Risk Protection",
-    "amount": "-£ 2,196.67"
+    "amount": "-£ 2,196.67",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 5,
@@ -1021,7 +1148,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-318221",
     "description": "Acad Risk Protection",
-    "amount": "-£ 745.00"
+    "amount": "-£ 745.00",
+    "realdescription": "Acad Risk Protection"
   },
   {
     "remittanceID": 4,
@@ -1029,7 +1157,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Formula Protection Funding",
-    "amount": "£ 1,633.36"
+    "amount": "£ 1,633.36",
+    "realdescription": "Academies Formula Protection Funding"
   },
   {
     "remittanceID": 4,
@@ -1037,7 +1166,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Academies High Needs Element 2",
-    "amount": "£ 1,500.00"
+    "amount": "£ 1,500.00",
+    "realdescription": "Academies High Needs Element 2"
   },
   {
     "remittanceID": 3,
@@ -1045,7 +1175,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-305006",
     "description": "Academies Programme Funding",
-    "amount": "£ 122,812.91"
+    "amount": "£ 122,812.91",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 4,
@@ -1053,7 +1184,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Academies Programme Funding",
-    "amount": "£ 75,843.17"
+    "amount": "£ 75,843.17",
+    "realdescription": "Academies Programme Funding"
   },
   {
     "remittanceID": 2,
@@ -1061,7 +1193,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 3,080.00"
+    "amount": "£ 3,080.00",
+    "realdescription": "FSM Supplementary Grants Academies"
   },
   {
     "remittanceID": 3,
@@ -1069,7 +1202,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 9,680.00"
+    "amount": "£ 9,680.00",
+    "realdescription": "FSM Supplementary Grants Academies"
   },
   {
     "remittanceID": 4,
@@ -1077,7 +1211,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 13,200.00"
+    "amount": "£ 13,200.00",
+    "realdescription": "FSM Supplementary Grants Academies"
   },
   {
     "remittanceID": 5,
@@ -1085,7 +1220,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "FSM Supplementary Grants Academies",
-    "amount": "£ 4,840.00"
+    "amount": "£ 4,840.00",
+    "realdescription": "FSM Supplementary Grants Academies"
   },
   {
     "remittanceID": 1,
@@ -1093,7 +1229,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 2,587.00"
+    "amount": "-£ 2,587.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 3,
@@ -1101,7 +1238,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,537.00"
+    "amount": "-£ 1,537.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 5,
@@ -1109,7 +1247,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "Loan repayments",
-    "amount": "-£ 1,637.00"
+    "amount": "-£ 1,637.00",
+    "realdescription": "Loan repayments"
   },
   {
     "remittanceID": 2,
@@ -1117,7 +1256,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-343268",
     "description": "MFG",
-    "amount": "-£ 275.24"
+    "amount": "-£ 275.24",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 4,
@@ -1125,7 +1265,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "MFG",
-    "amount": "-£ 8,818.97"
+    "amount": "-£ 8,818.97",
+    "realdescription": "MFG"
   },
   {
     "remittanceID": 1,
@@ -1133,7 +1274,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
-    "amount": "£ 9,750.00"
+    "amount": "£ 9,750.00",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 2,
@@ -1141,7 +1283,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-343268",
     "description": "Other Factors",
-    "amount": "£ 9,168.13"
+    "amount": "£ 9,168.13",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 3,
@@ -1149,7 +1292,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-305006",
     "description": "Other Factors",
-    "amount": "£ 10,387.87"
+    "amount": "£ 10,387.87",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 4,
@@ -1157,7 +1301,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Other Factors",
-    "amount": "£ 9,918.67"
+    "amount": "£ 9,918.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 5,
@@ -1165,7 +1310,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-318221",
     "description": "Other Factors",
-    "amount": "£ 22,916.67"
+    "amount": "£ 22,916.67",
+    "realdescription": "Other Factors"
   },
   {
     "remittanceID": 1,
@@ -1173,7 +1319,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-316978",
     "description": "Pre 16 High Needs",
-    "amount": "£ 4,000.00"
+    "amount": "£ 4,000.00",
+    "realdescription": "Pre 16 High Needs"
   },
   {
     "remittanceID": 1,
@@ -1181,7 +1328,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
-    "amount": "£ 380,837.66"
+    "amount": "£ 380,837.66",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 2,
@@ -1189,7 +1337,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-343268",
     "description": "Pupil Led Factors",
-    "amount": "£ 134,955.00"
+    "amount": "£ 134,955.00",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -1197,7 +1346,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-305006",
     "description": "Pupil Led Factors",
-    "amount": "£ 600,412.13"
+    "amount": "£ 600,412.13",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 4,
@@ -1205,7 +1355,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
-    "amount": "£ 483,083.59"
+    "amount": "£ 483,083.59",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 5,
@@ -1213,7 +1364,8 @@
     "date": "3 March 19",
     "contractNumber": "AC100-318221",
     "description": "Pupil Led Factors",
-    "amount": "£ 163,340.02"
+    "amount": "£ 163,340.02",
+    "realdescription": "Pupil Led Factors"
   },
   {
     "remittanceID": 3,
@@ -1221,7 +1373,8 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 36,792.00"
+    "amount": "£ 36,792.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   },
   {
     "remittanceID": 5,
@@ -1229,6 +1382,7 @@
     "date": "3 March 19",
     "contractNumber": "(blank)",
     "description": "Rates Relief - Rates 1920 Claim - Rates 1920 Claim-Rates 1920 Claim",
-    "amount": "£ 13,608.00"
+    "amount": "£ 13,608.00",
+    "realdescription": "Rates Relief - Rates 19\/20 Claim - Rates 19\/20 Claim-Rates 19\/20 Claim"
   }
 ]
