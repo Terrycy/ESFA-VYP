@@ -10,7 +10,11 @@
 			<span class="th-content">Academy Name</span>
 			
 		</th>
-		<th scope="col" class="govuk-table__header description sortable-column" data-sort-value="description">
+		<th scope="col" class="govuk-table__header govuk-visually-hidden description sortable-column" data-sort-value="description">
+			<span class="th-content">Description</span>
+			
+		</th>
+		<th scope="col" class="govuk-table__header realdescription sortable-column" data-sort-value="realdescription">
 			<span class="th-content">Description</span>
 			
 		</th>
@@ -38,7 +42,8 @@
 		<td scope="row" class="govuk-table__cell">
 			<span class="academyName">{{item.academy}}</span>
 		</td>
-		<td scope="row" class="govuk-table__cell description">{{item.description}}</td>
+		<td scope="row" class="govuk-table__cell govuk-visually-hidden description">{{item.description}}</td>
+		<td scope="row" class="govuk-table__cell realdescription">{{item.realdescription}}</td>
 		<td scope="row" class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>
 
