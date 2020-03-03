@@ -23,9 +23,10 @@ $(function () {
 
     $container.isotope({
         filter: function () {
-          let filterValue = '';
+          
           let isMatched = true;
           let $this = $(this);
+
           let dateResults = function () {
             if (startDate !== undefined && endDate !== undefined) {
               // _this_ is the item element. Get text of element's .number
@@ -36,31 +37,24 @@ $(function () {
               return true;
             }
           };
-          for (let prop in filtersObj) {
-            // use function if it matches
-            filterValue += filtersObj[prop];
-            // test each filter
-            if (filterValue) {
-              let searchParams = filterValue.split(",");
-              let stringFound = false;
-              let i = 0;
-              while (searchParams[i] && stringFound === false) {
-                let searchString =  escapeRegExp(searchParams[i]);
-                let globalRegex = new RegExp(searchString, 'gi');
-                let str = $this.find('.description').text();
-                stringFound =  globalRegex.test(str);
-                i++;
-              }              
-              let escapedFilterValue = escapeRegExp(filterValue);
 
-              let classOrSearch =  stringFound || $(this).is(escapedFilterValue);
-              isMatched = isMatched && classOrSearch;
+          // loop through types of filter
+          for (let prop in filtersObj) {
+
+            // check if any filters selected for the type
+            if (filtersObj[prop].length > 0) {
+
+              // apply filters
+              let filterValues = filtersObj[prop];
+              isMatched = isMatched && filterValues.includes($this.find('.' + prop).text().trim());
             }
+
             // break if not matched
             if (!isMatched) {
               break;
             }
           }
+
           return isMatched && dateResults($(this));
         }
       }
@@ -115,6 +109,7 @@ $(function () {
       }
       filtersObj[filterGroup] = filtersArray;
     });
+
     updateFilters();
     return false;
   }).on('reset', function (e) {
