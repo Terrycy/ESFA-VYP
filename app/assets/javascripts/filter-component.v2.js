@@ -12,6 +12,7 @@ $(function () {
   $('.tb-data-single').css({'position': '', 'left':'', 'top':''});
 
   $multiSelect.fastselect();
+  
   updateTotals();
 
   function updateFilters() {
@@ -59,10 +60,13 @@ $(function () {
         }
       }
     );
+
     updateTotals();
     $('#transaction-table-v2').attr('style', '');
     $('.tb-data-single').css({'position': '', 'left':'', 'top':''});
+
   }
+
   function updateTotals(){
     if($filterTotal.length){
       let totalValue = 0;
@@ -83,9 +87,11 @@ $(function () {
       $filterTotal.text(`${totalValue}`)
     }
   }
+
   function convertDate(dateString) {
     return new Date(dateString);
   }
+
   $('#filters').on('submit', function(e){
     e.preventDefault();
     const $this = $(this);
@@ -99,6 +105,20 @@ $(function () {
     let endDateString = `${formDateObject['end-date-month']}/${formDateObject['end-date-day']}/${formDateObject['end-date-year']}`;
     startDate = convertDate(startDateString);
     endDate = convertDate(endDateString);
+    todayDate = new Date();
+    if (endDate > todayDate)
+    {
+      $(".daterange").addClass("govuk-form-group--error");
+      $(".dateinput").addClass("govuk-input--error");
+      $('#future-date-error').css('display','block');
+    }
+    if (endDate < todayDate)
+    {
+      $(".daterange").removeClass("govuk-form-group--error");
+      $(".dateinput").removeClass("govuk-input--error");
+      $('#future-date-error').css('display','none');
+    }
+    
 
     $multiSelect.each(function () {
       const filterGroup = $(this).data('filter-group');
@@ -109,14 +129,18 @@ $(function () {
       }
       filtersObj[filterGroup] = filtersArray;
     });
-
     updateFilters();
     return false;
-  }).on('reset', function (e) {
+  })
+
+  .on('reset', function (e) {
     $('.fstChoiceRemove').each(function(){
       $(this).trigger('click');
     });
     $(this).submit();
+    $(".daterange").removeClass("govuk-form-group--error");
+    $(".dateinput").removeClass("govuk-input--error");
+    $('#future-date-error').css('display','none');
   })
 
 });
