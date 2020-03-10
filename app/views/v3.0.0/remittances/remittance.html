@@ -1,4 +1,4 @@
-<table class="govuk-table" id="remittance-table">
+<table class="govuk-table isotope" id="transaction-table-v2">
     <caption class="govuk-table__caption">Payments history</caption>
     <thead class="govuk-table__head">
     <tr class="govuk-table__row">
@@ -12,7 +12,7 @@
 
     {% for item in remittanceData %}
 
-        <tr class="govuk-table__row">
+        <tr class="govuk-table__row {{item.academy | replace(' ', '-')}} tb-data-single" data-transaction-date="{{item.transactionDate}}" >
             <td scope="row" class="govuk-table__header">
                 <span class="date">{{item.transactionDate}}
                 </span><br>

@@ -2,7 +2,6 @@ $(function () {
   let startDate, endDate;
   let $multiSelect = $('.multipleSelect');
   let filtersObj = {};
-  let random = {};
   let $filterTotal = $('#filterTotal');
   let $container = $('#transaction-table-v2').isotope({
     itemSelector: '.tb-data-single',
@@ -132,6 +131,7 @@ $(function () {
     });
 
     updateFilters();
+    console.log('done')
     saveToLocalStorage(filtersObj);
     return false;
   })
@@ -145,22 +145,33 @@ $(function () {
     $(".daterange").removeClass("govuk-form-group--error");
     $(".dateinput").removeClass("govuk-input--error");
     $('#future-date-error').css('display','none');
-    
   })
-  
+
+  $('.resetbutton').click(function(e){
+    e.preventDefault();
+    $('form')[0].reset();
+    $(this).submit();
+    $(".daterange").removeClass("govuk-form-group--error");
+    $(".dateinput").removeClass("govuk-input--error");
+    $('#future-date-error').css('display','none');
+});
+
   if (localStorage.postFilters) {
     $container.isotope({
-      random: localStorage.postFilters
+      filtersObj: localStorage.postFilters
     });
+    $('.multipleSelect').val(filtersObj);
+    $('.multipleSelect').fastselect();
     updateFilters();
     console.log('hello' + localStorage.postFilters)
   
-  }
+}
 
   function saveToLocalStorage(filtersObj) {
     // save filters
     localStorage.postFilters = JSON.stringify(filtersObj);
 }
+
 
 });
 
