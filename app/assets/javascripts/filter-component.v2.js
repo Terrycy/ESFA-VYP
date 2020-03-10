@@ -2,6 +2,7 @@ $(function () {
   let startDate, endDate;
   let $multiSelect = $('.multipleSelect');
   let filtersObj = {};
+  let random = {};
   let $filterTotal = $('#filterTotal');
   let $container = $('#transaction-table-v2').isotope({
     itemSelector: '.tb-data-single',
@@ -10,7 +11,6 @@ $(function () {
   });
   $('#transaction-table-v2').attr('style', '');
   $('.tb-data-single').css({'position': '', 'left':'', 'top':''});
-
   $multiSelect.fastselect();
   
   updateTotals();
@@ -118,6 +118,7 @@ $(function () {
       $(".dateinput").removeClass("govuk-input--error");
       $('#future-date-error').css('display','none');
     }
+
     
 
     $multiSelect.each(function () {
@@ -129,9 +130,12 @@ $(function () {
       }
       filtersObj[filterGroup] = filtersArray;
     });
+
     updateFilters();
+    saveToLocalStorage(filtersObj);
     return false;
   })
+  
 
   .on('reset', function (e) {
     $('.fstChoiceRemove').each(function(){
@@ -141,7 +145,22 @@ $(function () {
     $(".daterange").removeClass("govuk-form-group--error");
     $(".dateinput").removeClass("govuk-input--error");
     $('#future-date-error').css('display','none');
+    
   })
+  
+  if (localStorage.postFilters) {
+    $container.isotope({
+      random: localStorage.postFilters
+    });
+    updateFilters();
+    console.log('hello' + localStorage.postFilters)
+  
+  }
+
+  function saveToLocalStorage(filtersObj) {
+    // save filters
+    localStorage.postFilters = JSON.stringify(filtersObj);
+}
 
 });
 

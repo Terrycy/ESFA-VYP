@@ -12,9 +12,25 @@ GOV.UK Prototype Kit
         <div class="govuk-grid-row">
             <div class="govuk-grid-column-full">
                 <h1 class="govuk-heading-xl">Payment history
-                    <span class="govuk-caption-xl">A list of the funding payments that you’ve received from the ESFA.</span>
+                    <span class="govuk-caption-xl">A list of the funding money you’ve received from the ESFA.</span>
                 </h1>
-
+                <p>
+                    From here, you can navigate to:
+                <ul class="govuk-list govuk-list--bullet">
+                    <li>an exportable list of transactions that made up each payment</li>
+                    <li>a view of all your transactions, which you can search, filter and export according to budget
+                        groups, contract numbers and time periods
+                    </li>
+                </ul>
+                </p>
+                <p>
+                    {{ govukButton({
+                    text: "Filter and export transactions",
+                    href: "/v4.1/filter-and-export",
+                    isStartButton: true
+                    }) }}
+                </p>
+                <hr class="govuk-!-margin-bottom-5 govuk-hr">
                 <form class="govuk-form-group date-picker" id="filters">
                     <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
                               data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
