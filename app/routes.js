@@ -83,4 +83,21 @@ router.get('/v4.1/payment-history/remittance-statement/:remittanceAcademy/:remit
   })
 })
 
+// v4.2 fixed MATs
+router.get('/v4.2/vyp', function (req, res) {
+  res.render('v4.2.0/index')
+})
+router.get('/v4.2/filter-and-export', function (req, res) {
+  res.render('v4.2.0/transaction-view/index')
+})
+
+router.get('/v4.2/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v4.2.0/remittance-statement/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
+
 module.exports = router
