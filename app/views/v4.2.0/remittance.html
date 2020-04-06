@@ -1,34 +1,286 @@
 <table class="govuk-table isotope" id="transaction-table-v2">
     <thead class="govuk-table__head">
-    <tr class="govuk-table__row">
-        <th scope="col" class="govuk-table__header">Payment date and amount</th>
-        <th scope="col" class="govuk-table__header">Academy name</th>
-        <th scope="col" class="govuk-table__header govuk-table__header--numeric">Payment details</th>
-    </tr>
+        <tr class="govuk-table__row">
+            <th scope="col" class="govuk-table__header">Payment date and amount</th>
+            <th scope="col" class="govuk-table__header">Academy name</th>
+            <th scope="col" class="govuk-table__header govuk-table__header--numeric">Payment details</th>
+        </tr>
     </thead>
     <tbody class="govuk-table__body" id="transaction-table">
-
-    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContentMATSFilter) %}
-
-    {% for item in remittanceData %}
-
-        <tr class="govuk-table__row {{item.academy | replace(' ', '-')}} tb-data-single" data-transaction-date="{{item.transactionDate}}">
+        <tr class="govuk-table__row alphaacademy">
             <td scope="row" class="govuk-table__header">
-                <span class="date transactionDate">{{item.transactionDate}}
+                <span class="date transactionDate">4 July 19
                 </span><br>
-                <span class="amount govuk-body">{{item.transactionAmount | float | currency('£')}}</span>
+                <span class="amount govuk-body">£483,521.91</span>
             </td>
-            <td scope="row" class="govuk-table__cell academyName">
-                <span class="fundingGroup">{{item.academy}}</span>
-            </td>
+            <td class="govuk-table__cell academyName">Alpha academy</td>
             <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
-                <a href="payment-history/remittance-statement/{{item.academy | replace(' ', '-')}}/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>
+                <a href="/v4.1/payment-history/remittance-statement/Alpha-academy/4-July-19/1">View payment details</a>
             </td>
         </tr>
-
-    {% endfor %}
-
-
+        <tr class="govuk-table__row betaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">4 July 19
+                </span><br>
+                <span class="amount govuk-body">£179,947.89</span>
+            </td>
+            <td class="govuk-table__cell academyName">Beta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Beta-academy/4-July-19/2">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row charlieacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">4 July 19
+                </span><br>
+                <span class="amount govuk-body">£835,367.49</span>
+            </td>
+            <td class="govuk-table__cell academyName">Charlie academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Charlie-academy/4-July-19/3">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row deltaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">4 July 19
+                </span><br>
+                <span class="amount govuk-body">£613,640.78</span>
+            </td>
+            <td class="govuk-table__cell academyName">Delta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Delta-academy/4-July-19/4">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row echoacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">4 July 19
+                </span><br>
+                <span class="amount govuk-body">£201,421.44</span>
+            </td>
+            <td class="govuk-table__cell academyName">Echo academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Echo-academy/4-July-19/5">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row alphaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">8 June 19
+                </span><br>
+                <span class="amount govuk-body">£483,521.91</span>
+            </td>
+            <td class="govuk-table__cell academyName">Alpha academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Alpha-academy/8-June-19/1">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row betaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">8 June 19
+                </span><br>
+                <span class="amount govuk-body">£199,977.89</span>
+            </td>
+            <td class="govuk-table__cell academyName">Beta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Beta-academy/8-June-19/2">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row charlieacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">8 June 19
+                </span><br>
+                <span class="amount govuk-body">£845,367.49</span>
+            </td>
+            <td class="govuk-table__cell academyName">Charlie academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Charlie-academy/8-June-19/3">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row deltaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">8 June 19
+                </span><br>
+                <span class="amount govuk-body">£603,598.78</span>
+            </td>
+            <td class="govuk-table__cell academyName">Delta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Delta-academy/8-June-19/4">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row echoacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">8 June 19
+                </span><br>
+                <span class="amount govuk-body">£224,421.44</span>
+            </td>
+            <td class="govuk-table__cell academyName">Echo academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Echo-academy/8-June-19/5">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row alphaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 May 19
+                </span><br>
+                <span class="amount govuk-body">£407,380.66</span>
+            </td>
+            <td class="govuk-table__cell academyName">Alpha academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Alpha-academy/3-May-19/1">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row betaacademy betaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 May 19
+                </span><br>
+                <span class="amount govuk-body">£148,902.89</span>
+            </td>
+            <td class="govuk-table__cell academyName">Beta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Beta-academy/3-May-19/2">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row charlieacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 May 19
+                </span><br>
+                <span class="amount govuk-body">£801,420.24</span>
+            </td>
+            <td class="govuk-table__cell academyName">Charlie academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Charlie-academy/3-May-19/3">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row deltaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 May 19
+                </span><br>
+                <span class="amount govuk-body">£588,273.15</span>
+            </td>
+            <td class="govuk-table__cell academyName">Delta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Delta-academy/3-May-19/4">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row echoacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 May 19
+                </span><br>
+                <span class="amount govuk-body">£206,309.69</span>
+            </td>
+            <td class="govuk-table__cell academyName">Echo academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Echo-academy/3-May-19/5">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row alphaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">7 April 19
+                </span><br>
+                <span class="amount govuk-body">£488,521.91</span>
+            </td>
+            <td class="govuk-table__cell academyName">Alpha academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Alpha-academy/7-April-19/1">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row betaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">7 April 19
+                </span><br>
+                <span class="amount govuk-body">£199,947.89</span>
+            </td>
+            <td class="govuk-table__cell academyName">Beta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Beta-academy/7-April-19/2">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row charlieacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">7 April 19
+                </span><br>
+                <span class="amount govuk-body">£845,367.49</span>
+            </td>
+            <td class="govuk-table__cell academyName">Charlie academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Charlie-academy/7-April-19/3">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row deltaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">7 April 19
+                </span><br>
+                <span class="amount govuk-body">£633,598.78</span>
+            </td>
+            <td class="govuk-table__cell academyName">Delta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Delta-academy/7-April-19/4">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row echoacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">7 April 19
+                </span><br>
+                <span class="amount govuk-body">£226,421.44</span>
+            </td>
+            <td class="govuk-table__cell academyName">Echo academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Echo-academy/7-April-19/5">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row alphaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 March 19
+                </span><br>
+                <span class="amount govuk-body">£390,580.66</span>
+            </td>
+            <td class="govuk-table__cell academyName">Alpha academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Alpha-academy/3-March-19/1">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row betaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 March 19
+                </span><br>
+                <span class="amount govuk-body">£146,927.89</span>
+            </td>
+            <td class="govuk-table__cell academyName">Beta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Beta-academy/3-March-19/2">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row charlieacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 March 19
+                </span><br>
+                <span class="amount govuk-body">£775,431.24</span>
+            </td>
+            <td class="govuk-table__cell academyName">Charlie academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Charlie-academy/3-March-19/3">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row deltaacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 March 19
+                </span><br>
+                <span class="amount govuk-body">£574,163.15</span>
+            </td>
+            <td class="govuk-table__cell academyName">Delta academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Delta-academy/3-March-19/4">View payment details</a>
+            </td>
+        </tr>
+        <tr class="govuk-table__row echoacademy">
+            <td scope="row" class="govuk-table__header">
+                <span class="date transactionDate">3 March 19
+                </span><br>
+                <span class="amount govuk-body">£202,322.69</span>
+            </td>
+            <td class="govuk-table__cell academyName">Echo academy</td>
+            <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
+                <a href="/v4.1/payment-history/remittance-statement/Echo-academy/3-March-19/5">View payment details</a>
+            </td>
+        </tr>
     </tbody>
 </table>
-
