@@ -6,7 +6,7 @@ GOV.UK Prototype Kit
 
 
 {% block content %}
-<a href="#" class="govuk-back-link">Back</a>
+<a href="./vyp" class="govuk-back-link">Back</a>
 
 <div class="govuk-grid-row">
 
@@ -54,9 +54,11 @@ GOV.UK Prototype Kit
             <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
                 Export
             </button>
+            <a href="javascript:window.print()">
             <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
                 Print
             </button>
+        </a>
         </div>
         {% include "../content/transaction-table.html" %}
         {% include "../../includes/pagination.html" %}
