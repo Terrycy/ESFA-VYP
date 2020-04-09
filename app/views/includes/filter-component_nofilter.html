@@ -1,0 +1,281 @@
+
+<div class="gov-uk-grid-row">
+    <form class="" id="filters">
+        <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half " id="byDateRange"
+                  data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
+                  aria-describedby="date-range-hint">
+            <legend class="govuk-reset-fieldset govuk-label bold">
+                Enter a start and end date
+            </legend>
+            <!--            <span id="date-range-hint" class="govuk-hint">-->
+            <!--                      For example, 12 11 2007-->
+            <!--                    </span>-->
+            <div class="govuk-date-input ">
+                <div class="govuk-!-display-inline-block" id="start-date">
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="start-date-day">
+                                Day
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-2" id="start-date-day"
+                                   name="start-date-day" type="number" pattern="[0-9]*" value="19">
+                        </div>
+                    </div>
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="start-date-month">
+                                Month
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                   id="start-date-month" name="start-date-month" type="number" pattern="[0-9]*"
+                                   value="09">
+                        </div>
+                    </div>
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="start-date-year">
+                                Year
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-4" id="start-date-year"
+                                   name="start-date-year" type="number" pattern="[0-9]*" value="2019">
+                        </div>
+                    </div>
+                </div>
+                <p class="govuk-!-display-inline-block govuk-!-margin-right-5">to</p>
+                <div id="end-date" class="govuk-!-display-inline-block">
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="end-date-day">
+                                Day
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-2" id="end-date-day"
+                                   name="end-date-day" type="number" pattern="[0-9]*" value="19">
+                        </div>
+                    </div>
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="end-date-month">
+                                Month
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-2" id="end-date-month"
+                                   name="end-date-month" type="number" pattern="[0-9]*" value="10">
+                        </div>
+                    </div>
+                    <div class="govuk-date-input__item">
+                        <div class="govuk-form-group">
+                            <label class="govuk-label govuk-date-input__label" for="end-date-year">
+                                Year
+                            </label>
+                            <input class="govuk-input govuk-date-input__input govuk-input--width-4" id="end-date-year"
+                                   name="end-date-year" type="number" pattern="[0-9]*" value="2019">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+        <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
+            <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
+                    data-module="govuk-button">
+                Reset
+            </button>
+            <button class="govuk-button" data-module="govuk-button" type="submit">
+                Apply
+            </button>
+        </div>
+    </form>
+</div>
+<!--<div class="govuk-filter-group" id="filters">-->
+<!--    <div class="govuk-filter-group__container" role="button">-->
+<!--        <a href="#" class="toggle-menu toggle-menu-parent" data-target-element=".transactionDateMenu"-->
+<!--           data-filter-group="transactionDate" data-toggle-all-menus="true">-->
+<!--            <span class="govuk-filter-group__container__title">Date</span>-->
+<!--            <span class="govuk-filter-group__container__subtitle">Last 6 months</span>-->
+<!--        </a>-->
+<!--        <ul class="govuk-filter-group__submenu transactionDateMenu hidden"-->
+<!--            id="byTransactionDate">-->
+<!--            <li class="govuk-filter-group__submenu__menu-item filter-button" data-filter=".last-1-month"-->
+<!--                data-filter-group="transactionDate">Last month-->
+<!--            </li>-->
+<!--            <li class="govuk-filter-group__submenu__menu-item filter-button" data-filter=".last-3-months"-->
+<!--                data-filter-group="transactionDate">Last three-->
+<!--                months-->
+<!--            </li>-->
+<!--            <li class="govuk-filter-group__submenu__menu-item filter-button" data-filter=".last-6-months"-->
+<!--                data-filter-group="transactionDate">Last six-->
+<!--                months-->
+<!--            </li>-->
+<!--            <li class="govuk-filter-group__submenu__menu-item">-->
+<!--                <a href="#" class="toggle-menu" data-target-element="#byDateRange">-->
+<!--                    Custom date range-->
+<!--                    <span class="govuk-caption-m">Nothing selected</span>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--        </ul>-->
+
+
+<!--        <form class="govuk-filter-group__submenu filter-form filter-form-input hidden" id="byDateRange"-->
+<!--              data-filter-group="dateRangeFilter" data-filter="dateRangeFilter">-->
+<!--            <fieldset class="govuk-reset-fieldset" role="group" aria-describedby="date-range-hint">-->
+<!--                <legend class="govuk-reset-fieldset">-->
+<!--                    Enter a start date-->
+<!--                </legend>-->
+<!--                <span id="date-range-hint" class="govuk-hint">-->
+<!--                      For example, 12 11 2007-->
+<!--                    </span>-->
+<!--                <div class="govuk-date-input" id="start-date">-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="start-date-day">-->
+<!--                                Day-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-2" id="start-date-day"-->
+<!--                                   name="start-date-day" type="number" pattern="[0-9]*" value="03">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="start-date-month">-->
+<!--                                Month-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-2"-->
+<!--                                   id="start-date-month" name="start-date-month" type="number" pattern="[0-9]*"-->
+<!--                                   value="10">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="start-date-year">-->
+<!--                                Year-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-4" id="start-date-year"-->
+<!--                                   name="start-date-year" type="number" pattern="[0-9]*" value="2018">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </fieldset>-->
+
+<!--            <fieldset class="govuk-reset-fieldset" role="group" aria-describedby="date-range-hint">-->
+<!--                <legend class="govuk-reset-fieldset">-->
+<!--                    Enter an end date-->
+<!--                </legend>-->
+<!--                <div class="govuk-date-input" id="end-date">-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="end-date-day">-->
+<!--                                Day-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-2" id="end-date-day"-->
+<!--                                   name="end-date-day" type="number" pattern="[0-9]*" value="03">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="end-date-month">-->
+<!--                                Month-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-2" id="end-date-month"-->
+<!--                                   name="end-date-month" type="number" pattern="[0-9]*" value="10">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="govuk-date-input__item">-->
+<!--                        <div class="govuk-form-group">-->
+<!--                            <label class="govuk-label govuk-date-input__label" for="end-date-year">-->
+<!--                                Year-->
+<!--                            </label>-->
+<!--                            <input class="govuk-input govuk-date-input__input govuk-input&#45;&#45;width-4" id="end-date-year"-->
+<!--                                   name="end-date-year" type="number" pattern="[0-9]*" value="2019">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </fieldset>-->
+<!--            <button type="submit" class="govuk-button__filters apply-date-range-filter">Apply</button>-->
+<!--            <button type="reset" class="govuk-button__filters cancel-date-range-filter">Cancel</button>-->
+<!--        </form>-->
+
+<!--    </div>-->
+<!--    <div class="govuk-filter-group__container">-->
+<!--        <a href="#" class="toggle-menu toggle-menu-parent" data-target-element=".filterMenu"-->
+<!--           data-filter-group="fundingGroup, contractNumber, description" data-toggle-all-menus="true">-->
+<!--            <span class="govuk-filter-group__container__title">Refine by</span>-->
+<!--            <span class="govuk-filter-group__container__subtitle"-->
+<!--                  data-default-text="Budget group, Description or Contract Number">Budget group, Description or Contract Number</span>-->
+<!--        </a>-->
+<!--        <ul class="govuk-filter-group__submenu hidden filterMenu">-->
+<!--            <li class="govuk-filter-group__submenu__menu-item">-->
+<!--                <a href="#" class="toggle-menu" data-target-element="#byFundingGroup">-->
+<!--                    Budget group-->
+<!--                    <span class="govuk-caption-m">Nothing selected</span>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li class="govuk-filter-group__submenu__menu-item">-->
+<!--                <a href="#" class="toggle-menu" data-target-element="#byContractNumber">-->
+<!--                    Contract number-->
+<!--                    <span class="govuk-caption-m">Nothing selected</span>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li class="govuk-filter-group__submenu__menu-item">-->
+<!--                <a href="#" class="toggle-menu" data-target-element="#byDescription">-->
+<!--                    Description-->
+<!--                    <span class="govuk-caption-m">Nothing selected</span>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--        </ul>-->
+
+<!--        <form class="govuk-filter-group__submenu filter-form filter-form-select hidden" id="byFundingGroup"-->
+<!--              data-filter-group="fundingGroup">-->
+<!--            <fieldset class="govuk-reset-fieldset">-->
+<!--                <legend class="govuk-reset-fieldset">filter by Budget group</legend>-->
+<!--                {% for item in summaryContent %}-->
+<!--                <label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox keep-menu-open">{{item.fundingGroup}}-->
+<!--                    <input type="checkbox" class="filter-checkbox"-->
+<!--                           data-filter=".{{item.fundingGroupShort | replace(' ', '-')}}"-->
+<!--                           value="\.{{item.fundingDescriptionShort | replace(' ', '-')}}">-->
+<!--                    <span class="checkmark keep-menu-open"></span>-->
+<!--                </label>-->
+<!--                {% else %}-->
+<!--                <label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox keep-menu-open">No filters-->
+<!--                    available-->
+<!--                    <input type="checkbox" class="filter-checkbox">-->
+<!--                    <span class="checkmark keep-menu-open"></span>-->
+<!--                </label>-->
+<!--                {% endfor %}-->
+<!--            </fieldset>-->
+<!--            <button type="submit" class="govuk-button__filters apply-filters">Apply</button>-->
+<!--            <button type="reset" class="govuk-button__filters cancel-filters">Cancel</button>-->
+<!--        </form>-->
+<!--        <form class="govuk-filter-group__submenu filter-form filter-form-select hidden" id="byContractNumber"-->
+<!--              data-filter-group="contractNumber">-->
+<!--            <fieldset class="govuk-reset-fieldset">-->
+<!--                <legend class="govuk-reset-fieldset">Filter by contract number</legend>-->
+<!--                {% for item in contractContent %}-->
+<!--                <label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox keep-menu-open">{{item.contractNumber}}-->
+<!--                    <input type="checkbox" class="filter-checkbox"-->
+<!--                           data-filter=".{{item.contractNumber | replace(' ', '-')}}"-->
+<!--                           value=".{{item.contractNumber | replace(' ', '-')}}">-->
+<!--                    <span class="checkmark keep-menu-open"></span>-->
+<!--                </label>-->
+<!--                {% else %}-->
+<!--                <label class="govuk-filter-group__submenu__menu-item govuk-custom-checkbox keep-menu-open">No filters-->
+<!--                    available-->
+<!--                    <input type="checkbox" class="filter-checkbox">-->
+<!--                    <span class="checkmark keep-menu-open"></span>-->
+<!--                </label>-->
+<!--                {% endfor %}-->
+<!--            </fieldset>-->
+<!--            <button type="submit" class="govuk-button__filters apply-filters">Apply</button>-->
+<!--            <button type="reset" class="govuk-button__filters cancel-filters">Cancel</button>-->
+<!--        </form>-->
+
+<!--    </div>-->
+
+<!--    <div class="govuk-filter-group__container buttons">-->
+<!--        <button class="govuk-button govuk-button&#45;&#45;secondary govuk-!-margin-right-1" data-module="govuk-button">-->
+<!--            Export-->
+<!--        </button>-->
+<!--        <button class="govuk-button govuk-button&#45;&#45;secondary" data-module="govuk-button">-->
+<!--            Print-->
+<!--        </button>-->
+<!--    </div>-->
+
+
+<!--</div>-->

@@ -1,0 +1,84 @@
+{% extends "layout_1280.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<a href="#" class="govuk-back-link">Back</a>
+
+<div class="govuk-grid-row">
+
+    <div class="govuk-grid-column-full">
+        <div class="header-wrapper">    <h1 class="govuk-heading-xl">
+            Filter and export transactions
+            <span class="govuk-caption-xl">            <details class="govuk-details" data-module="govuk-details">
+                <summary class="govuk-details__summary">
+                    <span class="govuk-details__summary-text">
+                        Help using this page
+                    </span>
+                </summary>
+                <div class="govuk-details__text">
+                    This page displays a list of all the transactions that made up the funds you’ve received from the
+                    ESFA. You can filter and export this data according to:
+                    <ul>
+                        <li>Date ranges</li>
+                        <li>Budget groups</li>
+                        <li>Contract numbers</li>
+                        <li>Transaction descriptions</li>
+                    </ul>
+                    <a href="#">Get further guidance on using this page.</a>
+                </div>
+            </details>
+</span>
+        </h1>
+        </div>
+    </div>
+</div>
+
+
+{% include "../../includes/filter-component_nofilter.html" %}
+
+
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+
+        {% include "../content/summary-table.html" %}
+    </div>
+</div>
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+
+        <div class="govuk-filter-group__container buttons">
+            <button title="Two columns for RP and Academy Year" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchtable()" data-module="govuk-button">
+                Table v1
+            </button>
+            <button title="One column for RP and Academy Year" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchtable2()" data-module="govuk-button">
+                Table v2
+            </button>
+            <button title="RP and Academy Year in Description" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchtable3()" data-module="govuk-button">
+                Table v3
+            </button>
+            <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
+                Export
+            </button>
+            <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
+                Print
+            </button>
+        </div>
+    <div id="transactiontable1">
+        {% include "../content/transaction-table.html" %}
+    </div>
+    <div id="transactiontable2" class="govuk-visually-hidden">
+        {% include "../content/transaction-table2.html" %}
+    </div>
+    <div id="transactiontable3" class="govuk-visually-hidden">
+        {% include "../content/transaction-table3.html" %}
+    </div>
+        {% include "../../includes/pagination.html" %}
+    </div>
+</div>
+
+
+{% endblock %}
