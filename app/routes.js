@@ -48,19 +48,19 @@ router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId'
   })
 })
 // v3 stuff
-router.get('/3.0.1/vyp', function (req, res) {
+router.get('/v3.0.1/vyp', function (req, res) {
   res.render('v3.0.1/index')
 })
 router.get('/3.0.1/vyp/b', function (req, res) {
   res.render('split-journey/index')
 })
-router.get('/3.0.1/payment-history', function (req, res) {
+router.get('/v3.0.1/payment-history', function (req, res) {
   res.render('v3.0.1/remittances/index')
 })
-router.get('/3.0.1/mvp/payment-history', function (req, res) {
+router.get('/v3.0.1/mvp/payment-history', function (req, res) {
   res.render('v3.0.1/remittances/index-alternate')
 })
-router.get('/3.0.1/filter-and-export', function (req, res) {
+router.get('/v3.0.1/filter-and-export', function (req, res) {
   res.render('v3.0.1/transaction-view/index')
 })
 
