@@ -1,5 +1,18 @@
 [
   {
+    "date": "1 October 2020",
+    "contractNumber": "xxxx-xxxx",
+    "fundingGroup": "Apprenticeship (employer on apps service) non-levy",
+    "description": "16 to 18 non-levy apprenticeships funded by co-investment (employer on apprenticeship service) Reconciliation Jan 2020",
+    "description_nodate": "116 to 18 non-levy apprenticeships funded by co-investment (employer on apprenticeship service) Reconciliation",
+    "academyyear": "xx/xx",
+    "returnperiod": "Rxx",
+    "amount": "£100,100.00",
+    "subtotal": "£99,999.99",
+    "remittanceID": 1,
+    "customClasses": "last-6-months last-3-months last-1-month"
+  },
+  {
     "date": "19 October 2019",
     "contractNumber": "AEBR-1176",
     "fundingGroup": "Procured AEB",
