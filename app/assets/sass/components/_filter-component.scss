@@ -101,6 +101,11 @@
   width: 100%;
   margin: 0;
 }
+.govuk-button__filters_ {
+  @extend .govuk-button;
+  width: 100%;
+  margin: 0;
+}
 
 .filter-form {
   fieldset {
@@ -196,7 +201,29 @@
 .filter-bottom-group {
   text-align: right;
 }
-
+.filter-right {
+  text-align: right;
+}
+.moj-filter
+{
+  box-shadow: none !important;
+}
+.moj-filter__header
+{
+  background-color: #fff;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.moj-filter__options
+{
+  box-shadow: none !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.govuk-checkboxes__item
+{
+  clear: none !important;
+}
 #three-year-error, #future-date-error {
   display: none;
 }
