@@ -13,7 +13,8 @@ GOV.UK Prototype Kit
     <div class="govuk-grid-column-full">
         <div class="header-wrapper">    <h1 class="govuk-heading-xl">
             Filter and export transactions
-            <span class="govuk-caption-xl">            <details class="govuk-details" data-module="govuk-details">
+            <span class="govuk-caption-xl">            
+                <details class="govuk-details" data-module="govuk-details">
                 <summary class="govuk-details__summary">
                     <span class="govuk-details__summary-text">
                         Help using this page
@@ -29,6 +30,17 @@ GOV.UK Prototype Kit
                         <li>Transaction descriptions</li>
                     </ul>
                     <a href="#">Get further guidance on using this page.</a>
+                    <div class="govuk-filter-group__container buttons">
+                        <button title="Two columns for RP and Academy Year" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchfilter()" data-module="govuk-button">
+                            Filters v1
+                        </button>
+                        <button title="One column for RP and Academy Year" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchfilter2()" data-module="govuk-button">
+                            Filters v2
+                        </button>
+                        <button title="RP and Academy Year in Description" class="govuk-button govuk-button--secondary govuk-!-margin-right-1" onclick="switchfilter3()" data-module="govuk-button">
+                            Filters v3
+                        </button>
+                    </div>
                 </div>
             </details>
 </span>
@@ -37,9 +49,17 @@ GOV.UK Prototype Kit
     </div>
 </div>
 
+<div id="filters1">
+{% include "../../includes/filter-component.html" %}
+</div>
+<div id="filters2">
+    {% include "../../includes/filter-component-2.html" %}
+</div>
 
-{% include "../../includes/filter-component_nofilter.html" %}
-
+<div id="filters3">
+    {% include "../../includes/filter-component-3.html" %}
+</div>
+        
 
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
