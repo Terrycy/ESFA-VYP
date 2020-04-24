@@ -123,5 +123,8 @@ router.get('/v4.2/payment-history/remittance-statement/:remittanceAcademy/:remit
     'remittanceId': req.params.remittanceId,
   })
 })
+router.get('/content', function (req, res) {
+  res.render('contentdesign/index')
+})
 
 module.exports = router
