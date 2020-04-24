@@ -78,95 +78,91 @@
             </form>
         </div>
         <div class='gov-uk-grid-row'>
-        <div class="govuk-accordion" data-module="govuk-accordion" id="accordion-default">
-            <div class="govuk-accordion__section ">
-              <div class="govuk-accordion__section-header">
-                <h2 class="govuk-accordion__section-heading">
-                  <span class="govuk-accordion__section-button" id="accordion-default-heading-1">
-                    Click here for additional filters
-                  </span>
-                </h2>
-              </div>
-              <div id="accordion-default-content-1" class="govuk-accordion__section-content" aria-labelledby="accordion-default-heading-1">
-                <div class="quicksearch govuk-form-group">
-                    <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
-                        Transaction description
-        
-                    </label>
-                    <span class="govuk-hint">
-        Begin typing, and either add from the list that appears or apply your own keywords (for example, ‘Capping’). You can add multiple terms.                </span>
-                    <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
-                            id="quickSearch" name="quick-search"
-                            type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
-        
-                </div>
-                <form class="" id="filters">
-                    <div class="govuk-clearfix" >
-                        <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                            <div class="govuk-form-group govuk-!-margin-right-5">
-                                <label class="govuk-label bold" for="byContractNumber">
-                                    Contract number
-                                </label><span class="govuk-hint">
-            Begin typing and add filters from the list that appears.    </span>
-                                <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
-                                        name="contractNumber" placeholder=" " multiple>
-                                    {% for item in contractContent %}
-                                    {% set filterOpt = item.contractNumber | replace(' ', '-') %}
+            <details class="govuk-details" data-module="govuk-details">
+                <summary class="govuk-details__summary">
+                    <span class="govuk-details__summary-text">
+                        Click here for additional filters
+                    </span>
+                </summary>
+                <div class="govuk-details__text">
+                    <div class="quicksearch govuk-form-group">
+                        <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
+                            Transaction description
             
-                                    <option data-filter=".{{filterOpt}}"
-                                            value=".{{filterOpt}}">{{item.contractNumber}}
-                                    </option>
-                                    {% else %}
-                                    <option class="">No filters
-                                        available
-            
-                                    </option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                        </fieldset>
-                        <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                            <div class="govuk-form-group">
-                                <label class="govuk-label" for="byFundingGroup">
-                                    Budget group
-                                </label><span class="govuk-hint">&nbsp; </span>
-                                <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                                        multiple name="byFundingGroup" placeholder=" ">
-                                    {% for item in summaryContent %}
-                                    {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
-                                    <option data-filter=".{{filterOpt}}"
-                                            value=".{{filterOpt}}">{{item.fundingGroup}}
-                                    </option>
-                                    {% else %}
-                                    <option class="">No filters
-                                        available
-            
-                                    </option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                        </fieldset>
+                        </label>
+                        <span class="govuk-hint">
+            Begin typing, and either add from the list that appears or apply your own keywords (for example, ‘Capping’). You can add multiple terms.                </span>
+                        <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
+                                id="quickSearch" name="quick-search"
+                                type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
             
                     </div>
-                </form>
-        
-              </div>
-            </div>
-          </div>
+                    <form class="" id="filters">
+                        <div class="govuk-clearfix" >
+                            <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
+                                <div class="govuk-form-group govuk-!-margin-right-5">
+                                    <label class="govuk-label bold" for="byContractNumber">
+                                        Contract number
+                                    </label><span class="govuk-hint">
+                Begin typing and add filters from the list that appears.    </span>
+                                    <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
+                                            name="contractNumber" placeholder=" " multiple>
+                                        {% for item in contractContent %}
+                                        {% set filterOpt = item.contractNumber | replace(' ', '-') %}
+                
+                                        <option data-filter=".{{filterOpt}}"
+                                                value=".{{filterOpt}}">{{item.contractNumber}}
+                                        </option>
+                                        {% else %}
+                                        <option class="">No filters
+                                            available
+                
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </fieldset>
+                            <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
+                                <div class="govuk-form-group">
+                                    <label class="govuk-label" for="byFundingGroup">
+                                        Budget group
+                                    </label><span class="govuk-hint">&nbsp; </span>
+                                    <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
+                                            multiple name="byFundingGroup" placeholder=" ">
+                                        {% for item in summaryContent %}
+                                        {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
+                                        <option data-filter=".{{filterOpt}}"
+                                                value=".{{filterOpt}}">{{item.fundingGroup}}
+                                        </option>
+                                        {% else %}
+                                        <option class="">No filters
+                                            available
+                
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </fieldset>
+                
+                        </div>
+                    </form>
+                </div>
+                </details>
+                <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
+                    <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
+                            data-module="govuk-button">
+                        Reset
+                    </button>
+                    <button class="govuk-button" data-module="govuk-button" type="submit">
+                        Apply
+                    </button>
+                </div>
         </div>
     </div>
 </div>
 
 
-<div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
-    <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
-            data-module="govuk-button">
-        Reset
-    </button>
-    <button class="govuk-button" data-module="govuk-button" type="submit">
-        Apply
-    </button>
-</div>
+
 <!--<div class="govuk-filter-group" id="filters">-->
 <!--    <div class="govuk-filter-group__container" role="button">-->
 <!--        <a href="#" class="toggle-menu toggle-menu-parent" data-target-element=".transactionDateMenu"-->

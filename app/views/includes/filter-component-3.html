@@ -77,17 +77,15 @@
                 </fieldset>
             </form>
         </div>
+
         <div class='gov-uk-grid-row'>
-        <div class="govuk-accordion" data-module="govuk-accordion" id="accordion-default">
-            <div class="govuk-accordion__section ">
-              <div class="govuk-accordion__section-header">
-                <h2 class="govuk-accordion__section-heading">
-                  <span class="govuk-accordion__section-button" id="accordion-default-heading-1">
+        <details class="govuk-details" data-module="govuk-details">
+            <summary class="govuk-details__summary">
+                <span class="govuk-details__summary-text">
                     Filter by transaction description
-                  </span>
-                </h2>
-              </div>
-              <div id="accordion-default-content-1" class="govuk-accordion__section-content" aria-labelledby="accordion-default-heading-1">
+                </span>
+            </summary>
+            <div class="govuk-details__text">
                 <div class="quicksearch govuk-form-group">
                     <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
                         Transaction description
@@ -100,21 +98,15 @@
                             type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
         
                 </div>
-              </div>
             </div>
-          </div>
-        </div>
-        <div class='gov-uk-grid-row'>
-            <div class="govuk-accordion" data-module="govuk-accordion" id="accordion-default">
-                <div class="govuk-accordion__section ">
-                  <div class="govuk-accordion__section-header">
-                    <h2 class="govuk-accordion__section-heading">
-                      <span class="govuk-accordion__section-button" id="accordion-default-heading-1">
+            </details>
+            <details class="govuk-details" data-module="govuk-details">
+                <summary class="govuk-details__summary">
+                    <span class="govuk-details__summary-text">
                         Filter by contract number and budget group
-                      </span>
-                    </h2>
-                  </div>
-                  <div id="accordion-default-content-1" class="govuk-accordion__section-content" aria-labelledby="accordion-default-heading-1">
+                    </span>
+                </summary>
+                <div class="govuk-details__text">
                     <form class="" id="filters">
                         <div class="govuk-clearfix" >
                             <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
@@ -164,23 +156,19 @@
                 
                         </div>
                     </form>
-            
-                  </div>
                 </div>
-              </div>
-            </div>
+                </details>
+                <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
+                    <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
+                            data-module="govuk-button">
+                        Reset
+                    </button>
+                    <button class="govuk-button" data-module="govuk-button" type="submit">
+                        Apply
+                    </button>
+                </div>
+        </div>
     </div>
-</div>
-
-
-<div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
-    <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
-            data-module="govuk-button">
-        Reset
-    </button>
-    <button class="govuk-button" data-module="govuk-button" type="submit">
-        Apply
-    </button>
 </div>
 <!--<div class="govuk-filter-group" id="filters">-->
 <!--    <div class="govuk-filter-group__container" role="button">-->
