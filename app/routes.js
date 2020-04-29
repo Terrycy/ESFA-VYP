@@ -47,7 +47,7 @@ router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId'
     'remittanceId': req.params.remittanceId
   })
 })
-// v3 stuff
+// v3.0.1 stuff
 router.get('/v3.0.1/vyp', function (req, res) {
   res.render('v3.0.1/index')
 })
@@ -62,6 +62,30 @@ router.get('/v3.0.1/mvp/payment-history', function (req, res) {
 })
 router.get('/v3.0.1/filter-and-export', function (req, res) {
   res.render('v3.0.1/transaction-view/index')
+})
+
+router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v3.0.1/remittance-statement/index', {
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId
+  })
+})
+// v3.0.2 stuff
+router.get('/v3.0.2/vyp', function (req, res) {
+  res.render('v3.0.2/index')
+})
+router.get('/3.0.2/vyp/b', function (req, res) {
+  res.render('split-journey/index')
+})
+router.get('/v3.0.2/payment-history', function (req, res) {
+  res.render('v3.0.2/remittances/index')
+})
+router.get('/v3.0.2/mvp/payment-history', function (req, res) {
+  res.render('v3.0.2/remittances/index-alternate')
+})
+router.get('/v3.0.2/filter-and-export', function (req, res) {
+  res.render('v3.0.2/transaction-view/index')
 })
 
 router.get('/payment-history/remittance-statement/:remittanceDate/:remittanceId', function (req, res) {
