@@ -98,55 +98,6 @@
                                 type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
             
                     </div>
-                    <form class="" id="filters">
-                        <div class="govuk-clearfix" >
-                            <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                                <div class="govuk-form-group govuk-!-margin-right-5">
-                                    <label class="govuk-label bold" for="byContractNumber">
-                                        Contract number
-                                    </label><span class="govuk-hint">
-                Begin typing and add filters from the list that appears.    </span>
-                                    <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
-                                            name="contractNumber" placeholder=" " multiple>
-                                        {% for item in contractContent %}
-                                        {% set filterOpt = item.contractNumber | replace(' ', '-') %}
-                
-                                        <option data-filter=".{{filterOpt}}"
-                                                value=".{{filterOpt}}">{{item.contractNumber}}
-                                        </option>
-                                        {% else %}
-                                        <option class="">No filters
-                                            available
-                
-                                        </option>
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </fieldset>
-                            <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                                <div class="govuk-form-group">
-                                    <label class="govuk-label" for="byFundingGroup">
-                                        Budget group
-                                    </label><span class="govuk-hint">&nbsp; </span>
-                                    <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                                            multiple name="byFundingGroup" placeholder=" ">
-                                        {% for item in summaryContent %}
-                                        {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
-                                        <option data-filter=".{{filterOpt}}"
-                                                value=".{{filterOpt}}">{{item.fundingGroup}}
-                                        </option>
-                                        {% else %}
-                                        <option class="">No filters
-                                            available
-                
-                                        </option>
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </fieldset>
-                
-                        </div>
-                    </form>
                 </div>
                 </details>
                 <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
