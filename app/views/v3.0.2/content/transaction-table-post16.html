@@ -1,5 +1,4 @@
 <table id="transaction-table" class="govuk-table grid">
-	<caption class="govuk-table__caption">Transactions v2</caption>
 	<thead class="govuk-table__head" class="sort">
 	<tr class="govuk-table__row btn-group" id="sorts2">
 		<th scope="col" class="govuk-table__header asc transactionDate" data-sort-value="transactionDate">Date</th>
@@ -28,13 +27,13 @@
 		<td class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
 		<td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
 		<td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
-		<td class="govuk-table__cell description">{{item.description_nodate}}</td>
+		<td class="govuk-table__cell description">{{item.description}}</td>
 		<td class="govuk-table__cell returnperiod">{{item.returnperiod}} {{item.academyyear}}</td>
 		<td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>
 
 	{% else %}
-	<tr class="govuk-table__row"
+	<tr class="govuk-table__row">
 		<td class="govuk-table__cell" colspan="5">Empty row</td>
 	</tr>
 	{% endfor %}

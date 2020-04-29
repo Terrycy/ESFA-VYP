@@ -1,12 +1,10 @@
 <table id="transaction-table" class="govuk-table grid">
-	<caption class="govuk-table__caption">Transactions v2</caption>
 	<thead class="govuk-table__head" class="sort">
 	<tr class="govuk-table__row btn-group" id="sorts2">
 		<th scope="col" class="govuk-table__header asc transactionDate" data-sort-value="transactionDate">Date</th>
-		<th scope="col" class="govuk-table__header contractNumber" data-sort-value="contractNumber">Contract number</th>
-		<th scope="col" class="govuk-table__header fundingGroup" data-sort-value="fundingGroup">Budget group</th>
+		<th scope="col" class="govuk-table__header contractNumber" data-sort-value="academyName">Academy Name</th>
 		<th scope="col" class="govuk-table__header description" data-sort-value="description">Description</th>
-		<th scope="col" class="govuk-table__header returnperiod" data-sort-value="returnperiod">Return Period</th>
+		<th scope="col" class="govuk-table__header returnperiod" data-sort-value="returnperiod">Academic year</th>
 		<th scope="col"
 			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount"
 			data-sort-value="transactionAmount">Amount
@@ -26,10 +24,9 @@
      "
 		data-transaction-date="{{item.date}}">
 		<td class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
-		<td class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
-		<td class="govuk-table__cell fundingGroup">{{item.fundingGroup}}</td>
-		<td class="govuk-table__cell description">{{item.description_nodate}}</td>
-		<td class="govuk-table__cell returnperiod">{{item.returnperiod}} {{item.academyyear}}</td>
+		<td class="govuk-table__cell academyName">{{item.academyName}}</td>
+		<td class="govuk-table__cell description">{{item.description}}</td>
+		<td class="govuk-table__cell returnperiod">{{item.academyyear}}</td>
 		<td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>
 
