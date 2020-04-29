@@ -37,6 +37,13 @@ function switchtable2() {
   var transactiontable1 = document.getElementById("transactiontable1");
   var transactiontable2 = document.getElementById("transactiontable2");
   var transactiontable3 = document.getElementById("transactiontable3");
+  var buttonpre16 = document.getElementById("pre16button");
+  var buttonpost16 = document.getElementById("post16button");
+
+  buttonpre16.classList.remove("govuk-button--secondary");
+  buttonpost16.classList.add("govuk-button--secondary");
+  buttonpost16.disabled = false;
+  buttonpre16.disabled = true;
 
   if (transactiontable2.classList.contains('govuk-visually-hidden')) {
     transactiontable2.classList.remove("govuk-visually-hidden");
@@ -56,6 +63,13 @@ function switchtable3() {
   var transactiontable1 = document.getElementById("transactiontable1");
   var transactiontable2 = document.getElementById("transactiontable2");
   var transactiontable3 = document.getElementById("transactiontable3");
+  var buttonpre16 = document.getElementById("pre16button");
+  var buttonpost16 = document.getElementById("post16button");
+
+  buttonpre16.classList.add("govuk-button--secondary");
+  buttonpost16.classList.remove("govuk-button--secondary");
+  buttonpost16.disabled = true;
+  buttonpre16.disabled = false;
 
   if (transactiontable3.classList.contains('govuk-visually-hidden')) {
     transactiontable3.classList.remove("govuk-visually-hidden");
