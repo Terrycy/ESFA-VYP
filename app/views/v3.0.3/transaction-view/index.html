@@ -1,0 +1,73 @@
+{% extends "layout_1280.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<a href="#" class="govuk-back-link">Back</a>
+
+<div class="govuk-grid-row">
+
+    <div class="govuk-grid-column-full">
+        <div class="header-wrapper">    <h1 class="govuk-heading-xl">
+            Filter and export transactions
+            <span class="govuk-caption-xl">A list of the individual transactions you have received from the ESFA.</span>
+            <span class="govuk-caption-xl">            
+                <details class="govuk-details" data-module="govuk-details">
+                <summary class="govuk-details__summary">
+                    <span class="govuk-details__summary-text">
+                        Help using this page
+                    </span>
+                </summary>
+                <div class="govuk-details__text">
+                    This page displays a list of payment transactions for funding you have received from the ESFA. You can view transactions from up to 3 years ago.
+                    On this page you can:
+                    <ul>
+                        <li>Use the date filter to view transactions for a custom date range</li>
+                        <li>Use the transactions filter to search for specific transaction descriptions within the date range</li>
+                        <li>View your total payments received for the filters you have selected</li>
+                        <li>View your budget group summary information for the filters you have selected</li>
+                        <li>Use the arrows next to each field heading to sort data into ascending/descending order. Sort by date descending to return to default view.</li>
+                    </ul>
+                    For more detailed information on using this page please read the <a href="#">View your payments guidance</a>
+                </div>
+            </details>
+</span>
+        </h1>
+        </div>
+    </div>
+</div>
+
+
+{% include "../../includes/filter-component-3.html" %}
+
+        
+
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+
+        {% include "../content/summary-table.html" %}
+    </div>
+</div>
+<div class="govuk-grid-row">
+    <div class="govuk-grid-column-full">
+        
+        <div class="govuk-filter-group__container buttons">
+            <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
+                Download as CSV
+            </button>
+            <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
+                Download as PDF
+            </button>
+        </div>
+    <div id="transactiontable2">
+        {% include "../content/transaction-table-pre16.html" %}
+    </div>
+        {% include "../../includes/pagination.html" %}
+    </div>
+</div>
+
+
+{% endblock %}

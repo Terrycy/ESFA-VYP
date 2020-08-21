@@ -1,0 +1,77 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+<a href="#" class="govuk-back-link">Back</a>
+{% block content %}
+<div class="govuk-width-container">
+    <main class="govuk-main-wrapper " id="main-content" role="main">
+
+        <h1 class="govuk-heading-xl">
+            Manage your education and skills funding
+        </h1>{{releaseVersion | log }}
+
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <ul class="tiles-wrapper govuk-grid-row">
+                    <li class="govuk-grid-column-one-third ">
+                        <a id="apprenticeships" class="tile"
+                           href="#">
+                            <span id="apprenticeship-service" class="service-name tile-header">Apprenticeship service</span>
+                            <span id="apprenticeship-alert" class="tile-footer tile-footer-blue">Manage apprentices</span>
+                        </a>
+                    </li>
+
+                    <li class="govuk-grid-column-one-third">
+                        <a id="contracts" class="tile"
+                           href="#">
+                            <span id="contracts-service" class="service-name tile-header">ESFA contracts and agreements</span>
+                            <span id="contract-alert" class="tile-footer tile-footer-green">View contracts</span>
+                        </a>
+                    </li>
+                    <li class="govuk-grid-column-one-third">
+                        <a id="fundingClaim" class="tile" href="#">
+                            <span id="funding-claims-service" class="service-name tile-header">Funding claims</span>
+                            <span id="reconciliation-alert"
+                                  class="tile-footer tile-footer-green">View claims and statements</span>
+                        </a>
+                    </li>
+                    <li class="govuk-grid-column-one-third">
+                        <a id="remittances" class="tile" href="/v3.0.3/payment-history">
+                            <span id="payment-service" class="service-name tile-header">Payment history</span>
+                            <span id="payment-alert" class="tile-footer tile-footer-green">View payments</span>
+                        </a>
+                    </li>
+                    <li class="govuk-grid-column-one-third">
+                        <a id="subcontractorDeclarationHref" class="tile"
+                           href="#">
+                        <span id="subcontractor-declaration-service"
+                              class="service-name tile-header">Subcontractor declaration</span>
+                            <span id="subcontractor-declaration-alert" class="tile-footer tile-footer-green">Manage your declarations</span>
+                        </a>
+                    </li>
+                    <li class="govuk-grid-column-one-third">
+                        <a id="ageReports" class="tile" href="#">
+                            <span id="age-service" class="service-name tile-header">Apprenticeship grant for employers</span>
+                            <span id="age-alert" class="tile-footer tile-footer-green">Download your AGE reports</span>
+                        </a>
+                    </li>
+
+                    <li class="govuk-grid-column-one-third">
+                        <a id="adultFundingAllocation" class="tile" href="#">
+                            <span id="adult-funding-service"
+                                  class="service-name tile-header">Allocation statements</span>
+                            <span id="adult-funding-alert"
+                                  class="tile-footer tile-footer-green">View your statements</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    </main>
+</div>
+
+{% endblock %}

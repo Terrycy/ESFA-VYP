@@ -1,13 +1,13 @@
 <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
-        <h2 class="govuk-heading-m">Filter transactions</h2>
+        <h2 class="govuk-heading-m">Filter by date</h2>
         <div class="gov-uk-grid-row">
             <form id="filters">
                 <fieldset class="govuk-reset-fieldset" id="byDateRange"
                           data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
                           aria-describedby="date-range-hint">
                     <legend class="govuk-reset-fieldset govuk-label bold">
-                        Enter a start and end date
+                        You can view payments for 3 previous calendar years.
                     </legend>
                     <!--            <span id="date-range-hint" class="govuk-hint">-->
                     <!--                      For example, 12 11 2007-->
@@ -79,100 +79,17 @@
         </div>
 
         <div class='gov-uk-grid-row'>
-        <details class="govuk-details" data-module="govuk-details">
-            <summary class="govuk-details__summary">
-                <span class="govuk-details__summary-text">
-                    Filter by transaction description
-                </span>
-            </summary>
-            <div class="govuk-details__text">
+            <h2 class="govuk-heading-m">Filter by transaction description</h2>
                 <div class="quicksearch govuk-form-group">
-                    <label class="govuk-label govuk-filter-group__container__title" for="quickSearch">
-                        Transaction description
-        
-                    </label>
                     <span class="govuk-hint">
-        Begin typing, and either add from the list that appears or apply your own keywords (for example, ‘Capping’). You can add multiple terms.                </span>
+                        Begin typing and add from the list that appears. You can add multiple terms.</span>
                     <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
                             id="quickSearch" name="quick-search"
                             type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-descriptions-fastselect.json">
         
                 </div>
-            </div>
-            </details>
-            <details class="govuk-details" data-module="govuk-details">
-                <summary class="govuk-details__summary">
-                    <span class="govuk-details__summary-text">
-                        Filter by budget group
-                    </span>
-                </summary>
-                <div class="govuk-details__text">
-                    <form class="" id="filters">
-                        <div class="govuk-clearfix">
-                            <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                                <div class="govuk-form-group">
-                                    <label class="govuk-label" for="byFundingGroup">
-                                        Budget group
-                                    </label><span class="govuk-hint">
-                                        Begin typing and add filters from the list that appears.    </span>
-                                    <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
-                                            multiple name="byFundingGroup" placeholder=" ">
-                                        {% for item in summaryContent %}
-                                        {% set filterOpt = item.fundingGroupShort | replace(' ', '-') %}
-                                        <option data-filter=".{{filterOpt}}"
-                                                value=".{{filterOpt}}">{{item.fundingGroup}}
-                                        </option>
-                                        {% else %}
-                                        <option class="">No filters
-                                            available
+            
                 
-                                        </option>
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </fieldset>
-                
-                        </div>
-                    </form>
-                </div>
-                </details>
-                <details class="govuk-details" data-module="govuk-details">
-                    <summary class="govuk-details__summary">
-                        <span class="govuk-details__summary-text">
-                            Filter by contract number
-                        </span>
-                    </summary>
-                    <div class="govuk-details__text">
-                        <form class="" id="filters">
-                            <div class="govuk-clearfix" >
-                                <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
-                                    <div class="govuk-form-group govuk-!-margin-right-5">
-                                        <label class="govuk-label bold" for="byContractNumber">
-                                            Contract number
-                                        </label><span class="govuk-hint">
-                    Begin typing and add filters from the list that appears.    </span>
-                                        <select class="govuk-select multipleSelect" id="byContractNumber" data-filter-group="contractNumber"
-                                                name="contractNumber" placeholder=" " multiple>
-                                            {% for item in contractContent %}
-                                            {% set filterOpt = item.contractNumber | replace(' ', '-') %}
-                    
-                                            <option data-filter=".{{filterOpt}}"
-                                                    value=".{{filterOpt}}">{{item.contractNumber}}
-                                            </option>
-                                            {% else %}
-                                            <option class="">No filters
-                                                available
-                    
-                                            </option>
-                                            {% endfor %}
-                                        </select>
-                                    </div>
-                                </fieldset>
-                    
-                            </div>
-                        </form>
-                    </div>
-                    </details>
                 <div class="govuk-grid-column-full filter-bottom-group  govuk-!-padding-0">
                     <button class="govuk-button govuk-button--secondary reset govuk-!-margin-right-1" type="button"
                             data-module="govuk-button">

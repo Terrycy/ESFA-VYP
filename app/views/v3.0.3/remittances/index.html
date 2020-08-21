@@ -1,0 +1,151 @@
+{% extends "layout.html" %}
+
+{% block pageTitle %}
+GOV.UK Prototype Kit
+{% endblock %}
+
+
+{% block content %}
+<div class="govuk-width-container">
+    <a href="#" class="govuk-back-link">Back</a>
+
+    <main class="govuk-main-wrapper">
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <h1 class="govuk-heading-xl">Payment history
+                    <span class="govuk-caption-xl">A list of the funding payments you have received from the ESFA.</span>
+                    <span class="govuk-caption-xl">
+                        <details class="govuk-details" data-module="govuk-details">
+                        <summary class="govuk-details__summary">
+                            <span class="govuk-details__summary-text">
+                                Help using this page
+                            </span>
+                        </summary>
+                        <div class="govuk-details__text">
+                            This page shows all of the payments made into your bank account from the ESFA within the date range shown.
+                            On this page you can:
+                            <ul>
+                                <li>View the payment date and amount.</li>
+                                <li>Change the date filter to view payment records from up to 3 years ago.</li>
+                                <li>View your payment details and download as .CSV or PDF files.</li>
+                                <li>Go to the Filter and export transactions view where you can filter and export transactions using a custom date range.</li>
+                            </ul>
+                            For more information on how to use this service please read the <a href="#">View your payments guidance.</a>
+                        </div>
+                    </details>
+        </span>
+                </h1>
+                
+                
+                <p>
+                    {{ govukButton({
+                    text: "Filter and export transactions",
+                    href: "/v3.0.3/filter-and-export",
+                    isStartButton: true
+                    }) }}
+                </p>
+            </div>
+        </div>
+        <hr class="govuk-!-margin-bottom-5 govuk-hr">
+        <form class="govuk-form-group date-picker" id="filters">
+            <fieldset class="govuk-reset-fieldset govuk-grid-column-full" id="byDateRange"
+            data-filter-group="dateRangeFilter" data-filter="dateRangeFilter" role="group"
+            aria-describedby="date-range-hint">
+                <legend class="govuk-fieldset__legend govuk-fieldset__legend--m">
+                    <h2 class="govuk-fieldset__heading">
+                        Filter by date
+                    </h2>
+                </legend>
+                <span id="dob-hint" class="govuk-hint">
+                          For example, 31 3 2018 to 31 5 2019
+                        </span>
+
+                <div class="govuk-date-input">
+                    <div class="govuk-!-display-inline-block" id="start-date">
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="start-date-day">
+                                    Day
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                       id="start-date-day"
+                                       name="start-date-day" type="number" pattern="[0-9]*" value="19">
+                            </div>
+                        </div>
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="start-date-month">
+                                    Month
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                       id="start-date-month" name="start-date-month" type="number"
+                                       pattern="[0-9]*"
+                                       value="09">
+                            </div>
+                        </div>
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="start-date-year">
+                                    Year
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-4"
+                                       id="start-date-year"
+                                       name="start-date-year" type="number" pattern="[0-9]*" value="2017">
+                            </div>
+                        </div>
+                    </div>
+                    <p class="govuk-!-display-inline-block govuk-!-margin-right-5">to</p>
+                    <div id="end-date" class="govuk-!-display-inline-block">
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="end-date-day">
+                                    Day
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                       id="end-date-day"
+                                       name="end-date-day" type="number" pattern="[0-9]*" value="19">
+                            </div>
+                        </div>
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="end-date-month">
+                                    Month
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-2"
+                                       id="end-date-month"
+                                       name="end-date-month" type="number" pattern="[0-9]*" value="10">
+                            </div>
+                        </div>
+                        <div class="govuk-date-input__item">
+                            <div class="govuk-form-group">
+                                <label class="govuk-label govuk-date-input__label" for="end-date-year">
+                                    Year
+                                </label>
+                                <input class="govuk-input govuk-date-input__input govuk-input--width-4"
+                                       id="end-date-year"
+                                       name="end-date-year" type="number" pattern="[0-9]*" value="2019">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+            <div class="govuk-grid-column-full filter-buttonm-group  govuk-!-padding-0">
+                <button class="govuk-button govuk-button--secondary resetbutton govuk-!-margin-right-1" type="button"
+                        data-module="govuk-button">
+                    Reset
+                </button>
+                <button class="govuk-button" data-module="govuk-button" type="submit">
+                    Apply
+                </button>
+            </div>
+        </form>
+        
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                {% include "./remittance.html" %}
+            </div>
+        </div>
+    </main>
+</div>
+
+{% endblock %}
