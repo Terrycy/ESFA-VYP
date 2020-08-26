@@ -1,0 +1,835 @@
+[
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AEC-2191",
+    "description": "Profiled Adult Education Budget Profile Mar 2019",
+    "amount": "£26,982.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Non-Levy Apprenticeships Reconciliation Mar 2019",
+    "amount": "£15,267.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "LEVY-2783",
+    "description": "19+ Non-Levy Apprenticeships Reconciliation Mar 2019",
+    "amount": "£6,983.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1254",
+    "description": "16 to 18 Levy Funded Apprenticeships Reconciliation Mar 2019",
+    "amount": "£9,723.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Levy Apprenticeships Funded by ESFA Reconciliation Mar 2019",
+    "amount": "£5,405.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Funded Reconciliation Mar 2019",
+    "amount": "£10,633.00"
+  },
+  {
+    "date": "17 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Apprenticeships Funded by ESFA Reconciliation Mar 2019",
+    "amount": "£20,344.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£76,533.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£4,644.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,635.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,017.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,926.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,282.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£1,533.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,787.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,511.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,873.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,221.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,644.00"
+  },
+  {
+    "date": "18 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,432.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AEC-2191",
+    "description": "Profiled Adult Education Budget Profile Apr 2019",
+    "amount": "£26,982.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Non-Levy Apprenticeships Reconciliation Apr 2019",
+    "amount": "£15,467.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "LEVY-2783",
+    "description": "19+ Non-Levy Apprenticeships Reconciliation Apr 2019",
+    "amount": "£4,983.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1254",
+    "description": "16 to 18 Levy Funded Apprenticeships Reconciliation Apr 2019",
+    "amount": "£6,723.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Levy Apprenticeships Funded by ESFA Reconciliation Apr 2019",
+    "amount": "£6,205.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Funded Reconciliation Apr 2019",
+    "amount": "£13,633.00"
+  },
+  {
+    "date": "17 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Apprenticeships Funded by ESFA Reconciliation Apr 2019",
+    "amount": "£16,344.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£76,533.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£4,644.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,635.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,017.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,926.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,282.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£1,533.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,787.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,511.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,873.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,221.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,644.00"
+  },
+  {
+    "date": "18 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,432.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AEC-2191",
+    "description": "Profiled Adult Education Budget Profile May 2019",
+    "amount": "£26,982.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Non-Levy Apprenticeships Reconciliation May 2019",
+    "amount": "£12,267.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "LEVY-2783",
+    "description": "19+ Non-Levy Apprenticeships Reconciliation May 2019",
+    "amount": "£1,283.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1254",
+    "description": "16 to 18 Levy Funded Apprenticeships Reconciliation May 2019",
+    "amount": "£5,423.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Levy Apprenticeships Funded by ESFA Reconciliation May 2019",
+    "amount": "£5,305.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Funded Reconciliation May 2019",
+    "amount": "£14,633.00"
+  },
+  {
+    "date": "17 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Apprenticeships Funded by ESFA Reconciliation May 2019",
+    "amount": "£16,944.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£76,533.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£4,644.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,635.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,017.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,926.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,282.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£1,533.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,787.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,511.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,873.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,221.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,644.00"
+  },
+  {
+    "date": "18 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,432.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AEC-2191",
+    "description": "Profiled Adult Education Budget Profile Jun 2019",
+    "amount": "£20,982.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Non-Levy Apprenticeships Reconciliation Jun 2019",
+    "amount": "£18,007.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "LEVY-2783",
+    "description": "19+ Non-Levy Apprenticeships Reconciliation Jun 2019",
+    "amount": "£4,183.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1254",
+    "description": "16 to 18 Levy Funded Apprenticeships Reconciliation Jun 2019",
+    "amount": "£6,723.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Levy Apprenticeships Funded by ESFA Reconciliation Jun 2019",
+    "amount": "£2,305.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Funded Reconciliation Jun 2019",
+    "amount": "£11,233.00"
+  },
+  {
+    "date": "17 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Apprenticeships Funded by ESFA Reconciliation Jun 2019",
+    "amount": "£16,344.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£76,533.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£4,644.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,635.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,017.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,926.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,282.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£1,533.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,787.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,511.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,873.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,221.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,644.00"
+  },
+  {
+    "date": "18 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,432.00"
+  },
+  {
+    "date": "05 July 2019",
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£23,330,680.00"
+  },
+  {
+    "date": "08 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
+    "description": "Educational Services Grant",
+    "amount": "£77,478.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AEC-2191",
+    "description": "Profiled Adult Education Budget Profile Jul 2019",
+    "amount": "£26,982.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Non-Levy Apprenticeships Reconciliation Jul 2019",
+    "amount": "£17,067.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "LEVY-2783",
+    "description": "19+ Non-Levy Apprenticeships Reconciliation Jul 2019",
+    "amount": "£4,003.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1254",
+    "description": "16 to 18 Levy Funded Apprenticeships Reconciliation Jul 2019",
+    "amount": "£8,003.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "16 to 18 Levy Apprenticeships Funded by ESFA Reconciliation Jul 2019",
+    "amount": "£3,005.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Funded Reconciliation Jul 2019",
+    "amount": "£10,633.00"
+  },
+  {
+    "date": "17 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "APPS-1255",
+    "description": "19+ Levy Apprenticeships Funded by ESFA Reconciliation Jul 2019",
+    "amount": "£18,004.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF High Needs Element 2",
+    "amount": "£3,000.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SSF Maintained Special Element 2",
+    "amount": "£76,533.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£4,644.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,635.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,017.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,926.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£5,282.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£1,533.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,574.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,787.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,511.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£2,873.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£8,221.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£3,644.00"
+  },
+  {
+    "date": "18 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "FF100-301800",
+    "description": "SFF Programme Funding",
+    "amount": "£6,432.00"
+  },
+  {
+    "date": "22 July 2019",
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£13,763,300.00"
+  },
+  {
+    "date": "31 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
+    "description": "KS2 Moderation and Phonics",
+    "amount": "£44,817.00"
+  }
+]

@@ -6,18 +6,20 @@
 			<span class="th-content">Date</span>
 			
 		</th>
-		<th scope="col" class="govuk-table__header academy sortable-column" data-sort-value="academy">
-			<span class="th-content">Academy Name</span>
+		<th scope="col" class="govuk-table__header contractNumber sortable-column" data-sort-value="contractNumber">
+			<span class="th-content">Contract number</span>
 			
 		</th>
-		<th scope="col" class="govuk-table__header govuk-visually-hidden description sortable-column" data-sort-value="description">
+		<th scope="col" class="govuk-table__header budgetgroup sortable-column" data-sort-value="budgetgroup">
+			<span class="th-content">Budget group</span>
+			
+		</th>
+
+		<th scope="col" class="govuk-table__header description sortable-column" data-sort-value="description">
 			<span class="th-content">Description</span>
 			
 		</th>
-		<th scope="col" class="govuk-table__header realdescription sortable-column" data-sort-value="realdescription">
-			<span class="th-content">Description</span>
-			
-		</th>
+		
 		<th scope="col"
 			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount sortable-column"
 			data-sort-value="transactionAmount">
@@ -28,7 +30,7 @@
 	</thead>
 	<tbody class="govuk-table__body no-transition tb-data" id="transaction-table-v2">
 
-	{% for item in remittanceContentMATS %}
+	{% for item in statementContentLAPost16 %}
 
 
 	<tr class="
@@ -39,11 +41,11 @@
      "
 		data-transaction-date="{{item.date}}">
 		<td scope="row" class="govuk-table__cell transactionDate">{{item.date| date("DD/MM/YYYY") }}</td>
+		<td scope="row" class="govuk-table__cell contractNumber">{{item.contractNumber}}</td>
 		<td scope="row" class="govuk-table__cell">
-			<span class="academyName">{{item.academy}}</span>
+			<span class="budget-group">{{item.budgetgroup}}</span>
 		</td>
-		<td scope="row" class="govuk-table__cell govuk-visually-hidden description">{{item.description}}</td>
-		<td scope="row" class="govuk-table__cell realdescription">{{item.realdescription}}</td>
+		<td scope="row" class="govuk-table__cell description">{{item.description}}</td>
 		<td scope="row" class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>
 

@@ -1,0 +1,552 @@
+[
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£50,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Free School meals (post 16)",
+    "amount": "£18,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 FormProtectFun",
+    "amount": "£768.38"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Academies High Needs Element 2",
+    "amount": "£5,000.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Profiled adult education budget for community learning Profile Mar 2019-10067306",
+    "amount": "£102,812.91"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 Programme Funding",
+    "amount": "£3,006.67"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 March 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 High Needs El2",
+    "amount": "£9,080.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£50,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Free School meals (post 16)",
+    "amount": "£18,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 FormProtectFun",
+    "amount": "£768.38"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Academies High Needs Element 2",
+    "amount": "£5,000.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Profiled adult education budget for community learning Profile Apr 2019-10067306",
+    "amount": "£102,812.91"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 Programme Funding",
+    "amount": "£3,006.67"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 High Needs El2",
+    "amount": "£9,080.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£50,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Free School meals (post 16)",
+    "amount": "£18,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 FormProtectFun",
+    "amount": "£768.38"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Academies High Needs Element 2",
+    "amount": "£5,000.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Profiled adult education budget for community learning Profile May 2019-10067306",
+    "amount": "£102,812.91"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 Programme Funding",
+    "amount": "£3,006.67"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 High Needs El2",
+    "amount": "£9,080.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£50,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Free School meals (post 16)",
+    "amount": "£18,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 FormProtectFun",
+    "amount": "£768.38"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Academies High Needs Element 2",
+    "amount": "£5,000.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Profiled adult education budget for community learning Profile Jun 2019-10067306",
+    "amount": "£102,812.91"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 Programme Funding",
+    "amount": "£3,006.67"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 High Needs El2",
+    "amount": "£9,080.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Beta academy",
+    "UKPRN": "10033XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£50,831.93"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Free School meals (post 16)",
+    "amount": "£18,704.02"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 FormProtectFun",
+    "amount": "£768.38"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Academies High Needs Element 2",
+    "amount": "£5,000.00"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "Profiled adult education budget for community learning Profile Jul 2019-10067306",
+    "amount": "£102,812.91"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 Programme Funding",
+    "amount": "£3,006.67"
+  },
+  {
+    "MATname": "UMP academy trust",
+    "academyName": "Charlie academy",
+    "UKPRN": "10034XX",
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "AC100-355702",
+    "description": "16-19 High Needs El2",
+    "amount": "£9,080.00"
+  }
+]

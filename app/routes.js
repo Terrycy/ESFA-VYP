@@ -112,6 +112,14 @@ router.get('/v3.0.4/mvp/payment-history', function (req, res) {
 router.get('/v3.0.4/filter-and-export', function (req, res) {
   res.render('v3.0.4/transaction-view/index')
 })
+router.get('/v3.0.4/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v3.0.4/remittance-statement/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
 // v3.0.5 stuff
 router.get('/v3.0.5/vyp', function (req, res) {
   res.render('v3.0.5/index')
@@ -127,6 +135,14 @@ router.get('/v3.0.5/mvp/payment-history', function (req, res) {
 })
 router.get('/v3.0.5/filter-and-export', function (req, res) {
   res.render('v3.0.5/transaction-view/index')
+})
+router.get('/v3.0.5/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v3.0.5/remittance-statement/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
 })
 
 

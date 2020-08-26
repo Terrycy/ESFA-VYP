@@ -1,9 +1,10 @@
 <a href="#" onClick="history.go(0);" class="govuk-back-link">Back</a>
 <h1 class="govuk-heading-xl">
     Payment details {{ "for" if remittanceAcademy}} {{remittanceAcademy | replace('-', ' ')}}
-
+    <span class="govuk-heading-s">(UKPRN: 10034XX)</span>
     <span class="govuk-caption-xl">A list of transactions that made up this payment from the ESFA for {{remittanceDate | replace('-', ' ')}}</span>
 </h1>
+
 <details class="govuk-details" data-module="govuk-details">
     <summary class="govuk-details__summary">
         <span class="govuk-details__summary-text">

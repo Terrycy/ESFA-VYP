@@ -20,13 +20,14 @@ GOV.UK Prototype Kit
                     </span>
                 </summary>
                 <div class="govuk-details__text">
-                    This page displays a list of all the transactions that made up the funds you’ve received from the
-                    ESFA. You can filter and export this data according to:
+                    This page displays a list of payment transactions for funding you have received from the ESFA. You can view transactions from up to 3 years ago. On this page you can:
                     <ul>
-                        <li>Date ranges</li>
-                        <li>Budget groups</li>
-                        <li>Contract numbers</li>
-                        <li>Transaction descriptions</li>
+                        <li>Use the date filter to view transactions for a  custom date range for either pre or post-16 funding.</li>
+                        <li>Use the transactions filter to search for specific transaction descriptions within the date range.</li>
+                        <li>Use the academies filter to search for specific payments from one or more academies.</li>
+                        <li>View your total payments received for the filters you have selected.</li>
+                        <li>View your budget group summary information for the filters you have selected.</li>
+                        <li>Use the arrows next to each field heading to sort data into ascending/descending order. Sort by date descending to return to default view.</li>
                     </ul>
                     <a href="#">Get further guidance on using this page.</a>
                 </div>
@@ -36,32 +37,72 @@ GOV.UK Prototype Kit
         </div>
     </div>
 </div>
-
-
-{% include "../../includes/filter-component-mat.html" %}
-
-
-<div class="govuk-grid-row">
-    <div class="govuk-grid-column-full">
-
-        {% include "../content/summary-table.html" %}
-    </div>
-</div>
-<div class="govuk-grid-row">
-    <div class="govuk-grid-column-full">
-
-        <div class="govuk-filter-group__container buttons">
-            <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
-                Export
-            </button>
-            <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
-                Print
-            </button>
+<div class="govuk-tabs" data-module="govuk-tabs">
+    <h2 class="govuk-tabs__title">
+      Contents
+    </h2>
+    <ul class="govuk-tabs__list">
+      <li class="govuk-tabs__list-item govuk-tabs__list-item--selected">
+        <a class="govuk-tabs__tab" href="#pre16">
+          Pre-16 funding
+        </a>
+      </li>
+      <li class="govuk-tabs__list-item">
+        <a class="govuk-tabs__tab" href="#post16">
+          Post-16 funding
+        </a>
+      </li>
+    </ul>
+    <div class="govuk-tabs__panel" id="pre16">
+        {% include "../../includes/filter-component-la.html" %}
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+            {% include "../content/summary-table.html" %}
         </div>
-        {% include "../content/transaction-table.html" %}
-        {% include "../../includes/pagination.html" %}
     </div>
-</div>
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+    
+            <div class="govuk-filter-group__container buttons">
+                <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
+                    Download as CSV
+                </button>
+                <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
+                    Download as PDF
+                </button>
+            </div>
+            {% include "../content/la-table-pre16.html" %}
+            {% include "../../includes/pagination.html" %}
+        </div>
+    </div>
+    </div>
+    <div class="govuk-tabs__panel govuk-tabs__panel--hidden" id="post16">
+
+        {% include "../../includes/filter-component-la.html" %}
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+            {% include "../content/summary-table.html" %}
+        </div>
+    </div>
+    <div class="govuk-grid-row">
+        <div class="govuk-grid-column-full">
+    
+            <div class="govuk-filter-group__container buttons">
+                <button class="govuk-button govuk-button--secondary govuk-!-margin-right-1" data-module="govuk-button">
+                    Download as CSV
+                </button>
+                <button class="govuk-button govuk-button--secondary" data-module="govuk-button">
+                    Download as PDF
+                </button>
+            </div>
+            {% include "../content/la-table-post16.html" %}
+            {% include "../../includes/pagination.html" %}
+        </div>
+    </div>
+    </div>
+    
+    
+  </div>
 
 
 {% endblock %}
