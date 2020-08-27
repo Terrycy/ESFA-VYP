@@ -15,10 +15,7 @@ const statementData = require('./app/data/statements/statement-v2.0.1.json')
 const remittanceData = require('./app/data/statements/statement-v2.0.1.json')
 const remittanceDataMATS = require('./app/data/statements/statement-MATS.json')
 const remittanceDataMATSFilter = require('./app/data/statements/statement-MATS-remittance.json')
-const statementDataLAPre16 = require('./app/data/statements/statement-LA-pre16-august20.json')
-const statementDataMATPost16 = require('./app/data/statements/statement-MAT-post16-august20.json')
-const statementDataLAPost16 = require('./app/data/statements/statement-LA-post16-august20.json')
-const statementDataMATPre16 = require('./app/data/statements/statement-MAT-pre16-august20.json')
+const statementDataLA = require('./app/data/statements/statement-LA-august20.json')
 // const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
@@ -80,10 +77,7 @@ const statementContent = Object.assign(statementData)
 const remittanceContent = Object.assign(remittanceData)
 const remittanceContentMATS = Object.assign(remittanceDataMATS)
 const remittanceContentMATSFilter = Object.assign(remittanceDataMATSFilter)
-const statementContentLAPre16 = Object.assign(statementDataLAPre16)
-const statementContentLAPost16 = Object.assign(statementDataLAPost16)
-const statementContentMATPre16 = Object.assign(statementDataMATPre16)
-const statementContentMATPost16 = Object.assign(statementDataMATPost16)
+const statementContentLA = Object.assign(statementDataLA)
 
 
 const summaryContent = Object.assign(summaryData)
@@ -220,10 +214,7 @@ app.locals.statementContent = statementContent
 app.locals.remittanceContent = remittanceContent
 app.locals.remittanceContentMATS = remittanceContentMATS
 app.locals.remittanceContentMATSFilter = remittanceContentMATSFilter
-app.locals.statementContentLAPre16 = statementContentLAPre16
-app.locals.statementContentLAPost16 = statementContentLAPost16
-app.locals.statementContentMATPre16 = statementContentMATPre16
-app.locals.statementContentMATPost16 = statementContentMATPost16
+app.locals.statementContentLA = statementContentLA
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal
 
