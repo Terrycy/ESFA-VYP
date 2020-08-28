@@ -22,6 +22,8 @@ const statementDataMATPre16 = require('./app/data/statements/statement-mat-pre16
 const statementDataSingleMATPre16 = require('./app/data/statements/statement-singlemat-pre16-august20.json')
 // const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
+const summaryLAPre16Data = require('./app/data/summary tables/summary-la-pre16.json')
+const summaryMATPre16Data = require('./app/data/summary tables/summary-mat-pre16.json')
 
 // Run before other code to make sure variables from .env are available
 dotenv.config()
@@ -89,6 +91,8 @@ const statementContentMATPost16 = Object.assign(statementDataMATPost16)
 
 
 const summaryContent = Object.assign(summaryData)
+const summaryLAPre16Content = Object.assign(summaryLAPre16Data)
+const summaryMATPre16Content = Object.assign(summaryMATPre16Data)
 
 useHttps = useHttps.toLowerCase()
 
@@ -228,6 +232,8 @@ app.locals.statementContentMATPre16 = statementContentMATPre16
 app.locals.statementContentSingleMATPre16 = statementContentSingleMATPre16
 app.locals.statementContentMATPost16 = statementContentMATPost16
 app.locals.summaryContent = summaryContent
+app.locals.summaryLAPre16Content = summaryLAPre16Content
+app.locals.summaryMATPre16Content = summaryMATPre16Content
 app.locals.summaryTotal = config.summaryTotal
 
 // Session uses service name to avoid clashes with other prototypes
