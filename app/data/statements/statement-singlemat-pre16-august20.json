@@ -1,0 +1,146 @@
+[
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Other Factors",
+    "amount": "£9,750.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Pupil Led Factors",
+    "amount": "£380,837.66"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£97,941.25"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Other Factors",
+    "amount": "£9,750.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Pupil Led Factors",
+    "amount": "£380,837.66"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£16,800.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Other Factors",
+    "amount": "£9,750.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "GAG",
+    "contractNumber": "AC100-316978",
+    "description": "Pupil Led Factors",
+    "amount": "£380,837.66"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "UKPRN": "10032XX",
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Universal Infant Free School Meal Funding",
+    "amount": "£92,941.25"
+  }
+]

@@ -19,6 +19,7 @@ const statementDataLAPre16 = require('./app/data/statements/statement-LA-pre16-a
 const statementDataMATPost16 = require('./app/data/statements/statement-mat-post16-august20.json')
 const statementDataLAPost16 = require('./app/data/statements/statement-LA-post16-august20.json')
 const statementDataMATPre16 = require('./app/data/statements/statement-mat-pre16-august20.json')
+const statementDataSingleMATPre16 = require('./app/data/statements/statement-singlemat-pre16-august20.json')
 // const remittanceData2 = require('./app/data/statements/statement-v2.0.1.json')
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 
@@ -83,6 +84,7 @@ const remittanceContentMATSFilter = Object.assign(remittanceDataMATSFilter)
 const statementContentLAPre16 = Object.assign(statementDataLAPre16)
 const statementContentLAPost16 = Object.assign(statementDataLAPost16)
 const statementContentMATPre16 = Object.assign(statementDataMATPre16)
+const statementContentSingleMATPre16 = Object.assign(statementDataSingleMATPre16)
 const statementContentMATPost16 = Object.assign(statementDataMATPost16)
 
 
@@ -223,6 +225,7 @@ app.locals.remittanceContentMATSFilter = remittanceContentMATSFilter
 app.locals.statementContentLAPre16 = statementContentLAPre16
 app.locals.statementContentLAPost16 = statementContentLAPost16
 app.locals.statementContentMATPre16 = statementContentMATPre16
+app.locals.statementContentSingleMATPre16 = statementContentSingleMATPre16
 app.locals.statementContentMATPost16 = statementContentMATPost16
 app.locals.summaryContent = summaryContent
 app.locals.summaryTotal = config.summaryTotal

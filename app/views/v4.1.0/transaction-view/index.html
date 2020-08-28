@@ -8,25 +8,30 @@ GOV.UK Prototype Kit
 {% block content %}
 <a href="#" class="govuk-back-link">Back</a>
 
+
 <div class="govuk-grid-row">
 
     <div class="govuk-grid-column-full">
-        <div class="header-wrapper">    <h1 class="govuk-heading-xl">
+        <div class="header-wrapper">    
+            <h1 class="govuk-heading-xl">
             Filter and export transactions
-            <span class="govuk-caption-xl">            <details class="govuk-details" data-module="govuk-details">
+            <span class="govuk-caption-xl">A list of the individual transactions you have received from the ESFA.</span>
+            <span class="govuk-caption-xl">            
+                <details class="govuk-details" data-module="govuk-details">
                 <summary class="govuk-details__summary">
                     <span class="govuk-details__summary-text">
                         Help using this page
                     </span>
                 </summary>
                 <div class="govuk-details__text">
-                    This page displays a list of all the transactions that made up the funds you’ve received from the
-                    ESFA. You can filter and export this data according to:
+                    This page displays a list of payment transactions for funding you have received from the ESFA. You can view transactions from up to 3 years ago. On this page you can:
                     <ul>
-                        <li>Date ranges</li>
-                        <li>Budget groups</li>
-                        <li>Contract numbers</li>
-                        <li>Transaction descriptions</li>
+                        <li>Use the date filter to view transactions for a  custom date range for either pre or post-16 funding.</li>
+                        <li>Use the transactions filter to search for specific transaction descriptions within the date range.</li>
+                        <li>Use the academies filter to search for specific payments from one or more academies.</li>
+                        <li>View your total payments received for the filters you have selected.</li>
+                        <li>View your budget group summary information for the filters you have selected.</li>
+                        <li>Use the arrows next to each field heading to sort data into ascending/descending order. Sort by date descending to return to default view.</li>
                     </ul>
                     <a href="#">Get further guidance on using this page.</a>
                 </div>
@@ -38,7 +43,7 @@ GOV.UK Prototype Kit
 </div>
 
 
-{% include "../../includes/filter-component-mat.html" %}
+{% include "../../includes/filter-component-single-mat.html" %}
 
 
 <div class="govuk-grid-row">
