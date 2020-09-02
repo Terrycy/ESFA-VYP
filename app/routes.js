@@ -120,6 +120,15 @@ router.get('/v3.0.4/payment-history/remittance-statement/:remittanceAcademy/:rem
     'remittanceId': req.params.remittanceId,
   })
 })
+router.get('/v3.0.4/payment-history/remittance-statement-post16/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v3.0.4/remittance-statement-post16/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
+
 // v3.0.5 stuff
 router.get('/v3.0.5/vyp', function (req, res) {
   res.render('v3.0.5/index')
@@ -139,6 +148,14 @@ router.get('/v3.0.5/filter-and-export', function (req, res) {
 router.get('/v3.0.5/payment-history/remittance-statement/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
 
   res.render('v3.0.5/remittance-statement/index', {
+    "remittanceAcademy": req.params.remittanceAcademy,
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
+router.get('/v3.0.5/payment-history/remittance-statement-post16/:remittanceAcademy/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v3.0.5/remittance-statement-post16/index', {
     "remittanceAcademy": req.params.remittanceAcademy,
     'remittanceDate': req.params.remittanceDate,
     'remittanceId': req.params.remittanceId,

@@ -1,8 +1,8 @@
 [
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "FF100-272087",
@@ -10,9 +10,9 @@
     "amount": "£531,339.30"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "FF100-272087",
@@ -20,9 +20,9 @@
     "amount": "£681.60"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "FF100-272087",
@@ -30,9 +30,9 @@
     "amount": "£70,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "FF100-272087",
@@ -40,9 +40,169 @@
     "amount": "£28,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 April 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 May 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 June 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 Programme Funding",
+    "amount": "£531,339.30"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 High Needs El2",
+    "amount": "£681.60"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "16-19 BursFund (LR)",
+    "amount": "£70,831.93"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Beta academy",
+    "remittanceID": 2,
+    "date": "05 July 2019",
+    "budgetgroup": "TBC",
+    "contractNumber": "FF100-272087",
+    "description": "Free School meals (post 16)",
+    "amount": "£28,704.02"
+  },
+  {
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -50,9 +210,9 @@
     "amount": "£50,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -60,9 +220,9 @@
     "amount": "£18,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -70,9 +230,9 @@
     "amount": "£768.38"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -80,9 +240,9 @@
     "amount": "£5,000.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -90,9 +250,9 @@
     "amount": "£102,812.91"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -100,9 +260,9 @@
     "amount": "£3,006.67"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 March 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -110,49 +270,9 @@
     "amount": "£9,080.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 April 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 Programme Funding",
-    "amount": "£531,339.30"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 April 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 High Needs El2",
-    "amount": "£681.60"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 April 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 BursFund (LR)",
-    "amount": "£70,831.93"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 April 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "Free School meals (post 16)",
-    "amount": "£28,704.02"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -160,9 +280,9 @@
     "amount": "£50,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -170,9 +290,9 @@
     "amount": "£18,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -180,9 +300,9 @@
     "amount": "£768.38"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -190,9 +310,9 @@
     "amount": "£5,000.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -200,9 +320,9 @@
     "amount": "£102,812.91"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -210,9 +330,9 @@
     "amount": "£3,006.67"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 April 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -220,49 +340,9 @@
     "amount": "£9,080.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 May 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 Programme Funding",
-    "amount": "£531,339.30"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 May 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 High Needs El2",
-    "amount": "£681.60"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 May 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 BursFund (LR)",
-    "amount": "£70,831.93"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 May 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "Free School meals (post 16)",
-    "amount": "£28,704.02"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -270,9 +350,9 @@
     "amount": "£50,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -280,9 +360,9 @@
     "amount": "£18,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -290,9 +370,9 @@
     "amount": "£768.38"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -300,9 +380,9 @@
     "amount": "£5,000.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -310,9 +390,9 @@
     "amount": "£102,812.91"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -320,9 +400,9 @@
     "amount": "£3,006.67"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 May 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -330,49 +410,9 @@
     "amount": "£9,080.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 June 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 Programme Funding",
-    "amount": "£531,339.30"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 June 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 High Needs El2",
-    "amount": "£681.60"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 June 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 BursFund (LR)",
-    "amount": "£70,831.93"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 June 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "Free School meals (post 16)",
-    "amount": "£28,704.02"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -380,9 +420,9 @@
     "amount": "£50,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -390,9 +430,9 @@
     "amount": "£18,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -400,9 +440,9 @@
     "amount": "£768.38"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -410,9 +450,9 @@
     "amount": "£5,000.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -420,9 +460,9 @@
     "amount": "£102,812.91"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -430,9 +470,9 @@
     "amount": "£3,006.67"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 June 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -440,49 +480,9 @@
     "amount": "£9,080.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 July 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 Programme Funding",
-    "amount": "£531,339.30"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 July 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 High Needs El2",
-    "amount": "£681.60"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 July 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "16-19 BursFund (LR)",
-    "amount": "£70,831.93"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Beta academy",
-    "UKPRN": "10033XX",
-    "date": "05 July 2019",
-    "budgetgroup": "TBC",
-    "contractNumber": "FF100-272087",
-    "description": "Free School meals (post 16)",
-    "amount": "£28,704.02"
-  },
-  {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -490,9 +490,9 @@
     "amount": "£50,831.93"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -500,9 +500,9 @@
     "amount": "£18,704.02"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -510,9 +510,9 @@
     "amount": "£768.38"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -520,9 +520,9 @@
     "amount": "£5,000.00"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -530,9 +530,9 @@
     "amount": "£102,812.91"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",
@@ -540,9 +540,9 @@
     "amount": "£3,006.67"
   },
   {
-    "MATname": "UMP academy trust",
-    "academyName": "Charlie academy",
-    "UKPRN": "10034XX",
+    "matName": "UMP academy trust",
+    "academy": "Charlie academy",
+    "remittanceID": 3,
     "date": "05 July 2019",
     "budgetgroup": "TBC",
     "contractNumber": "AC100-355702",

@@ -1,469 +1,703 @@
 [
   {
-    "date": "05 March 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£23,330,680.00"
-  },
-  {
-    "date": "08 March 2019",
-    "budgetgroup": "Other",
-    "description": "Educational Services Grant",
-    "amount": "£77,478.00"
-  },
-  {
-    "date": "22 March 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£13,763,300.00"
-  },
-  {
-    "date": "31 March 2019",
-    "budgetgroup": "Other",
-    "description": "KS2 Moderation and Phonics",
-    "amount": "£44,817.00"
-  },
-  {
-    "date": "05 April 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£23,330,680.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Teachers Pay Grant",
-    "amount": "£152,799.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "School Improvement, Monitoring and Brokering Grant",
-    "amount": "£86,363.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£7,593.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£8,224.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£3,344.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£4,433.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£8,757.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£8,644.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£5,647.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,722.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,737.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,752.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,766.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,781.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,796.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,811.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,826.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,841.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,855.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,870.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,885.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,900.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,915.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,929.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,944.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,959.00"
-  },
-  {
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£6,974.00"
-  },
-  {
-    "date": "08 April 2019",
-    "budgetgroup": "Other",
-    "description": "Educational Services Grant",
-    "amount": "£77,478.00"
-  },
-  {
-    "date": "22 April 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£13,763,300.00"
-  },
-  {
-    "date": "29 April 2019",
-    "budgetgroup": "Other",
-    "description": "Pupil Premium",
-    "amount": "£5,873,098.00"
-  },
-  {
-    "date": "29 April 2019",
-    "budgetgroup": "Other",
-    "description": "Universal Infant Free School Meals",
-    "amount": "£913,782.00"
-  },
-  {
-    "date": "30 April 2019",
-    "budgetgroup": "Other",
-    "description": "KS2 Moderation and Phonics",
-    "amount": "£44,817.00"
-  },
-  {
-    "date": "05 May 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£23,330,680.00"
-  },
-  {
-    "date": "08 May 2019",
-    "budgetgroup": "Other",
-    "description": "Educational Services Grant",
-    "amount": "£77,478.00"
-  },
-  {
-    "date": "22 May 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
-    "amount": "£13,763,300.00"
-  },
-  {
-    "date": "31 May 2019",
-    "budgetgroup": "Other",
-    "description": "KS2 Moderation and Phonics",
-    "amount": "£44,817.00"
-  },
-  {
+    "academy": "VYP County council",
     "date": "05 June 2019",
+    "remittanceID": 1,
     "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
     "description": "Dedicated Schools Grant",
     "amount": "£23,330,680.00"
   },
   {
-    "date": "07 June 2019",
-    "budgetgroup": "Other",
-    "description": "Teachers Pay Grant",
-    "amount": "£152,799.00"
+    "academy": "VYP County council",
+    "date": "05 March 2019",
+    "remittanceID": 1,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£23,330,680.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "05 April 2019",
+    "remittanceID": 1,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£23,330,680.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "05 May 2019",
+    "remittanceID": 1,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£23,330,680.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "05 July 2019",
+    "remittanceID": 1,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£23,330,680.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
     "description": "School Improvement, Monitoring and Brokering Grant",
     "amount": "£86,363.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344248",
     "description": "Primary PE and Sport Premium",
     "amount": "£7,593.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344249",
     "description": "Primary PE and Sport Premium",
     "amount": "£8,224.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344250",
     "description": "Primary PE and Sport Premium",
     "amount": "£3,344.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344251",
     "description": "Primary PE and Sport Premium",
     "amount": "£4,433.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344252",
     "description": "Primary PE and Sport Premium",
     "amount": "£8,757.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344253",
     "description": "Primary PE and Sport Premium",
     "amount": "£8,644.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344254",
     "description": "Primary PE and Sport Premium",
     "amount": "£5,647.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344255",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,722.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344256",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,737.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344257",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,752.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344258",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,766.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344259",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,781.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344260",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,796.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344261",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,811.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344262",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,826.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344263",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,841.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344264",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,855.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344265",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,870.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344266",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,885.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344267",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,900.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344268",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,915.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344269",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,929.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344270",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,944.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344271",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,959.00"
   },
   {
-    "date": "07 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-344272",
     "description": "Primary PE and Sport Premium",
     "amount": "£6,974.00"
   },
   {
-    "date": "08 June 2019",
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
     "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Teachers Pay Grant",
+    "amount": "£152,799.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "School Improvement, Monitoring and Brokering Grant",
+    "amount": "£86,363.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344248",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£7,593.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344249",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£8,224.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344250",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£3,344.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344251",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£4,433.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344252",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£8,757.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344253",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£8,644.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344254",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£5,647.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344255",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,722.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344256",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,737.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344257",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,752.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344258",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,766.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344259",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,781.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344260",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,796.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344261",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,811.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344262",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,826.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344263",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,841.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344264",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,855.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344265",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,870.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344266",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,885.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344267",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,900.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344268",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,915.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344269",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,929.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344270",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,944.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344271",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,959.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "07 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-344272",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£6,974.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "08 March 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
     "description": "Educational Services Grant",
     "amount": "£77,478.00"
   },
   {
-    "date": "22 June 2019",
+    "academy": "VYP County council",
+    "date": "07 April 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Teachers Pay Grant",
+    "amount": "£152,799.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "08 May 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
+    "description": "Educational Services Grant",
+    "amount": "£77,478.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "08 June 2019",
+    "remittanceID": 2,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
+    "description": "Educational Services Grant",
+    "amount": "£77,478.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "08 April 2019",
+    "remittanceID": 3,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
+    "description": "Educational Services Grant",
+    "amount": "£77,478.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "08 June 2019",
+    "remittanceID": 3,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343911",
+    "description": "Educational Services Grant",
+    "amount": "£77,478.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "22 March 2019",
+    "remittanceID": 5,
     "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
     "description": "Dedicated Schools Grant",
     "amount": "£13,763,300.00"
   },
   {
-    "date": "29 June 2019",
+    "academy": "VYP County council",
+    "date": "31 March 2019",
+    "remittanceID": 5,
     "budgetgroup": "Other",
-    "description": "Pupil Premium",
-    "amount": "£5,873,098.00"
-  },
-  {
-    "date": "29 June 2019",
-    "budgetgroup": "Other",
-    "description": "Universal Infant Free School Meals",
-    "amount": "£913,782.00"
-  },
-  {
-    "date": "30 June 2019",
-    "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
     "description": "KS2 Moderation and Phonics",
     "amount": "£44,817.00"
   },
   {
-    "date": "05 July 2019",
+    "academy": "VYP County council",
+    "date": "22 May 2019",
+    "remittanceID": 5,
     "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
     "description": "Dedicated Schools Grant",
+    "amount": "£13,763,300.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "22 June 2019",
+    "remittanceID": 5,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£13,763,300.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "22 April 2019",
+    "remittanceID": 6,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£13,763,300.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "31 May 2019",
+    "remittanceID": 6,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
+    "description": "KS2 Moderation and Phonics",
+    "amount": "£44,817.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "30 June 2019",
+    "remittanceID": 6,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
+    "description": "KS2 Moderation and Phonics",
+    "amount": "£44,817.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "22 June 2019",
+    "remittanceID": 6,
+    "budgetgroup": "DSG",
+    "contractNumber": "NM100-343905",
+    "description": "Dedicated Schools Grant",
+    "amount": "£13,763,300.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "29 April 2019",
+    "remittanceID": 7,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343909",
+    "description": "Pupil Premium",
+    "amount": "£5,873,098.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "29 April 2019",
+    "remittanceID": 7,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343904",
+    "description": "Universal Infant Free School Meals",
     "amount": "£913,782.00"
   },
   {
-    "date": "08 July 2019",
+    "academy": "VYP County council",
+    "date": "29 June 2019",
+    "remittanceID": 7,
     "budgetgroup": "Other",
-    "description": "Educational Services Grant",
-    "amount": "£77,478.00"
+    "contractNumber": "NM100-343909",
+    "description": "Pupil Premium",
+    "amount": "£5,873,098.00"
   },
   {
-    "date": "22 July 2019",
-    "budgetgroup": "DSG",
-    "description": "Dedicated Schools Grant",
+    "academy": "VYP County council",
+    "date": "29 June 2019",
+    "remittanceID": 7,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343904",
+    "description": "Universal Infant Free School Meals",
     "amount": "£913,782.00"
   },
   {
-    "date": "31 July 2019",
+    "academy": "VYP County council",
+    "date": "30 April 2019",
+    "remittanceID": 8,
     "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
+    "description": "KS2 Moderation and Phonics",
+    "amount": "£44,817.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "30 June 2019",
+    "remittanceID": 8,
+    "budgetgroup": "Other",
+    "contractNumber": "NM100-343910",
     "description": "KS2 Moderation and Phonics",
     "amount": "£44,817.00"
   }

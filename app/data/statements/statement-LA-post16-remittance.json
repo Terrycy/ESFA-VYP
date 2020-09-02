@@ -1,0 +1,62 @@
+[
+  {
+    "academy": "VYP County council",
+    "date": "17 March 2019",
+    "remittanceID": 3,
+    "amount": "£95,337.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "17 May 2019",
+    "remittanceID": 3,
+    "amount": "£82,837.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "17 June 2019",
+    "remittanceID": 3,
+    "amount": "£87,697.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "18 March 2019",
+    "remittanceID": 4,
+    "amount": "£149,186.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "17 April 2019",
+    "remittanceID": 4,
+    "amount": "£90,337.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "18 May 2019",
+    "remittanceID": 4,
+    "amount": "£149,186.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "17 June 2019",
+    "remittanceID": 4,
+    "amount": "£79,777.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "18 June 2019",
+    "remittanceID": 4,
+    "amount": "£149,186.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "18 April 2019",
+    "remittanceID": 5,
+    "amount": "£149,186.00"
+  },
+  {
+    "academy": "VYP County council",
+    "date": "18 June 2019",
+    "remittanceID": 5,
+    "amount": "£149,186.00"
+  }
+]

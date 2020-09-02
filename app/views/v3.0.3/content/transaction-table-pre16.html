@@ -2,7 +2,8 @@
 	<thead class="govuk-table__head" class="sort">
 	<tr class="govuk-table__row btn-group" id="sorts2">
 		<th scope="col" class="govuk-table__header asc transactionDate sortable-column" data-sort-value="transactionDate">Date</th>
-		<th scope="col" class="govuk-table__header academy sortable-column" data-sort-value="academy">Academy Name</th>
+		<th scope="col" class="govuk-table__header academy sortable-column" data-sort-value="contractNumber">Contract number</th>
+		<th scope="col" class="govuk-table__header academy sortable-column" data-sort-value="budgetgroup">Budget group</th>
 		<th scope="col" class="govuk-table__header description sortable-column" data-sort-value="description">Description</th>
 		<th scope="col"
 			class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount"
@@ -12,7 +13,7 @@
 	</thead>
 	<tbody class="govuk-table__body no-transition tb-data" id="transaction-table-v2">
 
-	{% for item in remittanceContentMATS %}
+	{% for item in statementContentSeptember %}
 
 
 	<tr class="
@@ -23,7 +24,8 @@
      "
 		data-transaction-date="{{item.date}}">
 		<td class="govuk-table__cell transactionDate ">{{item.date| date("DD/MM/YYYY") }}</td>
-		<td class="govuk-table__cell academy">{{item.academy}}</td>
+		<td class="govuk-table__cell academy">{{item.contractNumber}}</td>
+		<td class="govuk-table__cell budgetgroup">{{item.budgetgroup}}</td>
 		<td class="govuk-table__cell description">{{item.description}}</td>
 		<td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
 	</tr>

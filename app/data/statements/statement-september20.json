@@ -1,0 +1,1226 @@
+[
+  {
+    "date": "19 October 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) Sep 19",
+    "amount": "£114,952.72",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "AEAL-1126",
+    "budgetgroup": "Procured AEB",
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Oct 19",
+    "amount": "£94,993.02",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) - capping Sep 19",
+    "amount": "-£743.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme Sep 19",
+    "amount": "£11,495.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme - capping Sep 19",
+    "amount": "-£562.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Oct 19",
+    "amount": "£205,307.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Sep 19",
+    "amount": "£514,954.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ALLC-4314",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - profile Oct 19",
+    "amount": "£1,105.05",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary Sep 19",
+    "amount": "£4,632.26",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - capping Sep 19",
+    "amount": "-£56.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area Sep 19",
+    "amount": "£12,654.98",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ESF-5133",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 more-developed area Sep 19",
+    "amount": "678,102.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area - capping Sep 19",
+    "amount": "-£150.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships Sep 19",
+    "amount": "£27,590.15",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Sep 19",
+    "amount": "£6,285.86",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Sep 19",
+    "amount": "£5,228.06",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for employers Sep 19",
+    "amount": "£3,200.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for individuals Sep 19",
+    "amount": "£7,100.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community Sep 19",
+    "amount": "6,907.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Sep 19",
+    "amount": "£47,654.83",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Sep 19",
+    "amount": "£57,542.54",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Sep 19",
+    "amount": "£2,700.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Trailblazer Apprenticeships for employers Sep 19",
+    "amount": "£2,700.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Sep 19",
+    "amount": "£2,700.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Sep 19",
+    "amount": "-£251.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Sep 19",
+    "amount": "£83,740.94",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Sep 19",
+    "amount": "£21,740.94",
+    "remittanceID": 2
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Sep 19",
+    "amount": "£28,740.94",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping Sep 19",
+    "amount": "-£1,040.08",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Sep 19",
+    "amount": "£65,796.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Sep 19",
+    "amount": "£85,987.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "19 October 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Sep 19",
+    "amount": "-£230.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) Aug 19",
+    "amount": "£86,214.54",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "AEAL-1126",
+    "budgetgroup": "Procured AEB",
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Sep 19",
+    "amount": "£71,244.77",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) - capping Aug 19",
+    "amount": "-£557.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme Aug 19",
+    "amount": "£8,621.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Sep 19",
+    "amount": "£153,980.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Aug 19",
+    "amount": "£386,215.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ALLC-4314",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - profile Sep 19",
+    "amount": "£828.79",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary Aug 19",
+    "amount": "£3,474.20",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - capping Aug 19",
+    "amount": "-£42.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area Aug 19",
+    "amount": "£9,491.24",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ESF-5133",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 more-developed area Aug 19",
+    "amount": "£508,576.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships Aug 19",
+    "amount": "£20,692.61",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Aug 19",
+    "amount": "£4,714.40",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Aug 19",
+    "amount": "£3,921.05",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for employers Aug 19",
+    "amount": "£2,400.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for individuals Aug 19",
+    "amount": "£5,325.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community Aug 19",
+    "amount": "£5,180.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community - capping Aug 19",
+    "amount": "-£17.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Aug 19",
+    "amount": "£35,741.12",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Aug 19",
+    "amount": "£43,156.91",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Aug 19",
+    "amount": "£2,025.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Trailblazer Apprenticeships for employers Aug 19",
+    "amount": "£2,025.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Aug 19",
+    "amount": "£62,805.71",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Aug 19",
+    "amount": "£16,305.71",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Aug 19",
+    "amount": "£21,555.71",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Aug 19",
+    "amount": "£49,347.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Aug 19",
+    "amount": "£64,490.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 September 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Aug 19",
+    "amount": "-£172.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) July 19",
+    "amount": "£57,476.36",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "AEAL-1126",
+    "budgetgroup": "Procured AEB",
+    "description": "Adult Skills Learner Support (Procured AEB) - profile Aug 19",
+    "amount": "£47,496.51",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) - capping July 19",
+    "amount": "-£371.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme July 19",
+    "amount": "£5,747.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme - capping July 19",
+    "amount": "-£281.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile Aug 19",
+    "amount": "£102,653.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "Adult Skills and Community Learning (Non-procured AEB) July 19",
+    "amount": "£257,477.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ALLC-4314",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - profile Sep 19",
+    "amount": "£552.53",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary July 19",
+    "amount": "£2,316.13",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - capping July 19",
+    "amount": "-£28.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area July 19",
+    "amount": "£6,327.49",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ESF-5133",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 more-developed area July 19",
+    "amount": "£339,051.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area - capping July 19",
+    "amount": "-£75.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships July 19",
+    "amount": "£13,795.08",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment July 19",
+    "amount": "£3,142.93",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA July 19",
+    "amount": "£2,614.03",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for employers July 19",
+    "amount": "£1,600.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for individuals July 19",
+    "amount": "£3,550.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community July 19",
+    "amount": "£3,453.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community - capping July 19",
+    "amount": "-£11.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) July 19",
+    "amount": "£23,827.42",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships July 19",
+    "amount": "£28,771.27",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers July 19",
+    "amount": "£1,350.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Trailblazer Apprenticeships for employers July 19",
+    "amount": "£1,350.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping July 19",
+    "amount": "£1,350.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping July 19",
+    "amount": "-£125.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships July 19",
+    "amount": "£41,870.47",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers July 19",
+    "amount": "£10,870.47",
+    "remittanceID": 2
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) July 19",
+    "amount": "£14,370.47",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping July 19",
+    "amount": "-£520.04",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals July 19",
+    "amount": "£32,898.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) July 19",
+    "amount": "£42,993.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "15 August 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping July 19",
+    "amount": "-£115.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) Jun 19",
+    "amount": "£103,457.45",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "AEAL-1126",
+    "budgetgroup": "Procured AEB",
+    "description": "Adult Skills Learner Support (Procured AEB) - profile July 19",
+    "amount": "£85,493.72",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme Jun 19",
+    "amount": "£10,345.50",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme - capping Jun 19",
+    "amount": "-£505.80",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile July 19",
+    "amount": "£184,776.30",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "Adult Skills and Community Learning (Non-procured AEB) Jun 19",
+    "amount": "£463,458.60",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ALLC-4314",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - profile July 19",
+    "amount": "£994.55",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary Jun 19",
+    "amount": "£4,169.03",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - capping Jun 19",
+    "amount": "-£50.40",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships Jun 19",
+    "amount": "£24,831.14",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment Jun 19",
+    "amount": "£5,657.27",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA Jun 19",
+    "amount": "£4,705.25",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for employers Jun 19",
+    "amount": "£2,880.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for individuals Jun 19",
+    "amount": "£6,390.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community Jun 19",
+    "amount": "£6,216.30",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) Jun 19",
+    "amount": "£42,889.35",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships Jun 19",
+    "amount": "£51,788.29",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers Jun 19",
+    "amount": "£2,430.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Trailblazer Apprenticeships for employers Jun 19",
+    "amount": "£2,430.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping Jun 19",
+    "amount": "£2,430.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping Jun 19",
+    "amount": "-£225.90",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships Jun 19",
+    "amount": "£75,366.85",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers Jun 19",
+    "amount": "£19,566.85",
+    "remittanceID": 2
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) Jun 19",
+    "amount": "£25,866.85",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals Jun 19",
+    "amount": "£59,216.40",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) Jun 19",
+    "amount": "£77,388.30",
+    "remittanceID": 1
+  },
+  {
+    "date": "21 July 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping Jun 19",
+    "amount": "-£207.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) May 19",
+    "amount": "£114,952.72",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "AEAL-1126",
+    "budgetgroup": "Procured AEB",
+    "description": "Adult Skills Learner Support (Procured AEB) - profile June 19",
+    "amount": "£94,993.02",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "AEBR-1176",
+    "budgetgroup": "Procured AEB",
+    "description": "19 to 24 Traineeships (Procured AEB) - capping May 19",
+    "amount": "-£743.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme May 19",
+    "amount": "£11,495.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "16TR-1241",
+    "budgetgroup": "16-18 Traineeships",
+    "description": "16 to 18 Traineeships Programme - capping May 19",
+    "amount": "-£562.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "19 to 24 Traineeships (Non-procured AEB) - profile June 19",
+    "amount": "£205,307.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "AECA-1296",
+    "budgetgroup": "Non-Procured AEB",
+    "description": "Adult Skills and Community Learning (Non-procured AEB) May 19",
+    "amount": "£514,954.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ALLC-4314",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - profile June 19",
+    "amount": "£1,105.05",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary May 19",
+    "amount": "£4,632.26",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ALLB-4276",
+    "budgetgroup": "Advanced Learner Loans",
+    "description": "Advanced Learner Loans Bursary - capping May 19",
+    "amount": "-£56.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area May 19",
+    "amount": "£12,654.98",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ESF-5133",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 more-developed area May 19",
+    "amount": "678,102.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ESF-5899",
+    "budgetgroup": "European Social Fund",
+    "description": "ESF investment priority 1.1 transitional area - capping May 19",
+    "amount": "-£150.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships May 19",
+    "amount": "£27,590.15",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by co-investment May 19",
+    "amount": "£6,285.86",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "16 to 18 Levy Apprenticeships funded by ESFA May 19",
+    "amount": "£5,228.06",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for employers May 19",
+    "amount": "£3,200.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "LEVY-1720",
+    "budgetgroup": "Apprenticeships Levy",
+    "description": "19+ Levy Apprenticeships for individuals May 19",
+    "amount": "£7,100.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community May 19",
+    "amount": "6,907.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "NCSC-1088",
+    "budgetgroup": "National Careers Service",
+    "description": "NCS Community - capping May 19",
+    "amount": "-£23.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) May 19",
+    "amount": "£47,654.83",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships May 19",
+    "amount": "£57,542.54",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Non-Procured Non-Levy Apprenticeships for employers May 19",
+    "amount": "£2,700.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "19+ Trailblazer Apprenticeships for employers May 19",
+    "amount": "£2,700.00",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Apprenticeships (pre-May 2017) - capping May 19",
+    "amount": "£2,700.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "APPS-1114",
+    "budgetgroup": "Apprenticeships Carry-In",
+    "description": "16 to 18 Non-Procured Non-Levy Apprenticeships - capping May 19",
+    "amount": "-£251.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships May 19",
+    "amount": "£83,740.94",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for employers May 19",
+    "amount": "£21,740.94",
+    "remittanceID": 2
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships for individuals (employer on App Service) May 19",
+    "amount": "£28,740.94",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "YNLP-1147",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "16 to 18 Procured Non-Levy Apprenticeships - capping May 19",
+    "amount": "-£1,040.08",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships for individuals May 19",
+    "amount": "£65,796.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by co-investment (employer on App Service) May 19",
+    "amount": "£85,987.00",
+    "remittanceID": 1
+  },
+  {
+    "date": "17 June 2019",
+    "contractNumber": "ANLP-1146",
+    "budgetgroup": "Procured Non-Levy",
+    "description": "19+ Procured Non-Levy Apprenticeships funded by ESFA (employer on App Service) - capping May 19",
+    "amount": "-£230.00",
+    "remittanceID": 1
+  }
+]
