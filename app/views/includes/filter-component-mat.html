@@ -97,46 +97,19 @@
                 </fieldset>
             </div>
             <div class="govuk-form-group">
-                <fieldset class="govuk-fieldset">
-                    <h2 class="govuk-heading-m">Filter by academy</h2>
-                   <div class="govuk-checkboxes govuk-checkboxes--small">
-                       <div class="govuk-checkboxes__item">
-                           <input class="govuk-checkboxes__input" id="type-0" name="type" type="checkbox" value="0" checked>
-                           <label class="govuk-label govuk-checkboxes__label" for="type-0">
-                           All (154)
-                           </label>
-                        </div>
-                      <div class="govuk-checkboxes__item">
-                         <input class="govuk-checkboxes__input" id="type-1" name="type" type="checkbox" value="1" checked>
-                         <label class="govuk-label govuk-checkboxes__label" for="type-1">
-                         Alpha Academy (29)
-                         </label>
-                      </div>
-                      <div class="govuk-checkboxes__item">
-                         <input class="govuk-checkboxes__input" id="type-2" name="type" type="checkbox" value="2" checked>
-                         <label class="govuk-label govuk-checkboxes__label" for="type-2">
-                         Beta Academy (20)
-                         </label>
-                      </div>
-                      <div class="govuk-checkboxes__item">
-                         <input class="govuk-checkboxes__input" id="type-3" name="type" type="checkbox" value="3" checked>
-                         <label class="govuk-label govuk-checkboxes__label" for="type-3">
-                         Charlie Academy (35)
-                         </label>
-                      </div>
-                      <div class="govuk-checkboxes__item">
-                        <input class="govuk-checkboxes__input" id="type-4" name="type" type="checkbox" value="4" checked>
-                        <label class="govuk-label govuk-checkboxes__label" for="type-4">
-                        Delta Academy (40)
-                        </label>
-                     </div>
-                     <div class="govuk-checkboxes__item">
-                        <input class="govuk-checkboxes__input" id="type-5" name="type" type="checkbox" value="5" checked>
-                        <label class="govuk-label govuk-checkboxes__label" for="type-5">
-                        Echo Academy (30)
-                        </label>
-                     </div>
-                   </div>
+                <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
+                    <div class="govuk-form-group">
+                        <h2 class="govuk-heading-m">Filter by academy</h2>
+                          
+                        <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
+                                multiple name="byFundingGroup" placeholder="All academies" onload='reset_options()'>
+                            <option value=".Alpha-academy">Alpha academy</option>
+                            <option value=".Beta-academy">Beta academy</option>
+                            <option value=".Charlie-academy">Charlie academy</option>
+                            <option value=".Delta-academy">Delta academy</option>
+                            <option value=".Echo-academy">Echo academy</option>
+                        </select>
+                    </div>
                 </fieldset>
              </div>
             <div class="quicksearch govuk-form-group">
