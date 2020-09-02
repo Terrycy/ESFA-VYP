@@ -6,10 +6,22 @@
     "amount": "£631,556.85"
   },
   {
+    "academy": "Charlie academy",
+    "remittanceID": 3,
+    "date": "05 March 2019",
+    "amount": "£701,861.18"
+  },
+  {
     "academy": "Beta academy",
     "remittanceID": 2,
     "date": "05 April 2019",
     "amount": "£631,556.85"
+  },
+  {
+    "academy": "Charlie academy",
+    "remittanceID": 3,
+    "date": "05 April 2019",
+    "amount": "£190,203.91"
   },
   {
     "academy": "Beta academy",
@@ -18,40 +30,28 @@
     "amount": "£631,556.85"
   },
   {
+    "academy": "Charlie academy",
+    "remittanceID": 3,
+    "date": "05 May 2019",
+    "amount": "£190,203.91"
+  },
+  {
     "academy": "Beta academy",
     "remittanceID": 2,
     "date": "05 June 2019",
     "amount": "£631,556.85"
+  },
+  {
+    "academy": "Charlie academy",
+    "remittanceID": 3,
+    "date": "05 June 2019",
+    "amount": "£190,203.91"
   },
   {
     "academy": "Beta academy",
     "remittanceID": 2,
     "date": "05 July 2019",
-    "amount": "£631,556.85"
-  },
-  {
-    "academy": "Charlie academy",
-    "remittanceID": 3,
-    "date": "05 March 2019",
-    "amount": "£190,203.91"
-  },
-  {
-    "academy": "Charlie academy",
-    "remittanceID": 3,
-    "date": "05 April 2019",
-    "amount": "£190,203.91"
-  },
-  {
-    "academy": "Charlie academy",
-    "remittanceID": 3,
-    "date": "05 May 2019",
-    "amount": "£190,203.91"
-  },
-  {
-    "academy": "Charlie academy",
-    "remittanceID": 3,
-    "date": "05 June 2019",
-    "amount": "£190,203.91"
+    "amount": "£75,304.33"
   },
   {
     "academy": "Charlie academy",

@@ -6,93 +6,93 @@
     "amount": "£390,580.66"
   },
   {
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 March 2019",
+    "amount": "£955,455.20"
+  },
+  {
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 March 2019",
+    "amount": "£614,162.09"
+  },
+  {
     "academy": "Alpha academy",
     "remittanceID": 1,
     "date": "07 April 2019",
     "amount": "£488,521.91"
   },
   {
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
-    "amount": "£407,380.66"
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "07 April 2019",
+    "amount": "£574,163.15"
+  },
+  {
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "07 April 2019",
+    "amount": "£270,118.32"
+  },
+  {
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 May 2019",
+    "amount": "£631,965.42"
+  },
+  {
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 May 2019",
+    "amount": "£226,421.44"
   },
   {
     "academy": "Alpha academy",
     "remittanceID": 1,
     "date": "08 June 2019",
-    "amount": "£483,521.91"
+    "amount": "£488,521.91"
+  },
+  {
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "08 June 2019",
+    "amount": "£105,189.56"
+  },
+  {
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "08 June 2019",
+    "amount": "£204,309.69"
   },
   {
     "academy": "Alpha academy",
     "remittanceID": 1,
     "date": "04 July 2019",
+    "amount": "£77,879.56"
+  },
+  {
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "04 July 2019",
+    "amount": "£177,163.19"
+  },
+  {
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "04 July 2019",
+    "amount": "£225,421.44"
+  },
+  {
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 November 2019",
     "amount": "£483,521.91"
-  },
-  {
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 March 2019",
-    "amount": "£574,163.15"
-  },
-  {
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "07 April 2019",
-    "amount": "£633,598.78"
   },
   {
     "academy": "Delta academy",
     "remittanceID": 4,
     "date": "03 November 2019",
     "amount": "£483,083.59"
-  },
-  {
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 May 2019",
-    "amount": "£105,189.56"
-  },
-  {
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "08 June 2019",
-    "amount": "£105,189.56"
-  },
-  {
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "04 July 2019",
-    "amount": "£613,640.78"
-  },
-  {
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 March 2019",
-    "amount": "£202,322.69"
-  },
-  {
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "07 April 2019",
-    "amount": "£226,421.44"
-  },
-  {
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 May 2019",
-    "amount": "£206,309.69"
-  },
-  {
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "08 June 2019",
-    "amount": "£224,421.44"
-  },
-  {
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "04 July 2019",
-    "amount": "£201,421.44"
   }
 ]
