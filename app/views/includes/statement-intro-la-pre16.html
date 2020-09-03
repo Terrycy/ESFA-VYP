@@ -1,0 +1,23 @@
+<a href="#" onClick="history.go(0);" class="govuk-back-link">Back</a>
+<h1 class="govuk-heading-xl">
+    Payment details {{ "for" if remittanceAcademy}} {{remittanceAcademy | replace('-', ' ')}}
+    <span class="govuk-caption-xl">A list of transactions that made up this payment from the ESFA for {{remittanceDate | replace('-', ' ')}}</span>
+</h1>
+
+<details class="govuk-details" data-module="govuk-details">
+    <summary class="govuk-details__summary">
+        <span class="govuk-details__summary-text">
+            Help using this page
+        </span>
+    </summary>
+    <div class="govuk-details__text">
+        The payment details view shows the funding you have received into your bank from the ESFA for the date given above.<br>
+        The following details are displayed for each payment:
+        <ul>
+            <li><b>Budget group</b>: The budget group that your payment falls into.</li>
+            <li><b>Description</b>: What the transaction is for.</li>
+            <li><b>Amount</b>: The amount being paid for this transaction.</li>
+        </ul>
+        For more detailed information about this page, including budget groups and transactions descriptions, please read the <a href="#">View your payments guidance</a>
+    </div>
+</details>
