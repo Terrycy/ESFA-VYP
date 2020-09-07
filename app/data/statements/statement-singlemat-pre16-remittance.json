@@ -1,0 +1,17 @@
+[
+  {
+    "remittanceID": 1,
+    "date": "07 April 2019",
+    "amount": "£488,521.91"
+  },
+  {
+    "remittanceID": 2,
+    "date": "03 May 2019",
+    "amount": "£407,380.66"
+  },
+  {
+    "remittanceID": 3,
+    "date": "04 July 2019",
+    "amount": "£483,521.91"
+  }
+]

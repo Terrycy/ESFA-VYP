@@ -19,6 +19,7 @@ const remittanceDataSeptember = require('./app/data/statements/statement-LA-pre1
 const remittanceDataPost16September = require('./app/data/statements/statement-LA-post16-remittance.json')
 const remittanceDataMATSeptember = require('./app/data/statements/statement-mat-pre16-remittance.json')
 const remittanceDataMATPost16September = require('./app/data/statements/statement-mat-post16-remittance.json')
+const remittanceDataSingleMATSeptember = require('./app/data/statements/statement-singlemat-pre16-remittance.json')
 const statementDataLAPre16 = require('./app/data/statements/statement-LA-pre16-august20.json')
 const statementDataMATPost16 = require('./app/data/statements/statement-mat-post16-august20.json')
 const statementDataLAPost16 = require('./app/data/statements/statement-LA-post16-august20.json')
@@ -30,6 +31,7 @@ const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 const summarySeptemberData = require('./app/data/summary tables/summary-v2.0.0.json')
 const summaryLAPre16Data = require('./app/data/summary tables/summary-la-pre16.json')
 const summaryMATPre16Data = require('./app/data/summary tables/summary-mat-pre16.json')
+const summarySingleMATData = require('./app/data/summary tables/summary-singlemat.json')
 
 // Run before other code to make sure variables from .env are available
 dotenv.config()
@@ -99,12 +101,13 @@ const statementContentMATPre16 = Object.assign(statementDataMATPre16)
 const statementContentSingleMATPre16 = Object.assign(statementDataSingleMATPre16)
 const statementContentMATPost16 = Object.assign(statementDataMATPost16)
 const statementContentSeptember = Object.assign(statementDataSeptember)
-
+const remittanceContentSingleMATSeptember = Object.assign(remittanceDataSingleMATSeptember)
 
 const summaryContent = Object.assign(summaryData)
 const summarySeptemberContent = Object.assign(summarySeptemberData)
 const summaryLAPre16Content = Object.assign(summaryLAPre16Data)
 const summaryMATPre16Content = Object.assign(summaryMATPre16Data)
+const summarySingleMATContent = Object.assign(summarySingleMATData)
 
 useHttps = useHttps.toLowerCase()
 
@@ -242,6 +245,7 @@ app.locals.remittanceContentLASeptember = remittanceContentLASeptember
 app.locals.remittanceContentLAPost16September = remittanceContentLAPost16September
 app.locals.remittanceContentMATSeptember = remittanceContentMATSeptember
 app.locals.remittanceContentMATPost16September = remittanceContentMATPost16September
+app.locals.remittanceContentSingleMATSeptember = remittanceContentSingleMATSeptember
 app.locals.statementContentLAPre16 = statementContentLAPre16
 app.locals.statementContentLAPost16 = statementContentLAPost16
 app.locals.statementContentMATPre16 = statementContentMATPre16
@@ -252,6 +256,7 @@ app.locals.summaryContent = summaryContent
 app.locals.summarySeptemberContent = summarySeptemberContent
 app.locals.summaryLAPre16Content = summaryLAPre16Content
 app.locals.summaryMATPre16Content = summaryMATPre16Content
+app.locals.summarySingleMATContent = summarySingleMATContent
 app.locals.summaryTotal = config.summaryTotal
 
 

@@ -196,6 +196,13 @@ router.get('/v4.1/payment-history/remittance-statement/:remittanceAcademy/:remit
     'remittanceId': req.params.remittanceId,
   })
 })
+router.get('/v4.1/payment-history/remittance-statement/:remittanceDate/:remittanceId', function (req, res) {
+
+  res.render('v4.1.0/remittance-statement/index', {
+    'remittanceDate': req.params.remittanceDate,
+    'remittanceId': req.params.remittanceId,
+  })
+})
 
 // v4.2 fixed MATs
 router.get('/v4.2/vyp', function (req, res) {

@@ -3,7 +3,9 @@
 	<caption class="govuk-table__caption govuk-visually-hidden">Transactions</caption>
 	<thead class="govuk-table__head" class="sort">
 	<tr class="govuk-table__row btn-group" id="sorts2">
+		<th scope="col" class="govuk-table__header description" data-sort-value="description">Budget group</th>
 		<th scope="col" class="govuk-table__header description" data-sort-value="description">Description</th>
+
 		<th scope="col"
 		    class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold transactionAmount"
 		    data-sort-value="transactionAmount">Amount
@@ -12,10 +14,11 @@
 	</thead>
 	<tbody class="govuk-table__body no-transition tb-data isotope" id="isotope2">
   
-	{% for item in remittanceContentMATS %}
+	{% for item in statementContentSingleMATPre16 %}
   {% set remittanceDateString = remittanceDate | replace('-', ' ') %}
     {% if remittanceDateString === item.date and remittanceId == item.remittanceID  %}
     <tr class="govuk-table__row grid-item">
+		<td class="govuk-table__cell budgetgroup">{{item.budgetgroup}}</td>
       <td class="govuk-table__cell description">{{item.description}}</td>
       <td class="govuk-table__cell govuk-table__cell--numeric transactionAmount">{{item.amount}}</td>
     </tr>

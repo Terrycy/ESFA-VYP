@@ -7,7 +7,7 @@
     </thead>
     <tbody class="govuk-table__body" id="transaction-table">
 
-    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContentMATSFilter) %}
+    {% set remittanceData = remittanceBuilder.mapRemittanceData(remittanceContentSingleMATSeptember) %}
 
     {% for item in remittanceData %}
 
@@ -19,7 +19,7 @@
             </td>
             
             <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
-                <a href="payment-history/remittance-statement/{{item.academy | replace(' ', '-')}}/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>
+                <a href="payment-history/remittance-statement/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>
             </td>
         </tr>
 
