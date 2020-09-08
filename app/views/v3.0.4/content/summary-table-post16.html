@@ -1,0 +1,82 @@
+<div class="govuk-accordion" data-module="govuk-accordion" id="transaction-summary-accordion">
+    <div class="govuk-accordion__section ">
+        <div class="govuk-accordion__section-header">
+
+            <h2 class="govuk-accordion__section-heading govuk-heading-m">
+                <span class="govuk-accordion__section-button govuk-link govuk-link--no-visited-state"
+                      id="transaction-summary-accordion-heading-1">Total funding received <span
+                        id="filterTotal"></span></span>
+            </h2>
+            <div class="govuk-accordion__section-summary govuk-body" id="transaction-summary-accordion-summary-1">
+                Expand this table to view funding received for each budget group based on your applied filters.
+            </div>
+        </div>
+        <div id="transaction-summary-accordion-content-1" class="govuk-accordion__section-content"
+             aria-labelledby="transaction-summary-accordion-heading-1">
+            <table class="govuk-table govuk-table-striped sortable">
+                <caption class="govuk-table__caption">Budget group summary
+                    <details class="govuk-details" data-module="govuk-details">
+                        <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+What is this?
+    </span>
+                        </summary>
+                        <div class="govuk-details__text">
+                            This table shows how the funding you have received from the ESFA is split across the different budget groups for the date ranges selected.  For a full explanation of what is contained in these budget groups, including contract allocation numbers please read <a href="https://s134d02-vyp-web-as-01.dev-sfa.co.uk/manage-funding/payments/Content/PaymentHelpGuidelines#budget-group">Your budget groups</a>
+                        </div>
+                    </details>
+                </caption>
+                <thead class="govuk-table__head">
+                <tr class="govuk-table__row">
+                    <th scope="col" class="govuk-table__header sorttable_nosort">Budget</th>
+                    <th scope="col" class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold sorttable_nosort">
+                        Amount
+                    </th>
+                    <th scope="col" class="govuk-table__header sorttable_nosort">Budget</th>
+                    <th scope="col" class="govuk-table__header govuk-table__cell--numeric govuk-!-font-weight-bold sorttable_nosort">
+                        Amount
+                    </th>
+                </tr>
+                </thead>
+                <tbody class="govuk-table__body">
+                {% set cls = cycler("odd", "even") %}
+                {% for item in summaryMATPost16Content %}
+
+                <!-- iterate through odd items so we can close the end row -->
+                {% if cls.next() == "odd" %}
+                <tr class="govuk-table__row">
+                    <td class="govuk-table__cell">{{item.fundingGroup}}
+                    </td>
+                    <td class="govuk-table__cell govuk-table__cell--numeric ">{{item.amount}}</td>
+                    {% if loop.last %}
+                    <td class="govuk-table__cell"></td>
+                    <td class="govuk-table__cell"></td>
+                </tr>
+                <!--                <tr class="govuk-table__row totals-row">-->
+                <!--                    <td class="govuk-table__cell" colspan="2">Total for above (will do logic for dates)</td>-->
+                <!--                    <td class="govuk-table__cell govuk-table__cell&#45;&#45;numeric" colspan="2">{{item.subtotal}}</td>-->
+                <!--                </tr>-->
+                {% endif %}
+
+                {% else %}
+                <td class="govuk-table__cell">{{item.fundingGroup}}</td>
+                <td class="govuk-table__cell govuk-table__cell--numeric">{{item.amount}}</td>
+                </tr>
+                {% endif %}
+
+
+                {% else %}
+                <tr class="govuk-table__row">
+                    <td class="govuk-table__cell" colspan="2"></td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            <div class-='pagination'>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+

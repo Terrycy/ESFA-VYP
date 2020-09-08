@@ -1,44 +1,47 @@
 [
   {
-    "fundingGroupShort": "16-18 Traineeships",
     "fundingGroup": "16-18 Traineeships",
     "amount": "£45,793.45",
-    "subtotal": "£45,793.45"
+    "subtotal": "£32,411,432.86"
   },
   {
-    "fundingGroupShort": "Advanced Learner Loans",
     "fundingGroup": "Advanced Learner Loans",
-    "amount": "£23,577.44",
-    "subtotal": "£23,577.44"
+    "amount": "£23,577.45",
+    "subtotal": "£61,017,958.09"
   },
   {
-    "fundingGroupShort": "Apprenticeships Carry-In",
     "fundingGroup": "Apprenticeships Carry-In",
-    "amount": "£467,305.69",
-    "subtotal": "£467,305.69"
+    "amount": "£448,945.70",
+    "subtotal": "£134,649,257.49"
   },
   {
-    "fundingGroupShort": "Apprenticeships Levy",
     "fundingGroup": "Apprenticeships Levy",
-    "amount": "£205,026.89",
-    "subtotal": "£205,026.89"
+    "amount": "£205,026.90",
+    "subtotal": "£115,331,580.75"
   },
   {
-    "fundingGroupShort": "Non-Procured AEB",
+    "fundingGroup": "European Social Fund",
+    "amount": "£2,244,585.19",
+    "subtotal": "£45,581,049.62"
+  },
+  {
+    "fundingGroup": "National Careers Service",
+    "amount": "£28,612.30",
+    "subtotal": "£38,327,650.71"
+  },
+  {
     "fundingGroup": "Non-Procured AEB",
-    "amount": "£2,989,083.15",
-    "subtotal": "£2,989,083.15"
+    "amount": "£868,860.08",
+    "subtotal": "£46,579,312.72"
   },
   {
-    "fundingGroupShort": "Procured AEB",
     "fundingGroup": "Procured AEB",
-    "amount": "£868,860.07",
-    "subtotal": "£868,860.07"
+    "amount": "£868,860.08",
+    "subtotal": "£46,579,312.72"
   },
   {
-    "fundingGroupShort": "Procured Non-Levy",
     "fundingGroup": "Procured Non-Levy",
-    "amount": "£1,183,369.45",
-    "subtotal": "£1,183,369.45"
+    "amount": "£1,183,369.48",
+    "subtotal": "£158,886,312.40"
   }
 ]

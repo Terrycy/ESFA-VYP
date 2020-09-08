@@ -19,7 +19,7 @@
                 <span class="amount govuk-body">{{item.transactionAmount | float | currency('£')}}</span>
             </td>
             <td scope="row" class="govuk-table__cell academyName">
-                <span class="fundingGroup">{{item.academy}}</span>
+                <span class="academy">{{item.academy}}</span>
             </td>
             <td class="govuk-table__cell govuk-table__cell--numeric govuk-table__cell--bottom">
                 <a href="payment-history/remittance-statement/{{item.academy | replace(' ', '-')}}/{{item.transactionDate | replace(' ', '-')}}/{{item.remittanceID}}">View payment details</a>

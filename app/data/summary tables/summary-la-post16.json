@@ -1,0 +1,27 @@
+[
+  {
+    "fundingGroupShort": "Apprenticeship (Employer on App service) Levy",
+    "fundingGroup": "Apprenticeship (Employer on App service) Levy",
+    "amount": "£207,565.00"
+  },
+  {
+    "fundingGroupShort": "Apprenticeships Carry-in",
+    "fundingGroup": "Apprenticeships Carry-in",
+    "amount": "£78,075.00"
+  },
+  {
+    "fundingGroupShort": "Non-procured AEB",
+    "fundingGroup": "Non-procured AEB",
+    "amount": "£128,910.00"
+  },
+  {
+    "fundingGroupShort": "Other",
+    "fundingGroup": "Other",
+    "amount": "£745,930.00"
+  },
+  {
+    "fundingGroupShort": "Procured Non-Levy Apprenticeships",
+    "fundingGroup": "Procured Non-Levy Apprenticeships",
+    "amount": "£21,435.00"
+  }
+]

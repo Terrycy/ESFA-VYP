@@ -100,7 +100,7 @@
                 <fieldset class="govuk-reset-fieldset govuk-grid-column-one-half" role="group">
                     <div class="govuk-form-group">
                         <h2 class="govuk-heading-m">Filter by academy</h2>
-                        <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="fundingGroup"
+                        <select class="govuk-select multipleSelect" id="byFundingGroup" data-filter-group="academy"
                                 multiple name="byFundingGroup" placeholder="All academies" onload='reset_options()'>
                             <option value=".Alpha-academy">Alpha academy</option>
                             <option value=".Delta-academy">Delta academy</option>
@@ -113,9 +113,9 @@
                 <h2 class="govuk-heading-m">Filter by transaction description</h2>
                 <span class="govuk-hint">
                     Begin typing, and either add from the list that appears or apply your own keywords. You can add multiple terms.</span>
-                <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
-                        id="quickSearch" name="quick-search"
-                        type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-MATs-descriptions-fastselect.json">
+                    <input class="govuk-input govuk-grid-column-full multipleSelect" data-user-option-allowed="true" placeholder=" "
+                    id="quickSearch" name="quick-search"
+                    type="text" data-filter-group="description" multiple data-url="/public/data/filters/contract-singleMATs-descriptions-fastselect.json">
     
             </div>
               
