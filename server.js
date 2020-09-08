@@ -30,6 +30,7 @@ const statementDataSeptember = require('./app/data/statements/statement-septembe
 const summaryData = require('./app/data/summary tables/summary-v1.0.0.json')
 const summarySeptemberData = require('./app/data/summary tables/summary-v2.0.0.json')
 const summaryLAPre16Data = require('./app/data/summary tables/summary-la-pre16.json')
+const summaryLAPost16Data = require('./app/data/summary tables/summary-la-post16.json')
 const summaryMATPre16Data = require('./app/data/summary tables/summary-mat-pre16.json')
 const summarySingleMATData = require('./app/data/summary tables/summary-singlemat.json')
 
@@ -106,6 +107,7 @@ const remittanceContentSingleMATSeptember = Object.assign(remittanceDataSingleMA
 const summaryContent = Object.assign(summaryData)
 const summarySeptemberContent = Object.assign(summarySeptemberData)
 const summaryLAPre16Content = Object.assign(summaryLAPre16Data)
+const summaryLAPost16Content = Object.assign(summaryLAPost16Data)
 const summaryMATPre16Content = Object.assign(summaryMATPre16Data)
 const summarySingleMATContent = Object.assign(summarySingleMATData)
 
@@ -255,6 +257,7 @@ app.locals.statementContentSeptember = statementContentSeptember
 app.locals.summaryContent = summaryContent
 app.locals.summarySeptemberContent = summarySeptemberContent
 app.locals.summaryLAPre16Content = summaryLAPre16Content
+app.locals.summaryLAPost16Content = summaryLAPost16Content
 app.locals.summaryMATPre16Content = summaryMATPre16Content
 app.locals.summarySingleMATContent = summarySingleMATContent
 app.locals.summaryTotal = config.summaryTotal
