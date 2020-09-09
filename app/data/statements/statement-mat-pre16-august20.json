@@ -1,5 +1,6 @@
 [
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -10,26 +11,7 @@
     "amount": "£9,750.00"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£4,000.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£1,420.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -40,16 +22,7 @@
     "amount": "£380,837.66"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£2,587.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -60,26 +33,7 @@
     "amount": "£9,750.00"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£4,000.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£1,420.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -90,86 +44,29 @@
     "amount": "£380,837.66"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£2,587.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£97,941.25"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
+    "date": "03 May 2019",
     "budgetgroup": "GAG",
     "contractNumber": "AC100-316978",
     "description": "Other Factors",
     "amount": "£9,750.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
-    "date": "03 November 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£4,000.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£1,420.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
+    "date": "03 May 2019",
     "budgetgroup": "GAG",
     "contractNumber": "AC100-316978",
     "description": "Pupil Led Factors",
     "amount": "£380,837.66"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£2,587.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "03 November 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£16,800.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -180,26 +77,7 @@
     "amount": "£4,750.00"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£4,000.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£1,420.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -210,26 +88,7 @@
     "amount": "£380,837.66"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£2,587.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£97,941.25"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -240,26 +99,7 @@
     "amount": "£9,750.00"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Pre 16 High Needs",
-    "amount": "£4,000.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-316978",
-    "description": "Acad Risk Protection",
-    "amount": "-£1,420.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Alpha academy",
     "remittanceID": 1,
@@ -270,26 +110,7 @@
     "amount": "£380,837.66"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£2,587.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Alpha academy",
-    "remittanceID": 1,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£92,941.25"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -300,6 +121,7 @@
     "amount": "£483,083.59"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -310,16 +132,7 @@
     "amount": "£9,918.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£8,818.97"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -330,6 +143,7 @@
     "amount": "£1,500.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -340,16 +154,7 @@
     "amount": "£75,843.17"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£2,196.67"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -360,16 +165,7 @@
     "amount": "£1,633.36"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£13,200.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -380,6 +176,7 @@
     "amount": "£483,083.59"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -390,16 +187,7 @@
     "amount": "£9,918.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£8,818.97"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -410,6 +198,7 @@
     "amount": "£1,500.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -420,16 +209,7 @@
     "amount": "£75,843.17"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£2,196.67"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -440,26 +220,18 @@
     "amount": "£1,633.36"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£72,635.63"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 November 2019",
+    "date": "03 May 2019",
     "budgetgroup": "GAG",
     "contractNumber": "AC100-304612",
     "description": "Pupil Led Factors",
     "amount": "£483,083.59"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -470,16 +242,7 @@
     "amount": "£9,918.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£8,818.97"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -490,6 +253,7 @@
     "amount": "£1,500.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -500,16 +264,7 @@
     "amount": "£75,843.17"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£2,196.67"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -520,16 +275,7 @@
     "amount": "£1,633.36"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£27,310.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -540,6 +286,7 @@
     "amount": "£483,083.59"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -550,16 +297,7 @@
     "amount": "£9,918.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£8,818.97"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -570,6 +308,7 @@
     "amount": "£1,500.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -580,16 +319,7 @@
     "amount": "£45,843.17"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£2,196.67"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -600,16 +330,7 @@
     "amount": "£1,633.36"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£72,635.63"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -620,6 +341,7 @@
     "amount": "£463,083.59"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -630,16 +352,7 @@
     "amount": "£9,918.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "MFG",
-    "amount": "-£8,818.97"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -650,6 +363,7 @@
     "amount": "£1,500.00"
   },
   {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -660,16 +374,7 @@
     "amount": "£75,843.17"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-304612",
-    "description": "Acad Risk Protection",
-    "amount": "-£2,154.67"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Delta academy",
     "remittanceID": 4,
@@ -680,26 +385,7 @@
     "amount": "£1,633.36"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Delta academy",
-    "remittanceID": 4,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Universal Infant Free School Meal Funding",
-    "amount": "£72,635.63"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£13,608.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -710,26 +396,7 @@
     "amount": "£22,916.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£1,637.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£745.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -740,26 +407,7 @@
     "amount": "£163,340.02"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 March 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "FSM Supplementary Grants Academies",
-    "amount": "£4,840.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£13,608.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -770,26 +418,7 @@
     "amount": "£22,916.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£1,637.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£745.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -800,26 +429,7 @@
     "amount": "£163,340.02"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "07 April 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Primary PE and Sport Premium",
-    "amount": "£28,938.75"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£13,608.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -830,26 +440,7 @@
     "amount": "£22,916.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£1,637.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£745.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -860,26 +451,7 @@
     "amount": "£163,340.02"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "03 May 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Teacher Pay Grant Academies",
-    "amount": "£8,827.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£11,608.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -890,26 +462,7 @@
     "amount": "£22,916.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£1,637.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£745.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -920,26 +473,7 @@
     "amount": "£163,340.02"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "08 June 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
-    "amount": "£28,938.75"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
-    "amount": "£12,608.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -950,26 +484,7 @@
     "amount": "£22,916.67"
   },
   {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "(blank)",
-    "description": "Loan repayments",
-    "amount": "-£1,637.00"
-  },
-  {
-    "matName": "UMP academy trust",
-    "academy": "Echo academy",
-    "remittanceID": 5,
-    "date": "04 July 2019",
-    "budgetgroup": "Other",
-    "contractNumber": "AC100-318221",
-    "description": "Acad Risk Protection",
-    "amount": "-£745.00"
-  },
-  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,
@@ -980,6 +495,590 @@
     "amount": "£143,340.02"
   },
   {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£97,941.25"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£16,800.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
+    "amount": "£97,941.25"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Pre 16 High Needs",
+    "amount": "£4,000.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-316978",
+    "description": "Acad Risk Protection",
+    "amount": "-£1,420.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£2,587.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Alpha academy",
+    "remittanceID": 1,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Universal Infant Free School Meal Funding",
+    "amount": "£92,941.25"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£8,818.97"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£2,196.67"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£13,200.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£8,818.97"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£2,196.67"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£72,635.63"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£8,818.97"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£2,196.67"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£27,310.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£8,818.97"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£2,196.67"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
+    "amount": "£72,635.63"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "MFG",
+    "amount": "-£8,818.97"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-304612",
+    "description": "Acad Risk Protection",
+    "amount": "-£2,154.67"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Delta academy",
+    "remittanceID": 4,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Universal Infant Free School Meal Funding",
+    "amount": "£72,635.63"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£13,608.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£1,637.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£745.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 March 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "FSM Supplementary Grants Academies",
+    "amount": "£4,840.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£13,608.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£1,637.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£745.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "07 April 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Primary PE and Sport Premium",
+    "amount": "£28,938.75"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£13,608.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£1,637.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£745.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "03 May 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Teacher Pay Grant Academies",
+    "amount": "£8,827.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£11,608.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£1,637.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£745.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "08 June 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Acad Pupil Premium - Pupil Premium Q4 - Pupil Premium Q4-Pupil Premium Q4",
+    "amount": "£28,938.75"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Rates Relief - Rates 19/20 Claim - Rates 19/20 Claim-Rates 19/20 Claim",
+    "amount": "£12,608.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "(blank)",
+    "description": "Loan repayments",
+    "amount": "-£1,637.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
+    "matName": "UMP academy trust",
+    "academy": "Echo academy",
+    "remittanceID": 5,
+    "date": "04 July 2019",
+    "budgetgroup": "Other",
+    "contractNumber": "AC100-318221",
+    "description": "Acad Risk Protection",
+    "amount": "-£745.00"
+  },
+  {
+    "Provider type": "pre-16 MAT",
     "matName": "UMP academy trust",
     "academy": "Echo academy",
     "remittanceID": 5,

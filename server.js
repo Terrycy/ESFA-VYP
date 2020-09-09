@@ -32,6 +32,7 @@ const summarySeptemberData = require('./app/data/summary tables/summary-v2.0.0.j
 const summaryLAPre16Data = require('./app/data/summary tables/summary-la-pre16.json')
 const summaryLAPost16Data = require('./app/data/summary tables/summary-la-post16.json')
 const summaryMATPre16Data = require('./app/data/summary tables/summary-mat-pre16.json')
+const summaryMATPost16Data = require('./app/data/summary tables/summary-mat-post16.json')
 const summarySingleMATData = require('./app/data/summary tables/summary-singlemat.json')
 
 // Run before other code to make sure variables from .env are available
@@ -109,6 +110,7 @@ const summarySeptemberContent = Object.assign(summarySeptemberData)
 const summaryLAPre16Content = Object.assign(summaryLAPre16Data)
 const summaryLAPost16Content = Object.assign(summaryLAPost16Data)
 const summaryMATPre16Content = Object.assign(summaryMATPre16Data)
+const summaryMATPost16Content = Object.assign(summaryMATPost16Data)
 const summarySingleMATContent = Object.assign(summarySingleMATData)
 
 useHttps = useHttps.toLowerCase()
@@ -259,6 +261,7 @@ app.locals.summarySeptemberContent = summarySeptemberContent
 app.locals.summaryLAPre16Content = summaryLAPre16Content
 app.locals.summaryLAPost16Content = summaryLAPost16Content
 app.locals.summaryMATPre16Content = summaryMATPre16Content
+app.locals.summaryMATPost16Content = summaryMATPost16Content
 app.locals.summarySingleMATContent = summarySingleMATContent
 app.locals.summaryTotal = config.summaryTotal
 
